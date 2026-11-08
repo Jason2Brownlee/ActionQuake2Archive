@@ -25,7 +25,7 @@ Release Date | File | Description
 19980518 | actn91cl.exe<br>actn91cl.zip | AQ2 v0.91
 1998???? | actn92cl.exe<br>actn92cl.zip | AQ2 v0.92
 19980623 | [actn93cl.exe](bin/actn93cl.exe) | AQ2 v0.93
-19980720 | ? | AQ2 Server v0.94
+19980720 | ? | AQ2 v0.94
 19980815 | [actn95cl.exe](bin/actn95cl.exe)<br>actn95cl.zip | AQ2 v0.95
 19980819 | ? | AQ2 v0.95a
 19980908 | actn98up.zip | AQ2 v0.98
@@ -35,7 +35,7 @@ Release Date | File | Description
 19981002 | [actn10c.zip](bin/actn10c.zip) | AQ2 v1.0c
 19981021 | [actn101b2.zip](bin/actn101b2.zip)<br>[actn101b2-linux.tgz](bin/actn101b2-linux.tgz) | AQ2 v1.1 beta 2
 19981114 | [actn1Cup.exe](bin/actn1Cup.exe)<br>[actn1Cup.zip](bin/actn1Cup.zip)<br>[actn1Ccl.exe](bin/actn1Ccl.exe)<br>[actn1Ccl.zip](bin/actn1Ccl.zip) | AQ2 v1.0c Update
-19981114 | [vwepfix.exe](bin/vwepfix.exe)<br>[vwepfix.zip](bin/vwepfix.zip) AQ2 v1.0c VWeapon Fix
+19981114 | [vwepfix.exe](bin/vwepfix.exe)<br>[vwepfix.zip](bin/vwepfix.zip) | AQ2 v1.0c VWeapon Fix
 19981119 | [1cCLfix.exe](bin/1cCLfix.exe)<br>[1cCLfix.zip](bin/1cCLfix.zip) | AQ2 v1.0c Fix
 19990213 | [as-1.5-x86-win32.zip](bin/as-1.5-x86-win32.zip)<br>[as-1.5-x86-linux.tar.gz](bin/as-1.5-x86-linux.tar.gz)<br>[as-1.5.tar.gz](bin/as-1.5.tar.gz) | AQ2 Server v1.5
 19990317 | [as-1.51-x86-win32.zip](bin/as-1.51-x86-win32.zip)<br>[as-1.51-x86-linux.tar.gz](bin/as-1.51-x86-linux.tar.gz)<br>[as-1.51.tar.gz](bin/as-1.51.tar.gz) | AQ2 Server v1.51
