@@ -8,6 +8,10 @@ Action Quake II (AQ2) is a third-party modification of the 1997 computer game Qu
 
 Action Quake 2 is a fast-paced Quake II mod that introduced realistic modern weaponry, tactical movement mechanics like bleeding and bandaging, and movie-inspired action gameplay that laid the foundation for the tactical shooter genre.
 
+From the readme:
+
+> Action Quake2 is a DM mod designed along the lines of a good action movie. No BFGs or rapid fire rocket launchers here,  and not a plasma weapon or laser gun in sight. What we DO have is a mod where stealth and strategy pay off more than the the ability to shoot yourself in the feet with a BFG.
+
 This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all versions of all Action Quake 2 in their original distributed form.
 
 Read the reconstructed history of the mod releases here:
