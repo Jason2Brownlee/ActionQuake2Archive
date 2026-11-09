@@ -1121,7 +1121,6 @@ New in v1.0 (!)
 Released as `actn10b.zip` on September 28 1998.
 
 
-
 ## v1.0c
 
 Released as `actn10c.zip` on September 29 1998.
@@ -1151,8 +1150,49 @@ Action Quake2 version 1.0c includes the following:
  *    More things I'm forgetting
 ```
 
+## v1.1 beta 2
 
+Released as `actn101b2.zip` on October 20 1998.
 
+Contents of `actn101b2.zip`:
+
+```text
+-rw-rw-r--  0 0      0      258048 20 Oct  1998 gamex86.dll
+```
+
+## v1.1 beta 2 Linux
+
+Released as `actn101b2-linux.tgz` on October 21 1998.
+
+Contents of `actn101b2-linux.tgz`:
+
+```text
+-rw-rw-r--  0 siris  siris  462897 21 Oct  1998 gamei386.so
+-rw-r--r--  0 root   root      501 21 Oct  1998 readme
+```
+
+Changelog from readme:
+
+```text
+Greetings AQ2 users.
+
+This is a bug-fix-only release with only a very partial (Only two things
+meant for 1.1) implementation of things that will be in 1.1 final
+
+New things to know:
+
+sv_roundtimelimit
+	This is a number, in minutes, defining how long a round will last.
+	The winning team is chosen based on health, number, a random factor
+	and how long they've been sitting in the area of a map (No campers)
+
+Enjoy.
+
+Send bugs only to siris@coolnet.net, send suggestions to
+wesuck@microsoft.com.
+
+Siris
+```
 
 
 ## References
