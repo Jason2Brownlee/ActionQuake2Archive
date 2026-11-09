@@ -33,6 +33,9 @@ http://www.telefragged.com/mirrors/mirror.pl?action/ver92adl.zip
 # ver93dll.zip
 http://www.telefragged.com/mirrors/mirror.pl?action/ver93dll.zip
 
+# gamei386.so.gz
+http://www.telefragged.com/mirrors/mirror.pl?action/gamei386.so.gz
+
 # ver94dll.zip
 ftp://ftp.epix.net/pub/telefragged/action/ver94dll.zip
 ftp://ftp.saix.net/pub/telefragged/action/ver94dll.zip

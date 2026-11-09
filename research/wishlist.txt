@@ -37,6 +37,7 @@ actn92cl.zip
 ver92adl.zip
 
 ver93dll.zip
+#gamei386.so.gz
 
 ver94dll.zip
 ver94lnx.zip

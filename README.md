@@ -31,10 +31,14 @@ Release Date | File | Description
 19980406 | ver87dll.zip | AQ2 v0.87
 19980416 | ? | AQ2 v0.89
 19980517 | [actn91cl.zip](bin/actn91cl.zip)<br>v8X-v91.zip | AQ2 v0.91
-19980527 | actn92cl.exe<br>ver92dll.zip | AQ2 v0.92
-19980531 | ver92adl.zip | AQ2 v0.92a
+19980527 | actn92cl.exe | AQ2 v0.92
+19980528 | ver92dll.zip | AQ2 v0.92 DLL
+19980531 | ver92adl.zip | AQ2 v0.92a Fix 1
+19980531 | ver92adl.zip | AQ2 v0.92a Fix 2
 19980622 | [actn93cl.exe](bin/actn93cl.exe)<br>ver93dll.zip | AQ2 v0.93
-19980719 | ver94dll.zip<br>ver94lnx.zip | AQ2 v0.94
+19980627 | gamei386.so.gz | AQ2 v0.93 Linux
+19980719 | ver94dll.zip | AQ2 v0.94
+19980725 | ver94lnx.zip | AQ2 v0.94 Linux
 19980815 | [actn95cl.exe](bin/actn95cl.exe)<br>actn95cl.zip<br>ver95dll.zip | AQ2 v0.95
 19980819 | ver95adl.zip | AQ2 v0.95a
 19980908 | actn98up.zip | AQ2 v0.98

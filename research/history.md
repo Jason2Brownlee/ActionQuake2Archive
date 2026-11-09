@@ -240,6 +240,200 @@ drwxrwxr-x  0 0      0           0  3 Apr  1998 female/
 -rw-rw-r--  0 0      0      397312 17 May  1998 gamex86.dll
 ```
 
+## v0.92
+
+Released as `actn92cl.exe` on May 27 1998.
+
+Mentioned on the Action Quake 2 homepage:
+
+> Wednesday - May 27, 1998 - Cail (12:00 Noon CST)
+>
+> Version .92 is out!\
+> Here is the installation plan. Purge your current action directory, (save .cfg files or whatever of course), and start new. We have replaced basically every file, so there is no point to an 'update', the difference would only be a couple 100k anyway. The new file is actn92cl.EXE! This is a good thing, just run it, it will have a directory prompt, with a default of C:\Quake2. Now use common sense, and type in the path of you quake2 directory (not action!), it will auomatically install to an action directory if you just type your Drive:\Quake2
+> Got that? The 3 maps and the new skins are all included in the zip, so you can check me out or whatever you want. The rest of the stuff is in the pak0.pak. You NEED to remove the old stuff, especially pak1.pak and any directories, if you want this to work.
+
+-- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+Changelog from later readmes:
+
+> New in v.92
+>
+> * The sniper rifle is now much, much more accurate!
+> * The two grenades bug (would fire two grenades when you die sometimes) is now fixed.
+> * Dropping the sniper rifle while using it no longer causes "problems"
+> * The jump kick has been tweaked.  You will no longer be "kicked back" by stationary targets.
+
+## v0.92 DLL
+
+Released as `ver92dll.zip` on May 28 1998.
+
+This release included just the DLL from the v0.92 release.
+
+Mentioned on the Action Quake 2 homepage:
+
+> Thursday - May 28, 1998 - Cail (5:55 PM CST)
+>
+> Post-release update: Here is ver92dll.zip, for those who just want the .dll. This is the exact same dll as the one in actn92cl.exe, so if you already grabbed the update, don't bother. Remember that it won't nescessarily be at all the mirrors instantly, it takes a while to spread out, so don't email me unless its corrupt or not showing up at even telefragged!
+
+-- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+## v0.92 Fix 1
+
+Released as `ver92adl.zip` on May 31 1998.
+
+Mentioned on the Action Quake 2 homepage:
+
+> Sunday - May 31, 1998 - Cail (1:20 PM CST)
+>
+> Here is ver92adl.zip, the v.92a upgrade to fix the 3.15 compatibility issues (head bobbing), as well as an annoying bug involving dropping weapons while using grenades. Its server side only, so unless you run a server, you don't need it. BTW, just unzip this .zip into you \action
+
+-- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+## v0.92 Fix 2
+
+Released as `ver92adl.zip` (same filename as fix 1) on May 31 1998.
+
+Mentioned on the Action Quake 2 homepage:
+
+> Sunday - May 31, 1998 - Cail (4:20 PM CST)
+>
+> We screwed up, the ver92adl.zip that was on here was b0rked, but the one that is up now works fine. It was cycling to a map that didn't exist, so make sure if you downloaded before THIS update that you get the new one, same link.
+
+-- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+## v0.93
+
+Released as `actn93cl.exe` and `ver93dll.zip` on June 22 1998.
+
+Mentioned on the Action Quake 2 homepage:
+
+> Monday - June 22, 1998 - Cail (11:25 PM CST)
+>
+> Time to see those new models in 'Action'. Grab the new client (had to happen, sorry) here, actn93cl.exe, and unzip it directly to your quake2 directory.. If you just want the dll, its here, ver93dll.zip. New features include, but are not limited to:
+
+-- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+Changelog from readme:
+
+> New in v.93
+>
+> * The new models from Gooseman have been implemented!
+> 	- New names for most of the weapons.
+> 	- The weapons act a mite differently.  You must reload now when you run out of ammo, and are able to reload the shotgun one shell at a time.  Also, the ammo counts for the weapons have been changed to reflect real life (!) guns.
+> 	- The weapons eject shells now - The server may turn this off by typing "shelloff 1" into the console if this hinders net play.
+> 	- The sniper rifle has a model now that is in view when not looking in the scope.  Also, it should be more accurate - about as accurate as v.91 and a half before we mucked it up.
+> * You are now limited to holding one grenade - which is a mite less powerful than before.  (it still packs a wopper though)
+> * The version logs will now contain many instances of the word "mite."
+
+Contents of `actn93cl.exe`:
+
+```text
+drwxrwxr-x  0 0      0           0 22 Jun  1998 action/
+drwxrwxr-x  0 0      0           0 22 Jun  1998 action/maps/
+-rw-rw-r--  0 0      0     1679556 25 May  1998 action/maps/office3.bsp
+-rw-rw-r--  0 0      0        2461 25 May  1998 action/maps/office3.txt
+-rw-rw-r--  0 0      0     3748516 25 May  1998 action/maps/prison76.bsp
+-rw-rw-r--  0 0      0        1851 25 May  1998 action/maps/prison76.txt
+-rw-rw-r--  0 0      0        1556 26 May  1998 action/maps/mall1.txt
+-rw-rw-r--  0 0      0     2428904 26 May  1998 action/maps/mall1.bsp
+-rw-rw-r--  0 0      0     1344384 20 Jun  1998 action/maps/basev28.bsp
+-rw-rw-r--  0 0      0        1005 17 Jun  1998 action/maps/hostage.txt
+-rw-rw-r--  0 0      0      781316 19 Jun  1998 action/maps/hostage.bsp
+drwxrwxr-x  0 0      0           0 22 Jun  1998 action/players/
+drwxrwxr-x  0 0      0           0 22 Jun  1998 action/players/male/
+-rw-rw-r--  0 0      0        8480 10 Apr  1998 action/players/male/bluebeard.pcx
+-rw-rw-r--  0 0      0        1706 22 Mar  1998 action/players/male/bluebeard_i.pcx
+-rw-rw-r--  0 0      0       11599 10 Apr  1998 action/players/male/chow.pcx
+-rw-rw-r--  0 0      0        1944 22 Mar  1998 action/players/male/chow_i.pcx
+-rw-rw-r--  0 0      0       61661 27 Nov  1997 action/players/male/commando.pcx
+-rw-rw-r--  0 0      0        2017  3 Apr  1998 action/players/male/commando_i.pcx
+-rw-rw-r--  0 0      0       38912 27 Nov  1997 action/players/male/weapon.md2
+-rw-rw-r--  0 0      0      278592 27 Nov  1997 action/players/male/tris.md2
+-rw-rw-r--  0 0      0        1773 27 May  1998 action/players/male/cyrus_i.pcx
+-rw-rw-r--  0 0      0        2156 27 May  1998 action/players/male/indy_i.pcx
+-rw-rw-r--  0 0      0       26461 26 May  1998 action/players/male/sabotage.pcx
+-rw-rw-r--  0 0      0       11110  5 Apr  1998 action/players/male/cyrus.pcx
+-rw-rw-r--  0 0      0       33265 10 Apr  1998 action/players/male/indy.pcx
+-rw-rw-r--  0 0      0       13857 22 Mar  1998 action/players/male/madmax.pcx
+-rw-rw-r--  0 0      0        1875 22 Mar  1998 action/players/male/madmax_i.pcx
+-rw-rw-r--  0 0      0       21593 15 Mar  1998 action/players/male/mcclane.pcx
+-rw-rw-r--  0 0      0        2020 29 Mar  1998 action/players/male/mcclane_i.pcx
+-rw-rw-r--  0 0      0       25148 16 Mar  1998 action/players/male/rambo.pcx
+-rw-rw-r--  0 0      0        1817 22 Mar  1998 action/players/male/rambo_i.pcx
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/resdog.pcx
+-rw-rw-r--  0 0      0        1712 16 Mar  1998 action/players/male/resdog_i.pcx
+-rw-rw-r--  0 0      0        9089 27 Nov  1997 action/players/male/weapon.pcx
+-rw-rw-r--  0 0      0        2026 27 May  1998 action/players/male/sabotage_i.pcx
+-rw-rw-r--  0 0      0         623  2 Jun  1998 action/players/male/shaft.txt
+-rw-rw-r--  0 0      0        1734  2 Jun  1998 action/players/male/shaft_i.pcx
+-rw-rw-r--  0 0      0       30192  2 Jun  1998 action/players/male/shaft.pcx
+-rw-rw-r--  0 0      0       40092 20 Jun  1998 action/players/male/snowcamo.pcx
+-rw-rw-r--  0 0      0        1804 20 Jun  1998 action/players/male/snowcamo_i.pcx
+-rw-rw-r--  0 0      0        1863 20 Jun  1998 action/players/male/KGB_I.PCX
+-rw-rw-r--  0 0      0       23971 20 Jun  1998 action/players/male/KGB.PCX
+drwxrwxr-x  0 0      0           0 22 Jun  1998 action/players/female/
+-rw-rw-r--  0 0      0       50897 27 Nov  1997 action/players/female/brianna.pcx
+-rw-rw-r--  0 0      0        1968 27 Nov  1997 action/players/female/brianna_i.pcx
+-rw-rw-r--  0 0      0       52745 27 Nov  1997 action/players/female/ensign.pcx
+-rw-rw-r--  0 0      0        1971 27 Nov  1997 action/players/female/ensign_i.pcx
+-rw-rw-r--  0 0      0       51062 27 Nov  1997 action/players/female/jezebel.pcx
+-rw-rw-r--  0 0      0        1950 27 Nov  1997 action/players/female/jezebel_i.pcx
+-rw-rw-r--  0 0      0       61037 27 Nov  1997 action/players/female/jungle.pcx
+-rw-rw-r--  0 0      0        2118 27 Nov  1997 action/players/female/jungle_i.pcx
+-rw-rw-r--  0 0      0      275632 27 Nov  1997 action/players/female/tris.md2
+-rw-rw-r--  0 0      0       50891 27 Nov  1997 action/players/female/venus.pcx
+-rw-rw-r--  0 0      0        1963 27 Nov  1997 action/players/female/venus_i.pcx
+-rw-rw-r--  0 0      0       38912 27 Nov  1997 action/players/female/weapon.md2
+-rw-rw-r--  0 0      0        9089 27 Nov  1997 action/players/female/weapon.pcx
+-rw-rw-r--  0 0      0        2188  5 Feb  1998 action/players/female/leeloo_i.pcx
+-rw-rw-r--  0 0      0       38382  5 Feb  1998 action/players/female/leeloo.pcx
+-rw-rw-r--  0 0      0         954  8 Feb  1998 action/players/female/leeloo.txt
+-rw-rw-r--  0 0      0        5262 22 Jun  1998 action/action.txt
+-rw-rw-r--  0 0      0        2238  1 Apr  1998 action/actq2.ico
+-rw-rw-r--  0 0      0      724992 22 Jun  1998 action/gamex86.dll
+-rw-rw-r--  0 0      0     3950055 22 Jun  1998 action/pak0.pak
+-rw-rw-r--  0 0      0        8821 22 Jun  1998 action/readme.txt
+-rw-rw-r--  0 0      0         274 22 Jun  1998 action/server.cfg
+-rw-rw-r--  0 0      0        3479 22 Jun  1998 action/v93.txt
+```
+
+## v0.93 Linux
+
+Released as `gamei386.so.gz` on June 27 1998.
+
+Mentioned on the Action Quake 2 homepage:
+
+> Saturday - June 27, 1998 - Cail (4:45 PM CST)
+>
+> Expect a few more servers soon (we just added another right now), as here is the Linux version of .93 dll! Just grab gamei386.so.gz, and you'll need the maps too.. if you add a Linux server to the net, send me the ip and an email so I can add you to the servers page and server admin mailing list! We're assuming that if you are running Linux, you can figure out what to do with this.. hope it works, it may be buggy..\
+> A solaris version is coming really soon!
+
+-- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+## v0.94
+
+Released as `ver94dll.zip` on July 19 1998.
+
+Mentioned on the Action Quake 2 homepage:
+
+> Ok people, time to download the ver94dll.zip, and update your Action Quake2 to version .94. This is a server side only, so figure out if you need it or not. If you're not sure, update! The changes in v.94:
+
+-- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+There was no mention of this release in the historical changelog of later releases.
+
+## v0.94 Linux
+
+Released as `ver94lnx.zip` on July 25 1998.
+
+Mentioned on the Action Quake 2 homepage:
+
+> Saturday - July 25, 1998 - Cail (7:20 AM CST)
+>
+> For all those linux servers out there, go to the download page and grab the v.94 dll! I'd post a link here, but I'm barely capable of typing right now, let alone making another link.
+
+-- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
 ## References
 
 Homepages:
