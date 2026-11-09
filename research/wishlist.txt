@@ -1,20 +1,44 @@
 # AQ2 File Wishlist
 
-# clients
-actn91cl.exe
+actn82cl.zip
+
+# guess
+actn85cl.zip
+
+ver86dll.zip
+
+ver87dll.zip
+
+# guess
+actn90cl.exe
+actn90cl.zip
+
 actn91cl.zip
+v8X-v91.zip
+# guess
+actn91cl.exe
+
 actn92cl.exe
 actn92cl.zip
+
+# guess
+actn93cl.zip
+
+# guess
+actn94cl.exe
+actn94cl.zip
 
 actn95cl.zip
 
 actn98up.zip
+
 actn99up.zip
 
 actn10cl.zip
 
 actn10b.exe
+# guess
 actn10b.zip
 
+# guess
 actn10c.exe
-

@@ -16,14 +16,17 @@ Chronological list of official releases in [bin/](bin/) including date, filename
 
 Release Date | File | Description
 --- | --- | ---
-19980404 | ? | AQ2 v0.82
+19980403 | actn82cl.zip | AQ2 v0.82
+19980403 | gamex86.dll | AQ2 v0.82 Fix
 19980405 | ? | AQ2 v0.85
-199804?? | ? | AQ2 v0.87
+19980405 | ver86dll.zip | AQ2 v0.86
+19980406 | ver87dll.zip | AQ2 v0.87
 199804?? | ? | AQ2 v0.88
-19980419 | ? | AQ2 v0.89
+19980416 | ? | AQ2 v0.89
 199805?? | ? | AQ2 v0.90
-19980518 | actn91cl.exe<br>actn91cl.zip | AQ2 v0.91
-1998???? | actn92cl.exe<br>actn92cl.zip | AQ2 v0.92
+19980518 | actn91cl.zip<br>v8X-v91.zip | AQ2 v0.91
+19980527 | actn92cl.exe<br>actn92cl.zip | AQ2 v0.92
+19980531 | ? | AQ2 v0.92a
 19980623 | [actn93cl.exe](bin/actn93cl.exe) | AQ2 v0.93
 19980720 | ? | AQ2 v0.94
 19980815 | [actn95cl.exe](bin/actn95cl.exe)<br>actn95cl.zip | AQ2 v0.95
