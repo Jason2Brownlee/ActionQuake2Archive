@@ -28,6 +28,7 @@ ver92adl.zip
 ver93dll.zip
 
 ver94dll.zip
+ver94lnx.zip
 
 actn95cl.zip
 

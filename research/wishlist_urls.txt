@@ -1,0 +1,100 @@
+# Wishlist URLs (known historical locations of wanted files)
+
+# actn82cl.zip
+ftp://ftp.telefragged.com/pub/action/actn82cl.zip
+
+# gamex86.dll
+ftp://ftp.telefragged.com/pub/action/gamex86.dll
+
+# ver86dll.zip
+ftp://ftp.telefragged.com/pub/action/ver86dll.zip
+
+# ver87dll.zip
+ftp://ftp.telefragged.com/pub/action/ver87dll.zip
+
+# actn91cl.zip
+http://www.telefragged.com/mirrors/mirror.pl?action/actn91cl.zip
+
+# v8X-v91.zip
+http://www.telefragged.com/mirrors/mirror.pl?action/v8X-v91.zip
+
+# actn92cl.exe
+ftp://ftp.epix.net/pub/telefragged/action/actn92cl.exe
+ftp://ftp.saix.net/pub/telefragged/action/actn92cl.exe
+ftp://ftp.telefragged.com/action/actn92cl.exe
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/actn92cl.exe
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/actn92cl.exe
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/actn92cl.exe
+http://www.telefragged.com/mirrors/mirror.pl?action/actn92cl.exe
+
+# ver92dll.zip
+http://www.telefragged.com/mirrors/mirror.pl?action/ver92dll.zip
+
+# ver92adl.zip
+http://www.telefragged.com/mirrors/mirror.pl?action/ver92adl.zip
+
+# ver93dll.zip
+http://www.telefragged.com/mirrors/mirror.pl?action/ver93dll.zip
+
+# ver94dll.zip
+ftp://ftp.epix.net/pub/telefragged/action/ver94dll.zip
+ftp://ftp.saix.net/pub/telefragged/action/ver94dll.zip
+ftp://ftp.telefragged.com/action/ver94dll.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/ver94dll.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/ver94dll.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/ver94dll.zip
+http://games.gci.net/pub/Quake2/QuakeMods/Action/ver94dll.zip
+http://www.telefragged.com/mirrors/mirror.pl?action/ver94dll.zip
+
+# ver94lnx.zip
+ftp://ftp.epix.net/pub/telefragged/action/ver94lnx.zip
+ftp://ftp.saix.net/pub/telefragged/action/ver94lnx.zip
+ftp://ftp.telefragged.com/action/ver94lnx.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/ver94lnx.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/ver94lnx.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/ver94lnx.zip
+
+# actn95cl.zip
+ftp://ftp.gamesnet.net/pub/bluesnews/quake2/action/actn95cl.zip
+
+# ver95dll.zip
+ftp://ftp.epix.net/pub/telefragged/action/ver95dll.zip
+ftp://ftp.saix.net/pub/telefragged/action/ver95dll.zip
+ftp://ftp.telefragged.com/action/ver95dll.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/ver95dll.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/ver95dll.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/ver95dll.zip
+
+# ver95adl.zip
+ftp://ftp.epix.net/pub/telefragged/action/ver95adl.zip
+ftp://ftp.saix.net/pub/telefragged/action/ver95adl.zip
+ftp://ftp.telefragged.com/action/ver95adl.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/ver95adl.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/ver95adl.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/ver95adl.zip
+http://games.gci.net/pub/Quake2/QuakeMods/Action/ver95adl.zip
+
+# actn98up.zip
+http://games.gci.net/pub/Quake2/QuakeMods/Action/actn98up.zip
+
+# actn99up.zip
+http://games.gci.net/pub/Quake2/QuakeMods/Action/actn99up.zip
+
+# actn10cl.zip
+ftp://ftp.epix.net/pub/telefragged/action/actn10cl.zip
+ftp://ftp.gamesnet.net/pub/bluesnews/quake2/action/actn10cl.zip
+ftp://ftp.saix.net/pub/telefragged/action/actn10cl.zip
+ftp://ftp.telefragged.com/action/actn10cl.zip
+ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/actn10cl.zip
+ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/actn10cl.zip
+ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/actn10cl.zip
+http://ftp.telepac.pt/pub/idgames2/telefragged/action/actn10cl.zip
+http://games.gci.net/pub/Quake2/QuakeMods/Action/actn10cl.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/action/actn10cl.zip
+http://sunsite.org.uk/packages/idgames2/telefragged/action/actn10cl.zip
+http://www.telefragged.com/mirrors/mirror.pl?action/actn10cl.zip
+
+# actn10b.zip
+http://games.gci.net/pub/Quake2/QuakeMods/Action/actn10b.zip
+http://www.telefragged.com/mirrors/mirror.pl?action/actn10b.zip
+
