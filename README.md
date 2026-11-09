@@ -45,7 +45,7 @@ Release Date | File | Description
 19980909 | actn99up.zip | AQ2 v0.99
 19980916 | [actn10cl.exe](bin/actn10cl.exe)<br>actn10cl.zip | AQ2 v1.0
 19980928 | actn10b.zip | AQ2 v1.0b
-19981002 | [actn10c.zip](bin/actn10c.zip) | AQ2 v1.0c
+19980929 | [actn10c.zip](bin/actn10c.zip) | AQ2 v1.0c
 19981021 | [actn101b2.zip](bin/actn101b2.zip)<br>[actn101b2-linux.tgz](bin/actn101b2-linux.tgz) | AQ2 v1.1 beta 2
 19981114 | [actn1Cup.exe](bin/actn1Cup.exe)<br>[actn1Cup.zip](bin/actn1Cup.zip)<br>[actn1Ccl.exe](bin/actn1Ccl.exe)<br>[actn1Ccl.zip](bin/actn1Ccl.zip) | AQ2 v1.0c Update
 19981114 | [vwepfix.exe](bin/vwepfix.exe)<br>[vwepfix.zip](bin/vwepfix.zip) | AQ2 v1.0c VWeapon Fix
