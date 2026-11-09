@@ -19,3 +19,4 @@ Archives:
 * <https://ftp.idtech.space/tastyspleen/mods/action_quake/>
 * [http://games.gci.net/pub/Quake2/QuakeMods/Action/](https://web.archive.org/web/20030915003615/http://games.gci.net/pub/Quake2/QuakeMods/Action/) (archived)
 * [Action Quake 2 Community Archive](https://archives.aq2world.com/)
+* [Action Quake II Archive](https://archive.org/details/action-quake-2)

@@ -12,9 +12,6 @@ ftp://ftp.telefragged.com/pub/action/ver86dll.zip
 # ver87dll.zip
 ftp://ftp.telefragged.com/pub/action/ver87dll.zip
 
-# actn91cl.zip
-http://www.telefragged.com/mirrors/mirror.pl?action/actn91cl.zip
-
 # v8X-v91.zip
 http://www.telefragged.com/mirrors/mirror.pl?action/v8X-v91.zip
 
