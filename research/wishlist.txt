@@ -19,14 +19,15 @@ v8X-v91.zip
 actn91cl.exe
 
 actn92cl.exe
+ver92dll.zip
+# guess
 actn92cl.zip
 
-# guess
-actn93cl.zip
+ver92adl.zip
 
-# guess
-actn94cl.exe
-actn94cl.zip
+ver93dll.zip
+
+ver94dll.zip
 
 actn95cl.zip
 
