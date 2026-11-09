@@ -6,9 +6,13 @@ The goal of this project is to archive **all versions** of **Action Quake2** (AQ
 
 Action Quake II (AQ2) is a third-party modification of the 1997 computer game Quake II.
 
+Action Quake 2 is a fast-paced Quake II mod that introduced realistic modern weaponry, tactical movement mechanics like bleeding and bandaging, and movie-inspired action gameplay that laid the foundation for the tactical shooter genre.
+
 This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all versions of all Action Quake 2 in their original distributed form.
 
-If you have backups of old versions of Action Quake 2, [you can help](#Help).
+Read the reconstructed history of the mod releases here:
+
+* [Action Quake 2 Release History](research/history.md)
 
 ## Action Quake 2 File List
 
@@ -30,7 +34,7 @@ Release Date | File | Description
 19980622 | [actn93cl.exe](bin/actn93cl.exe)<br>ver93dll.zip | AQ2 v0.93
 19980719 | ver94dll.zip | AQ2 v0.94
 19980815 | [actn95cl.exe](bin/actn95cl.exe)<br>actn95cl.zip<br>ver95dll.zip | AQ2 v0.95
-19980819 | ? | AQ2 v0.95a
+19980819 | ver95adl.zip | AQ2 v0.95a
 19980908 | actn98up.zip | AQ2 v0.98
 19980909 | actn99up.zip | AQ2 v0.99
 19980916 | [actn10cl.exe](bin/actn10cl.exe)<br>actn10cl.zip | AQ2 v1.0
