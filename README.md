@@ -58,6 +58,17 @@ Release Date | File | Description
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not corroborate the date of release yet.
 
+## Action Quake 2 Solaris Ports
+
+Chronological list of unofficial Solaris x86/SPARC port releases in [bin/](bin/) including date, filename link, and description.
+
+Release Date | File | Description
+--- | --- | ---
+19981002 | [action_q2_10c_solx86.tar.gz](bin/action_q2_10c_solx86.tar.gz)<br>[action_q2_10c_sparc.tar.gz](bin/action_q2_10c_sparc.tar.gz) | AQ2 Solaris Port v1.0c
+19990605 | [action_q2_151_solx86.tar.gz](bin/action_q2_151_solx86.tar.gz)<br>[action_q2_151_sparc.tar.gz](bin/action_q2_151_sparc.tar.gz) | AQ2 Solaris Port v1.5
+19990605 | [action_q2_151_solx86.tar.gz](bin/action_q2_151_solx86.tar.gz)<br>[action_q2_151_sparc.tar.gz](bin/action_q2_151_sparc.tar.gz) | AQ2 Solaris Port v1.51
+19990801 | [action_q2_152_solx86.tar.gz](bin/action_q2_152_solx86.tar.gz)<br>[action_q2_152_sparc.tar.gz](bin/action_q2_152_sparc.tar.gz) | AQ2 Solaris Port v1.52
+
 ## How You Can Help
 
 Maybe you can help to make this archive more complete.

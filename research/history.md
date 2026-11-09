@@ -434,6 +434,9 @@ Mentioned on the Action Quake 2 homepage:
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
 
+
+## v0.94
+
 ## References
 
 Homepages:
@@ -445,6 +448,7 @@ Homepages:
 Archives:
 
 * <https://dukeworld.com/telefragged/action/>
+* <https://www.dukeworld.com/planetquake/eclipse/>
 * <https://www.gamers.org/pub/games/idgames2/telefragged/action/>
 * <https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/action/>
 * <https://files.xvertigox.com/quaddicted/mirrors/ftp.telefragged.com/action/>
