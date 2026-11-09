@@ -29,9 +29,7 @@ Release Date | File | Description
 19980405 | ? | AQ2 v0.85
 19980405 | ver86dll.zip | AQ2 v0.86
 19980406 | ver87dll.zip | AQ2 v0.87
-199804?? | ? | AQ2 v0.88
 19980416 | ? | AQ2 v0.89
-199805?? | ? | AQ2 v0.90
 19980517 | [actn91cl.zip](bin/actn91cl.zip)<br>v8X-v91.zip | AQ2 v0.91
 19980527 | actn92cl.exe<br>ver92dll.zip | AQ2 v0.92
 19980531 | ver92adl.zip | AQ2 v0.92a
