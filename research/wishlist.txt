@@ -2,14 +2,26 @@
 
 actn82cl.zip
 
-# guess
+# guesses
+ver85dll.zip
 actn85cl.zip
 
 ver86dll.zip
 
 ver87dll.zip
 
-# guess
+# guesses
+ver88dll.zip
+actn88cl.exe
+actn88cl.zip
+
+# guesses
+ver89dll.zip
+actn89cl.exe
+actn89cl.zip
+
+# guesses
+ver90dll.zip
 actn90cl.exe
 actn90cl.zip
 
@@ -41,9 +53,9 @@ actn99up.zip
 
 actn10cl.zip
 
-actn10b.exe
-# guess
 actn10b.zip
+# guess
+actn10b.exe
 
 # guess
 actn10c.exe

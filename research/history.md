@@ -13,6 +13,7 @@ Homepages:
 Archives:
 
 * <https://dukeworld.com/telefragged/action/>
+* <https://www.gamers.org/pub/games/idgames2/telefragged/action/>
 * <https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/action/>
 * <https://files.xvertigox.com/quaddicted/mirrors/ftp.telefragged.com/action/>
 * <https://ftp.idtech.space/tastyspleen/mods/action_quake/>
