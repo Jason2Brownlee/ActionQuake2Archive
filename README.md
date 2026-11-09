@@ -29,7 +29,7 @@ Release Date | File | Description
 19980531 | ver92adl.zip | AQ2 v0.92a
 19980622 | [actn93cl.exe](bin/actn93cl.exe)<br>ver93dll.zip | AQ2 v0.93
 19980719 | ver94dll.zip | AQ2 v0.94
-19980815 | [actn95cl.exe](bin/actn95cl.exe)<br>actn95cl.zip | AQ2 v0.95
+19980815 | [actn95cl.exe](bin/actn95cl.exe)<br>actn95cl.zip<br>ver95dll.zip | AQ2 v0.95
 19980819 | ? | AQ2 v0.95a
 19980908 | actn98up.zip | AQ2 v0.98
 19980909 | actn99up.zip | AQ2 v0.99
