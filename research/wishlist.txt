@@ -59,3 +59,14 @@ actn10b.exe
 
 # guess
 actn10c.exe
+
+# unofficial / ports
+as-1.5.zip
+as-1.51.zip
+as-1.52.zip
+aq-vwep.zip
+aq-client.tar.gz
+aq-vwep.tar.gz
+IRIXAction.zip
+IRIXAction.tar.gz
+action_x86.zip

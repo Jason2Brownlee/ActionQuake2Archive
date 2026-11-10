@@ -298,7 +298,7 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/s/232208/quake-quake-ii-mods
 
-Changelog from later readmes:
+Changelog from readme:
 
 > New in v.91
 >
@@ -2644,7 +2644,7 @@ This will fix you up and make you feel all new.  As a matter of fact
 ```
 
 
-# v1.0c Fix
+# v1.0c VWep Fix 2
 
 Released as `1cCLfix.exe` and `1cCLfix.zip` on November 19 1998.
 
@@ -2882,7 +2882,7 @@ Contents of `as-1.51.tar.gz`:
 
 # v1.52
 
-Released on July 21 1999 as:
+Released on July 20 (news report 20th, file dates report 21st? an updated release?) 1999 as:
 
 * `as-1.52-x86-win32.zip`
 * `as-1.52-x86-linux.tar.gz`
@@ -2894,6 +2894,25 @@ Mentioned on BluesNews:
 > The Action Quake2 site (which upped and moved somewhere along the way) has a new version of the server .dll for this action-packed Quake II mod. There's also word there that they are looking for a Mac programmer to fine-tune the Mac version of AQ2 since MacQuake II is now available. Finally, there are details there about their modeling contest, offering over US$400 in prizes.
 
 -- https://www.bluesnews.com/s/3813/action-quake2-update
+
+Mentioned on action.wedge.net:
+
+> July 20, 1999 - Action Quake 1.52 released!
+>
+> It is available for Linux in tgz format, Windows in zip format,
+and source code in tgz or zip format. This is a server side release. Clients need not download this.
+Read about the changes and new features in the CHANGES and README.
+
+Links:
+
+* http://action.wedge.net/linux/as-1.52-x86-linux.tar.gz
+* http://action.wedge.net/linux/as-1.52-x86-linux.tar.gz
+* http://action.wedge.net/src/as-1.52.tar.gz
+* http://action.wedge.net/src/as-1.52.zip
+* http://action.wedge.net/doc/CHANGES
+* http://action.wedge.net/doc/README
+
+-- [http://action.wedge.net/index.php3?allnews=1](https://web.archive.org/web/20000617143641/http://action.wedge.net/index.php3?allnews=1)
 
 Contents of `as-1.52-x86-win32.zip`:
 

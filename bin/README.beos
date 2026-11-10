@@ -1,0 +1,23 @@
+Action Quake2 1.52 for BeOS (R4.5 x86)
+
+  contents:   action/README.beos          <---- (this file)
+              action/gamei586.so    451k
+
+--
+This is the server binary for Action Quake2 1.52.
+
+You will need to go to the Action Quake2 home page
+to download the client files;
+
+  http://aq2.action-web.net/
+
+You will probably also want to visit the following
+site for other Action Quake2 add-ons;
+
+  http://guild.action-web.net/
+
+Enjoy...
+
+--
+Richard Hess
+09.10.99
