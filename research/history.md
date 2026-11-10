@@ -1195,6 +1195,1113 @@ Siris
 ```
 
 
+## v1.0c Update
+
+Released on November 14 1998 as:
+
+* `actn1Cup.exe`
+* `actn1Cup.zip`
+* `actn1Ccl.exe`
+* `actn1Ccl.zip`
+
+Contents of actn1Ccl.exe`:
+
+```text
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/
+-rw-rw-r--  0 0      0         449 16 Sep  1998 action/inetserver.cfg
+-rw-rw-r--  0 0      0      328704 29 Sep  1998 action/gamex86.dll
+-rw-rw-r--  0 0      0         335 16 Sep  1998 action/LANserver.cfg
+-rw-rw-r--  0 0      0       10042 16 Sep  1998 action/action.txt
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/male/
+-rw-rw-r--  0 0      0        8480 10 Apr  1998 action/players/male/bluebeard.pcx
+-rw-rw-r--  0 0      0        1885 12 Nov  1998 action/players/male/bluebeard_i.PCX
+-rw-rw-r--  0 0      0        1816 12 Nov  1998 action/players/male/CHOWda_i.PCX
+-rw-rw-r--  0 0      0       37208 31 Jul  1998 action/players/male/CHOWda2.pcx
+-rw-rw-r--  0 0      0       61661 27 Nov  1997 action/players/male/commando.pcx
+-rw-rw-r--  0 0      0        1852 12 Nov  1998 action/players/male/commando_i.PCX
+-rw-rw-r--  0 0      0      278592 27 Nov  1997 action/players/male/tris.md2
+-rw-rw-r--  0 0      0        1773 27 May  1998 action/players/male/siris_i.pcx
+-rw-rw-r--  0 0      0        1863 12 Nov  1998 action/players/male/indy_i.PCX
+-rw-rw-r--  0 0      0       26461 26 May  1998 action/players/male/sabotage.pcx
+-rw-rw-r--  0 0      0       56756 27 Jul  1998 action/players/male/Mohoney.PCX
+-rw-rw-r--  0 0      0       33265 10 Apr  1998 action/players/male/indy.pcx
+-rw-rw-r--  0 0      0        1846 12 Nov  1998 action/players/male/madmaxy_i.PCX
+-rw-rw-r--  0 0      0        1615 27 Jul  1998 action/players/male/marsell_i.pcx
+-rw-rw-r--  0 0      0        1920 12 Nov  1998 action/players/male/mcLaine_i.PCX
+-rw-rw-r--  0 0      0       15455 26 Jul  1998 action/players/male/MikeyL.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/rembo_i.PCX
+-rw-rw-r--  0 0      0        1797 12 Nov  1998 action/players/male/LeservoirCat_i.PCX
+-rw-rw-r--  0 0      0       22571 10 Aug  1998 action/players/male/RIGS.pcx
+-rw-rw-r--  0 0      0        1857 12 Nov  1998 action/players/male/sabotage_i.PCX
+-rw-rw-r--  0 0      0        1862 12 Nov  1998 action/players/male/DaShaft_i.PCX
+-rw-rw-r--  0 0      0       30192  2 Jun  1998 action/players/male/DaShaft.pcx
+-rw-rw-r--  0 0      0       19909 27 Jul  1998 action/players/male/butchy.pcx
+-rw-rw-r--  0 0      0       40092 20 Jun  1998 action/players/male/snowcamo.pcx
+-rw-rw-r--  0 0      0        1804 20 Jun  1998 action/players/male/snowcamo_i.pcx
+-rw-rw-r--  0 0      0        1863 20 Jun  1998 action/players/male/KGB_I.PCX
+-rw-rw-r--  0 0      0       23971 20 Jun  1998 action/players/male/KGB.PCX
+-rw-rw-r--  0 0      0        1789 12 Nov  1998 action/players/male/CHOWda2_i.PCX
+-rw-rw-r--  0 0      0        1823 12 Nov  1998 action/players/male/butchy_i.PCX
+-rw-rw-r--  0 0      0       11110  5 Apr  1998 action/players/male/siris.pcx
+-rw-rw-r--  0 0      0        9319 27 Jul  1998 action/players/male/inVince.pcx
+-rw-rw-r--  0 0      0       11599 10 Apr  1998 action/players/male/CHOWda.pcx
+-rw-rw-r--  0 0      0        1801 12 Nov  1998 action/players/male/Mohoney_i.PCX
+-rw-rw-r--  0 0      0        9052 27 Jul  1998 action/players/male/jewels.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/jewels_i.PCX
+-rw-rw-r--  0 0      0       21593 15 Mar  1998 action/players/male/mcLaine.pcx
+-rw-rw-r--  0 0      0       17497 12 Jul  1998 action/players/male/BABarracuda.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/mikeyL_i.PCX
+-rw-rw-r--  0 0      0       25148 16 Mar  1998 action/players/male/rembo.pcx
+-rw-rw-r--  0 0      0       34078 27 Jul  1998 action/players/male/marsell.pcx
+-rw-rw-r--  0 0      0       34737  1 Aug  1998 action/players/male/madmaxy.pcx
+-rw-rw-r--  0 0      0        1802 10 Aug  1998 action/players/male/RIGS_i.pcx
+-rw-rw-r--  0 0      0        1770 12 Nov  1998 action/players/male/inVince_i.PCX
+-rw-rw-r--  0 0      0       94376  9 Nov  1998 action/players/male/a_m61frag.md2
+-rw-rw-r--  0 0      0         594 12 Nov  1998 action/players/male/readme.txt
+-rw-rw-r--  0 0      0        1897 23 Mar  1998 action/players/male/mason_i.pcx
+-rw-rw-r--  0 0      0       30035 23 Mar  1998 action/players/male/mason.pcx
+-rw-rw-r--  0 0      0       87012  9 Nov  1998 action/players/male/w_akimbo.MD2
+-rw-rw-r--  0 0      0       30087 27 Feb  1998 action/players/male/Blues.pcx
+-rw-rw-r--  0 0      0        1667  1 May  1998 action/players/male/CAJIN_I.PCX
+-rw-rw-r--  0 0      0        8610  2 May  1998 action/players/male/CAJIN.PCX
+-rw-rw-r--  0 0      0       11060 10 Aug  1998 action/players/male/ROGER.pcx
+-rw-rw-r--  0 0      0        1690 10 Aug  1998 action/players/male/ROGER_I.pcx
+-rw-rw-r--  0 0      0        1717 27 Feb  1998 action/players/male/blues_i.pcx
+-rw-rw-r--  0 0      0       13737 25 Feb  1998 action/players/male/Cop.pcx
+-rw-rw-r--  0 0      0        1143 25 Feb  1998 action/players/male/Cop_i.pcx
+-rw-rw-r--  0 0      0       21630 20 Feb  1998 action/players/male/Nut.pcx
+-rw-rw-r--  0 0      0        1160  3 Mar  1998 action/players/male/Nut_i.pcx
+-rw-rw-r--  0 0      0        8704 28 Dec  1997 action/players/male/robber.pcx
+-rw-rw-r--  0 0      0        1237 28 Dec  1997 action/players/male/robber_i.pcx
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/grunt.pcx
+-rw-rw-r--  0 0      0        1797 12 Nov  1998 action/players/male/grunt_i.PCX
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/LeservoirCat.pcx
+-rw-rw-r--  0 0      0       63468  9 Nov  1998 action/players/male/w_cannon.md2
+-rw-rw-r--  0 0      0       43960  9 Nov  1998 action/players/male/w_knife.md2
+-rw-rw-r--  0 0      0       57828  9 Nov  1998 action/players/male/w_m4.md2
+-rw-rw-r--  0 0      0       47668  9 Nov  1998 action/players/male/w_mk23.MD2
+-rw-rw-r--  0 0      0       40404  9 Nov  1998 action/players/male/w_mp5.md2
+-rw-rw-r--  0 0      0       47236  9 Nov  1998 action/players/male/w_sniper.md2
+-rw-rw-r--  0 0      0       43916  9 Nov  1998 action/players/male/w_super90.md2
+-rw-rw-r--  0 0      0        1910 12 Nov  1998 action/players/male/BABarracuda_i.PCX
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/female/
+-rw-rw-r--  0 0      0       50897 27 Nov  1997 action/players/female/brianna.pcx
+-rw-rw-r--  0 0      0        1968 27 Nov  1997 action/players/female/brianna_i.pcx
+-rw-rw-r--  0 0      0       52745 27 Nov  1997 action/players/female/ensign.pcx
+-rw-rw-r--  0 0      0        1971 27 Nov  1997 action/players/female/ensign_i.pcx
+-rw-rw-r--  0 0      0       51062 27 Nov  1997 action/players/female/jezebel.pcx
+-rw-rw-r--  0 0      0        1950 27 Nov  1997 action/players/female/jezebel_i.pcx
+-rw-rw-r--  0 0      0       61037 27 Nov  1997 action/players/female/jungle.pcx
+-rw-rw-r--  0 0      0        2118 27 Nov  1997 action/players/female/jungle_i.pcx
+-rw-rw-r--  0 0      0      275632 27 Nov  1997 action/players/female/tris.md2
+-rw-rw-r--  0 0      0       50891 27 Nov  1997 action/players/female/venus.pcx
+-rw-rw-r--  0 0      0        1963 27 Nov  1997 action/players/female/venus_i.pcx
+-rw-rw-r--  0 0      0       38912 27 Nov  1997 action/players/female/weapon.md2
+-rw-rw-r--  0 0      0        9089 27 Nov  1997 action/players/female/weapon.pcx
+-rw-rw-r--  0 0      0       83416 24 Oct  1998 action/players/female/a_m61frag.md2
+-rw-rw-r--  0 0      0        1982 12 Nov  1998 action/players/female/leeloop_i.PCX
+-rw-rw-r--  0 0      0       38382  5 Feb  1998 action/players/female/Leeloop.pcx
+-rw-rw-r--  0 0      0        1857 12 Nov  1998 action/players/female/sarah_OhConnor_i.pcx
+-rw-rw-r--  0 0      0       87028 24 Oct  1998 action/players/female/w_akimbo.md2
+-rw-rw-r--  0 0      0       51567  6 Aug  1998 action/players/female/sarah_OhConnor.pcx
+-rw-rw-r--  0 0      0       63500  7 Nov  1998 action/players/female/w_cannon.md2
+-rw-rw-r--  0 0      0       43964 24 Oct  1998 action/players/female/w_knife.md2
+-rw-rw-r--  0 0      0       57872 24 Oct  1998 action/players/female/w_m4.md2
+-rw-rw-r--  0 0      0       47684 24 Oct  1998 action/players/female/w_mk23.md2
+-rw-rw-r--  0 0      0       40408 24 Oct  1998 action/players/female/w_mp5.md2
+-rw-rw-r--  0 0      0       47240 24 Oct  1998 action/players/female/w_sniper.md2
+-rw-rw-r--  0 0      0       43920 24 Oct  1998 action/players/female/w_super90.md2
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/terror/
+-rw-rw-r--  0 0      0        2067  1 Jul  1998 action/players/terror/red cop_i.pcx
+-rw-rw-r--  0 0      0        1950  1 Jul  1998 action/players/terror/black cop_i.pcx
+-rw-rw-r--  0 0      0       51744  1 Jul  1998 action/players/terror/blue cop.pcx
+-rw-rw-r--  0 0      0        1958  1 Jul  1998 action/players/terror/blue cop_i.pcx
+-rw-rw-r--  0 0      0       54950 30 Jun  1998 action/players/terror/csw black.pcx
+-rw-rw-r--  0 0      0        1842 30 Jun  1998 action/players/terror/csw black_i.pcx
+-rw-rw-r--  0 0      0       57014 30 Jun  1998 action/players/terror/csw blue.pcx
+-rw-rw-r--  0 0      0        1895 30 Jun  1998 action/players/terror/csw blue_i.pcx
+-rw-rw-r--  0 0      0       55210 30 Jun  1998 action/players/terror/csw crazy.pcx
+-rw-rw-r--  0 0      0        1819 30 Jun  1998 action/players/terror/csw crazy_i.pcx
+-rw-rw-r--  0 0      0       56591 30 Jun  1998 action/players/terror/csw red.pcx
+-rw-rw-r--  0 0      0        1899  1 Jul  1998 action/players/terror/csw red_i.pcx
+-rw-rw-r--  0 0      0       51442  1 Jul  1998 action/players/terror/red cop.pcx
+-rw-rw-r--  0 0      0       49769  1 Jul  1998 action/players/terror/black cop.pcx
+-rw-rw-r--  0 0      0      307680 12 Jul  1998 action/players/terror/tris.md2
+-rw-rw-r--  0 0      0       58140 14 Aug  1998 action/players/terror/weapon.md2
+-rw-rw-r--  0 0      0       57021 12 Jul  1998 action/players/terror/csw.pcx
+-rw-rw-r--  0 0      0       57021 11 Jul  1998 action/players/terror/KGB.PCX
+-rw-rw-r--  0 0      0       43381 10 Aug  1998 action/players/terror/skyterr.pcx
+-rw-rw-r--  0 0      0        1635  9 Aug  1998 action/players/terror/terror_i.pcx
+-rw-rw-r--  0 0      0        1783  9 Aug  1998 action/players/terror/swat_i.pcx
+-rw-rw-r--  0 0      0        1735  9 Aug  1998 action/players/terror/terror_i2.pcx
+-rw-rw-r--  0 0      0       23890 10 Aug  1998 action/players/terror/terror.pcx
+-rw-rw-r--  0 0      0       41355 10 Aug  1998 action/players/terror/swat.pcx
+-rw-rw-r--  0 0      0        1838 11 Aug  1998 action/players/terror/jungleterr_i.pcx
+-rw-rw-r--  0 0      0        1892 11 Aug  1998 action/players/terror/desertterr_i.pcx
+-rw-rw-r--  0 0      0       48736 11 Aug  1998 action/players/terror/jungleterr.pcx
+-rw-rw-r--  0 0      0       47363 11 Aug  1998 action/players/terror/desertterr.pcx
+-rw-rw-r--  0 0      0        1481 11 Aug  1998 action/players/terror/skyterr_i.pcx
+-rw-rw-r--  0 0      0       45854 11 Aug  1998 action/players/terror/urbanterr.pcx
+-rw-rw-r--  0 0      0        1756 11 Aug  1998 action/players/terror/urbanterr_i.pcx
+-rw-rw-r--  0 0      0       38709 14 Aug  1998 action/players/terror/swatsnipe.pcx
+-rw-rw-r--  0 0      0        1636 14 Aug  1998 action/players/terror/swatsnipe_i.pcx
+-rw-rw-r--  0 0      0       53684 12 Aug  1998 action/players/terror/weapon.pcx
+-rw-rw-r--  0 0      0       94376 26 Oct  1998 action/players/terror/a_m61frag.md2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/terror/w_akimbo.md2
+-rw-rw-r--  0 0      0       63468 26 Oct  1998 action/players/terror/w_cannon.md2
+-rw-rw-r--  0 0      0       43960 26 Oct  1998 action/players/terror/w_knife.md2
+-rw-rw-r--  0 0      0       57828 26 Oct  1998 action/players/terror/w_m4.md2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/terror/w_mk23.md2
+-rw-rw-r--  0 0      0       40404 26 Oct  1998 action/players/terror/w_mp5.md2
+-rw-rw-r--  0 0      0       47236 26 Oct  1998 action/players/terror/w_sniper.md2
+-rw-rw-r--  0 0      0       43916 26 Oct  1998 action/players/terror/w_super90.md2
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/sydney/
+-rw-rw-r--  0 0      0       10847 25 Apr  1998 action/players/sydney/weapon.PCX
+-rw-rw-r--  0 0      0       35484 25 Apr  1998 action/players/sydney/weapon.md2
+-rw-rw-r--  0 0      0      302128 25 Apr  1998 action/players/sydney/tris.md2
+-rw-rw-r--  0 0      0        1742 25 Apr  1998 action/players/sydney/sydney_i.pcx
+-rw-rw-r--  0 0      0        2294 25 Apr  1998 action/players/sydney/sydney.txt
+-rw-rw-r--  0 0      0       60653 25 Apr  1998 action/players/sydney/sydney.PCX
+-rw-rw-r--  0 0      0        1763 25 Apr  1998 action/players/sydney/ctf_r_i.PCX
+-rw-rw-r--  0 0      0       31397 25 Apr  1998 action/players/sydney/ctf_r.PCX
+-rw-rw-r--  0 0      0        1742 25 Apr  1998 action/players/sydney/ctf_b_i.PCX
+-rw-rw-r--  0 0      0       30444 25 Apr  1998 action/players/sydney/ctf_b.PCX
+-rw-rw-r--  0 0      0        5730 25 Apr  1998 action/players/sydney/sydney.JPG
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/ActionMale/
+-rw-rw-r--  0 0      0       39455 21 Sep  1998 action/players/ActionMale/Chucky.pcx
+-rw-rw-r--  0 0      0       43916 13 Nov  1998 action/players/ActionMale/w_super90.MD2
+-rw-rw-r--  0 0      0       94416  7 Nov  1998 action/players/ActionMale/a_m61frag.md2
+-rw-rw-r--  0 0      0        1895 12 Nov  1998 action/players/ActionMale/chucky_i.PCX
+-rw-rw-r--  0 0      0       24891  6 Sep  1998 action/players/ActionMale/Jewels.pcx
+-rw-rw-r--  0 0      0      175284  7 Nov  1998 action/players/ActionMale/tris.md2
+-rw-rw-r--  0 0      0       41319 19 Sep  1997 action/players/ActionMale/daFist.pcx
+-rw-rw-r--  0 0      0       35585 26 Sep  1998 action/players/ActionMale/Axef.pcx
+-rw-rw-r--  0 0      0       31925 10 Sep  1998 action/players/ActionMale/BluceDojo.PCX
+-rw-rw-r--  0 0      0       41504 10 Sep  1998 action/players/ActionMale/BluceRee.pcx
+-rw-rw-r--  0 0      0        1960 12 Nov  1998 action/players/ActionMale/bluceree_i.PCX
+-rw-rw-r--  0 0      0        2188 19 Sep  1997 action/players/ActionMale/daFist_i.pcx
+-rw-rw-r--  0 0      0        1840 12 Nov  1998 action/players/ActionMale/Axef_i.PCX
+-rw-rw-r--  0 0      0        2042 24 Aug  1998 action/players/ActionMale/Jewels_i.pcx
+-rw-rw-r--  0 0      0       36756 31 Oct  1998 action/players/ActionMale/seagull.pcx
+-rw-rw-r--  0 0      0        1871 12 Nov  1998 action/players/ActionMale/seagull_i.PCX
+-rw-rw-r--  0 0      0       27769  6 Sep  1998 action/players/ActionMale/inVince.pcx
+-rw-rw-r--  0 0      0        1943 12 Nov  1998 action/players/ActionMale/inVince_i.PCX
+-rw-rw-r--  0 0      0       47236 13 Nov  1998 action/players/ActionMale/w_sniper.MD2
+-rw-rw-r--  0 0      0       40404 13 Nov  1998 action/players/ActionMale/w_mp5.MD2
+-rw-rw-r--  0 0      0       47668 13 Nov  1998 action/players/ActionMale/w_mk23.MD2
+-rw-rw-r--  0 0      0       57828 13 Nov  1998 action/players/ActionMale/w_m4.MD2
+-rw-rw-r--  0 0      0       43960 13 Nov  1998 action/players/ActionMale/w_knife.MD2
+-rw-rw-r--  0 0      0       63468 13 Nov  1998 action/players/ActionMale/w_cannon.MD2
+-rw-rw-r--  0 0      0       47620 20 Oct  1998 action/players/ActionMale/Weapon.md2
+-rw-rw-r--  0 0      0       87012 13 Nov  1998 action/players/ActionMale/w_akimbo.MD2
+-rw-rw-r--  0 0      0        1947 12 Nov  1998 action/players/ActionMale/jewel_i.PCX
+-rw-rw-r--  0 0      0        1995 10 Sep  1998 action/players/ActionMale/BluceDojo_i.PCX
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/sas/
+-rw-rw-r--  0 0      0       94376 26 Oct  1998 action/players/sas/a_m61frag.MD2
+-rw-rw-r--  0 0      0       33033 12 Jul  1998 action/players/sas/decsas.pcx
+-rw-rw-r--  0 0      0      267484 28 Jun  1998 action/players/sas/tris.md2
+-rw-rw-r--  0 0      0       32218 10 Aug  1998 action/players/sas/sas2.pcx
+-rw-rw-r--  0 0      0        1584  9 Aug  1998 action/players/sas/sas2_i.pcx
+-rw-rw-r--  0 0      0       36568 10 Aug  1998 action/players/sas/sasDC.pcx
+-rw-rw-r--  0 0      0        1733 10 Aug  1998 action/players/sas/sasDC_i.pcx
+-rw-rw-r--  0 0      0       35182 10 Aug  1998 action/players/sas/sasDC2.pcx
+-rw-rw-r--  0 0      0        1707 10 Aug  1998 action/players/sas/sasDC2_i.pcx
+-rw-rw-r--  0 0      0        1585 20 Aug  1998 action/players/sas/SasJungle_i.pcx
+-rw-rw-r--  0 0      0       40169 20 Aug  1998 action/players/sas/SasJungle.pcx
+-rw-rw-r--  0 0      0        1584  9 Aug  1998 action/players/sas/SASPolice_i.pcx
+-rw-rw-r--  0 0      0       33301 14 Oct  1998 action/players/sas/SasPolice.pcx
+-rw-rw-r--  0 0      0       36908  9 Aug  1998 action/players/sas/sasUC.PCX
+-rw-rw-r--  0 0      0        1742  9 Aug  1998 action/players/sas/sasUC_i.PCX
+-rw-rw-r--  0 0      0       13116  6 Oct  1998 action/players/sas/SASuc2.jpg
+-rw-rw-r--  0 0      0       35095  9 Aug  1998 action/players/sas/sasUC2.pcx
+-rw-rw-r--  0 0      0        1665  9 Aug  1998 action/players/sas/sasUC2_i.pcx
+-rw-rw-r--  0 0      0       41474 27 Sep  1998 action/players/sas/sas-urban.pcx
+-rw-rw-r--  0 0      0        1976 27 Sep  1998 action/players/sas/sas-urban_i.pcx
+-rw-rw-r--  0 0      0        1585 10 Oct  1998 action/players/sas/SasUrban_i.pcx
+-rw-rw-r--  0 0      0       35146 10 Oct  1998 action/players/sas/SasUrban.pcx
+-rw-rw-r--  0 0      0       41201  8 Aug  1998 action/players/sas/sasWC.PCX
+-rw-rw-r--  0 0      0        1767  1 Sep  1998 action/players/sas/sasWC_i.pcx
+-rw-rw-r--  0 0      0        1999 27 Sep  1998 action/players/sas/sas-woodland_i.pcx
+-rw-rw-r--  0 0      0       45825 27 Sep  1998 action/players/sas/sas-woodland.pcx
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/sas/w_akimbo.MD2
+-rw-rw-r--  0 0      0       63468 26 Oct  1998 action/players/sas/w_cannon.MD2
+-rw-rw-r--  0 0      0       43960 26 Oct  1998 action/players/sas/w_knife.MD2
+-rw-rw-r--  0 0      0       57828 26 Oct  1998 action/players/sas/w_m4.MD2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/sas/w_mk23.MD2
+-rw-rw-r--  0 0      0       40404 26 Oct  1998 action/players/sas/w_mp5.MD2
+-rw-rw-r--  0 0      0       47236 26 Oct  1998 action/players/sas/w_sniper.MD2
+-rw-rw-r--  0 0      0       43916 26 Oct  1998 action/players/sas/w_super90.MD2
+-rw-rw-r--  0 0      0       42868 30 Jun  1998 action/players/sas/weapon.MD2
+-rw-rw-r--  0 0      0        9057 30 Jun  1998 action/players/sas/weapon.PCX
+-rw-rw-r--  0 0      0        1585 28 Jun  1998 action/players/sas/mud_i.pcx
+-rw-rw-r--  0 0      0       34097 11 Aug  1998 action/players/sas/mud.PCX
+-rw-rw-r--  0 0      0       71345 15 Oct  1998 action/players/sas/akimbo.pcx
+-rw-rw-r--  0 0      0        7080 15 Oct  1998 action/players/sas/cannon.PCX
+-rw-rw-r--  0 0      0       37878 15 Oct  1998 action/players/sas/grenade.pcx
+-rw-rw-r--  0 0      0       17048 15 Oct  1998 action/players/sas/knife.pcx
+-rw-rw-r--  0 0      0       69803 15 Oct  1998 action/players/sas/m4.pcx
+-rw-rw-r--  0 0      0       71345 15 Oct  1998 action/players/sas/MK23.PCX
+-rw-rw-r--  0 0      0       85761 15 Oct  1998 action/players/sas/MP5.PCX
+-rw-rw-r--  0 0      0       33713 15 Oct  1998 action/players/sas/ssg3k.pcx
+-rw-rw-r--  0 0      0       47311 15 Oct  1998 action/players/sas/SUPER90.PCX
+-rw-rw-r--  0 0      0       19085 12 Nov  1998 action/readme.txt
+-rw-rw-r--  0 0      0        2238  1 Apr  1998 action/actq2.ico
+-rw-rw-r--  0 0      0         696 29 Sep  1998 action/bugfixes.txt
+-rw-rw-r--  0 0      0     5346795 12 Nov  1998 action/pak0.pak
+-rw-rw-r--  0 0      0         476 16 Sep  1998 action/action.ini
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/demos/
+-rw-rw-r--  0 0      0        9773 16 Sep  1998 action/demos/blah.dm2
+-rw-rw-r--  0 0      0        8091 16 Sep  1998 action/demos/blah2.dm2
+-rw-rw-r--  0 0      0        7603 16 Sep  1998 action/configexamples.zip
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/sound/
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/sound/radio/
+-rw-rw-r--  0 0      0        8044  2 Sep  1998 action/sound/radio/click.wav
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/sound/radio/female/
+-rw-rw-r--  0 0      0       11076  2 Sep  1998 action/sound/radio/female/10.wav
+-rw-rw-r--  0 0      0       13274  4 Sep  1998 action/sound/radio/female/back.wav
+-rw-rw-r--  0 0      0       11078  2 Sep  1998 action/sound/radio/female/cover.wav
+-rw-rw-r--  0 0      0       13288  4 Sep  1998 action/sound/radio/female/down.wav
+-rw-rw-r--  0 0      0       19906  2 Sep  1998 action/sound/radio/female/enemyd.wav
+-rw-rw-r--  0 0      0       19937  2 Sep  1998 action/sound/radio/female/enemys.wav
+-rw-rw-r--  0 0      0       17693  4 Sep  1998 action/sound/radio/female/forward.wav
+-rw-rw-r--  0 0      0       11588  2 Sep  1998 action/sound/radio/female/go.wav
+-rw-rw-r--  0 0      0       11077  2 Sep  1998 action/sound/radio/female/2.wav
+-rw-rw-r--  0 0      0       11086  2 Sep  1998 action/sound/radio/female/3.wav
+-rw-rw-r--  0 0      0       11092  2 Sep  1998 action/sound/radio/female/4.wav
+-rw-rw-r--  0 0      0       11038  2 Sep  1998 action/sound/radio/female/5.wav
+-rw-rw-r--  0 0      0       16217  2 Sep  1998 action/sound/radio/female/6.wav
+-rw-rw-r--  0 0      0       15506  2 Sep  1998 action/sound/radio/female/7.wav
+-rw-rw-r--  0 0      0       11069  2 Sep  1998 action/sound/radio/female/8.wav
+-rw-rw-r--  0 0      0       11070  2 Sep  1998 action/sound/radio/female/9.wav
+-rw-rw-r--  0 0      0       15502  2 Sep  1998 action/sound/radio/female/im_hit.wav
+-rw-rw-r--  0 0      0       17688  4 Sep  1998 action/sound/radio/female/left.wav
+-rw-rw-r--  0 0      0      128904 14 Sep  1998 action/sound/radio/female/rdeath.wav
+-rw-rw-r--  0 0      0       19349  2 Sep  1998 action/sound/radio/female/reportin.wav
+-rw-rw-r--  0 0      0       11071  4 Sep  1998 action/sound/radio/female/right.wav
+-rw-rw-r--  0 0      0       46694  2 Sep  1998 action/sound/radio/female/taking_f.wav
+-rw-rw-r--  0 0      0       21352  2 Sep  1998 action/sound/radio/female/teamdown.wav
+-rw-rw-r--  0 0      0       24596  2 Sep  1998 action/sound/radio/female/treport.wav
+-rw-rw-r--  0 0      0       13287  4 Sep  1998 action/sound/radio/female/up.wav
+-rw-rw-r--  0 0      0       11076  2 Sep  1998 action/sound/radio/female/1.wav
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/sound/radio/male/
+-rw-rw-r--  0 0      0       13244 14 Sep  1998 action/sound/radio/male/10.wav
+-rw-rw-r--  0 0      0      119368 11 Sep  1998 action/sound/radio/male/rdeath.wav
+-rw-rw-r--  0 0      0       48320 11 Sep  1998 action/sound/radio/male/taking_f.wav
+-rw-rw-r--  0 0      0       13388 14 Sep  1998 action/sound/radio/male/1.wav
+-rw-rw-r--  0 0      0       13366 14 Sep  1998 action/sound/radio/male/2.wav
+-rw-rw-r--  0 0      0       17658 14 Sep  1998 action/sound/radio/male/3.wav
+-rw-rw-r--  0 0      0       14445 14 Sep  1998 action/sound/radio/male/4.wav
+-rw-rw-r--  0 0      0       16605 14 Sep  1998 action/sound/radio/male/5.wav
+-rw-rw-r--  0 0      0       18942 14 Sep  1998 action/sound/radio/male/6.wav
+-rw-rw-r--  0 0      0       17746 14 Sep  1998 action/sound/radio/male/7.wav
+-rw-rw-r--  0 0      0       14174 14 Sep  1998 action/sound/radio/male/8.wav
+-rw-rw-r--  0 0      0       15356 14 Sep  1998 action/sound/radio/male/9.wav
+-rw-rw-r--  0 0      0        8754 14 Sep  1998 action/sound/radio/male/up.wav
+-rw-rw-r--  0 0      0       12757 14 Sep  1998 action/sound/radio/male/down.wav
+-rw-rw-r--  0 0      0       13828 14 Sep  1998 action/sound/radio/male/left.wav
+-rw-rw-r--  0 0      0       11308 14 Sep  1998 action/sound/radio/male/right.wav
+-rw-rw-r--  0 0      0       13384 14 Sep  1998 action/sound/radio/male/back.wav
+-rw-rw-r--  0 0      0       13399 14 Sep  1998 action/sound/radio/male/forward.wav
+-rw-rw-r--  0 0      0       21729 14 Sep  1998 action/sound/radio/male/enemyd.wav
+-rw-rw-r--  0 0      0       19873 14 Sep  1998 action/sound/radio/male/enemys.wav
+-rw-rw-r--  0 0      0       11468 14 Sep  1998 action/sound/radio/male/go.wav
+-rw-rw-r--  0 0      0       14481 14 Sep  1998 action/sound/radio/male/im_hit.wav
+-rw-rw-r--  0 0      0       19308 14 Sep  1998 action/sound/radio/male/reportin.wav
+-rw-rw-r--  0 0      0       28033 14 Sep  1998 action/sound/radio/male/teamdown.wav
+-rw-rw-r--  0 0      0       24610 14 Sep  1998 action/sound/radio/male/treport.wav
+-rw-rw-r--  0 0      0       15405 14 Sep  1998 action/sound/radio/male/cover.wav
+-rw-rw-r--  0 0      0          53 16 Sep  1998 action/Action Quake2 Home Page.url
+-rw-rw-r--  0 0      0        3279 14 Sep  1998 action/radio.txt
+-rw-rw-r--  0 0      0       13585 12 Nov  1998 action/v100c.txt
+-rw-rw-r--  0 0      0        1016 12 Nov  1998 action/vwep.txt
+-rw-rw-r--  0 0      0        2388 12 Nov  1998 action/extras.txt
+-rw-rw-r--  0 0      0        4356 30 Oct  1998 action/autoexec.cfg
+```
+
+Contents of `actn1Ccl.zip`:
+
+```text
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/
+-rw-rw-r--  0 0      0         449 16 Sep  1998 action/inetserver.cfg
+-rw-rw-r--  0 0      0      328704 29 Sep  1998 action/gamex86.dll
+-rw-rw-r--  0 0      0         335 16 Sep  1998 action/LANserver.cfg
+-rw-rw-r--  0 0      0       10042 16 Sep  1998 action/action.txt
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/male/
+-rw-rw-r--  0 0      0        8480 10 Apr  1998 action/players/male/bluebeard.pcx
+-rw-rw-r--  0 0      0        1885 12 Nov  1998 action/players/male/bluebeard_i.PCX
+-rw-rw-r--  0 0      0        1816 12 Nov  1998 action/players/male/CHOWda_i.PCX
+-rw-rw-r--  0 0      0       37208 31 Jul  1998 action/players/male/CHOWda2.pcx
+-rw-rw-r--  0 0      0       61661 27 Nov  1997 action/players/male/commando.pcx
+-rw-rw-r--  0 0      0        1852 12 Nov  1998 action/players/male/commando_i.PCX
+-rw-rw-r--  0 0      0      278592 27 Nov  1997 action/players/male/tris.md2
+-rw-rw-r--  0 0      0        1773 27 May  1998 action/players/male/siris_i.pcx
+-rw-rw-r--  0 0      0        1863 12 Nov  1998 action/players/male/indy_i.PCX
+-rw-rw-r--  0 0      0       26461 26 May  1998 action/players/male/sabotage.pcx
+-rw-rw-r--  0 0      0       56756 27 Jul  1998 action/players/male/Mohoney.PCX
+-rw-rw-r--  0 0      0       33265 10 Apr  1998 action/players/male/indy.pcx
+-rw-rw-r--  0 0      0        1846 12 Nov  1998 action/players/male/madmaxy_i.PCX
+-rw-rw-r--  0 0      0        1615 27 Jul  1998 action/players/male/marsell_i.pcx
+-rw-rw-r--  0 0      0        1920 12 Nov  1998 action/players/male/mcLaine_i.PCX
+-rw-rw-r--  0 0      0       15455 26 Jul  1998 action/players/male/MikeyL.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/rembo_i.PCX
+-rw-rw-r--  0 0      0        1797 12 Nov  1998 action/players/male/LeservoirCat_i.PCX
+-rw-rw-r--  0 0      0       22571 10 Aug  1998 action/players/male/RIGS.pcx
+-rw-rw-r--  0 0      0        1857 12 Nov  1998 action/players/male/sabotage_i.PCX
+-rw-rw-r--  0 0      0        1862 12 Nov  1998 action/players/male/DaShaft_i.PCX
+-rw-rw-r--  0 0      0       30192  2 Jun  1998 action/players/male/DaShaft.pcx
+-rw-rw-r--  0 0      0       19909 27 Jul  1998 action/players/male/butchy.pcx
+-rw-rw-r--  0 0      0       40092 20 Jun  1998 action/players/male/snowcamo.pcx
+-rw-rw-r--  0 0      0        1804 20 Jun  1998 action/players/male/snowcamo_i.pcx
+-rw-rw-r--  0 0      0        1863 20 Jun  1998 action/players/male/KGB_I.PCX
+-rw-rw-r--  0 0      0       23971 20 Jun  1998 action/players/male/KGB.PCX
+-rw-rw-r--  0 0      0        1789 12 Nov  1998 action/players/male/CHOWda2_i.PCX
+-rw-rw-r--  0 0      0        1823 12 Nov  1998 action/players/male/butchy_i.PCX
+-rw-rw-r--  0 0      0       11110  5 Apr  1998 action/players/male/siris.pcx
+-rw-rw-r--  0 0      0        9319 27 Jul  1998 action/players/male/inVince.pcx
+-rw-rw-r--  0 0      0       11599 10 Apr  1998 action/players/male/CHOWda.pcx
+-rw-rw-r--  0 0      0        1801 12 Nov  1998 action/players/male/Mohoney_i.PCX
+-rw-rw-r--  0 0      0        9052 27 Jul  1998 action/players/male/jewels.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/jewels_i.PCX
+-rw-rw-r--  0 0      0       21593 15 Mar  1998 action/players/male/mcLaine.pcx
+-rw-rw-r--  0 0      0       17497 12 Jul  1998 action/players/male/BABarracuda.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/mikeyL_i.PCX
+-rw-rw-r--  0 0      0       25148 16 Mar  1998 action/players/male/rembo.pcx
+-rw-rw-r--  0 0      0       34078 27 Jul  1998 action/players/male/marsell.pcx
+-rw-rw-r--  0 0      0       34737  1 Aug  1998 action/players/male/madmaxy.pcx
+-rw-rw-r--  0 0      0        1802 10 Aug  1998 action/players/male/RIGS_i.pcx
+-rw-rw-r--  0 0      0        1770 12 Nov  1998 action/players/male/inVince_i.PCX
+-rw-rw-r--  0 0      0       94376  9 Nov  1998 action/players/male/a_m61frag.md2
+-rw-rw-r--  0 0      0         594 12 Nov  1998 action/players/male/readme.txt
+-rw-rw-r--  0 0      0        1897 23 Mar  1998 action/players/male/mason_i.pcx
+-rw-rw-r--  0 0      0       30035 23 Mar  1998 action/players/male/mason.pcx
+-rw-rw-r--  0 0      0       87012  9 Nov  1998 action/players/male/w_akimbo.MD2
+-rw-rw-r--  0 0      0       30087 27 Feb  1998 action/players/male/Blues.pcx
+-rw-rw-r--  0 0      0        1667  1 May  1998 action/players/male/CAJIN_I.PCX
+-rw-rw-r--  0 0      0        8610  2 May  1998 action/players/male/CAJIN.PCX
+-rw-rw-r--  0 0      0       11060 10 Aug  1998 action/players/male/ROGER.pcx
+-rw-rw-r--  0 0      0        1690 10 Aug  1998 action/players/male/ROGER_I.pcx
+-rw-rw-r--  0 0      0        1717 27 Feb  1998 action/players/male/blues_i.pcx
+-rw-rw-r--  0 0      0       13737 25 Feb  1998 action/players/male/Cop.pcx
+-rw-rw-r--  0 0      0        1143 25 Feb  1998 action/players/male/Cop_i.pcx
+-rw-rw-r--  0 0      0       21630 20 Feb  1998 action/players/male/Nut.pcx
+-rw-rw-r--  0 0      0        1160  3 Mar  1998 action/players/male/Nut_i.pcx
+-rw-rw-r--  0 0      0        8704 28 Dec  1997 action/players/male/robber.pcx
+-rw-rw-r--  0 0      0        1237 28 Dec  1997 action/players/male/robber_i.pcx
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/grunt.pcx
+-rw-rw-r--  0 0      0        1797 12 Nov  1998 action/players/male/grunt_i.PCX
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/LeservoirCat.pcx
+-rw-rw-r--  0 0      0       63468  9 Nov  1998 action/players/male/w_cannon.md2
+-rw-rw-r--  0 0      0       43960  9 Nov  1998 action/players/male/w_knife.md2
+-rw-rw-r--  0 0      0       57828  9 Nov  1998 action/players/male/w_m4.md2
+-rw-rw-r--  0 0      0       47668  9 Nov  1998 action/players/male/w_mk23.MD2
+-rw-rw-r--  0 0      0       40404  9 Nov  1998 action/players/male/w_mp5.md2
+-rw-rw-r--  0 0      0       47236  9 Nov  1998 action/players/male/w_sniper.md2
+-rw-rw-r--  0 0      0       43916  9 Nov  1998 action/players/male/w_super90.md2
+-rw-rw-r--  0 0      0        1910 12 Nov  1998 action/players/male/BABarracuda_i.PCX
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/female/
+-rw-rw-r--  0 0      0       50897 27 Nov  1997 action/players/female/brianna.pcx
+-rw-rw-r--  0 0      0        1968 27 Nov  1997 action/players/female/brianna_i.pcx
+-rw-rw-r--  0 0      0       52745 27 Nov  1997 action/players/female/ensign.pcx
+-rw-rw-r--  0 0      0        1971 27 Nov  1997 action/players/female/ensign_i.pcx
+-rw-rw-r--  0 0      0       51062 27 Nov  1997 action/players/female/jezebel.pcx
+-rw-rw-r--  0 0      0        1950 27 Nov  1997 action/players/female/jezebel_i.pcx
+-rw-rw-r--  0 0      0       61037 27 Nov  1997 action/players/female/jungle.pcx
+-rw-rw-r--  0 0      0        2118 27 Nov  1997 action/players/female/jungle_i.pcx
+-rw-rw-r--  0 0      0      275632 27 Nov  1997 action/players/female/tris.md2
+-rw-rw-r--  0 0      0       50891 27 Nov  1997 action/players/female/venus.pcx
+-rw-rw-r--  0 0      0        1963 27 Nov  1997 action/players/female/venus_i.pcx
+-rw-rw-r--  0 0      0       38912 27 Nov  1997 action/players/female/weapon.md2
+-rw-rw-r--  0 0      0        9089 27 Nov  1997 action/players/female/weapon.pcx
+-rw-rw-r--  0 0      0       83416 24 Oct  1998 action/players/female/a_m61frag.md2
+-rw-rw-r--  0 0      0        1982 12 Nov  1998 action/players/female/leeloop_i.PCX
+-rw-rw-r--  0 0      0       38382  5 Feb  1998 action/players/female/Leeloop.pcx
+-rw-rw-r--  0 0      0        1857 12 Nov  1998 action/players/female/sarah_OhConnor_i.pcx
+-rw-rw-r--  0 0      0       87028 24 Oct  1998 action/players/female/w_akimbo.md2
+-rw-rw-r--  0 0      0       51567  6 Aug  1998 action/players/female/sarah_OhConnor.pcx
+-rw-rw-r--  0 0      0       63500  7 Nov  1998 action/players/female/w_cannon.md2
+-rw-rw-r--  0 0      0       43964 24 Oct  1998 action/players/female/w_knife.md2
+-rw-rw-r--  0 0      0       57872 24 Oct  1998 action/players/female/w_m4.md2
+-rw-rw-r--  0 0      0       47684 24 Oct  1998 action/players/female/w_mk23.md2
+-rw-rw-r--  0 0      0       40408 24 Oct  1998 action/players/female/w_mp5.md2
+-rw-rw-r--  0 0      0       47240 24 Oct  1998 action/players/female/w_sniper.md2
+-rw-rw-r--  0 0      0       43920 24 Oct  1998 action/players/female/w_super90.md2
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/terror/
+-rw-rw-r--  0 0      0        2067  1 Jul  1998 action/players/terror/red cop_i.pcx
+-rw-rw-r--  0 0      0        1950  1 Jul  1998 action/players/terror/black cop_i.pcx
+-rw-rw-r--  0 0      0       51744  1 Jul  1998 action/players/terror/blue cop.pcx
+-rw-rw-r--  0 0      0        1958  1 Jul  1998 action/players/terror/blue cop_i.pcx
+-rw-rw-r--  0 0      0       54950 30 Jun  1998 action/players/terror/csw black.pcx
+-rw-rw-r--  0 0      0        1842 30 Jun  1998 action/players/terror/csw black_i.pcx
+-rw-rw-r--  0 0      0       57014 30 Jun  1998 action/players/terror/csw blue.pcx
+-rw-rw-r--  0 0      0        1895 30 Jun  1998 action/players/terror/csw blue_i.pcx
+-rw-rw-r--  0 0      0       55210 30 Jun  1998 action/players/terror/csw crazy.pcx
+-rw-rw-r--  0 0      0        1819 30 Jun  1998 action/players/terror/csw crazy_i.pcx
+-rw-rw-r--  0 0      0       56591 30 Jun  1998 action/players/terror/csw red.pcx
+-rw-rw-r--  0 0      0        1899  1 Jul  1998 action/players/terror/csw red_i.pcx
+-rw-rw-r--  0 0      0       51442  1 Jul  1998 action/players/terror/red cop.pcx
+-rw-rw-r--  0 0      0       49769  1 Jul  1998 action/players/terror/black cop.pcx
+-rw-rw-r--  0 0      0      307680 12 Jul  1998 action/players/terror/tris.md2
+-rw-rw-r--  0 0      0       58140 14 Aug  1998 action/players/terror/weapon.md2
+-rw-rw-r--  0 0      0       57021 12 Jul  1998 action/players/terror/csw.pcx
+-rw-rw-r--  0 0      0       57021 11 Jul  1998 action/players/terror/KGB.PCX
+-rw-rw-r--  0 0      0       43381 10 Aug  1998 action/players/terror/skyterr.pcx
+-rw-rw-r--  0 0      0        1635  9 Aug  1998 action/players/terror/terror_i.pcx
+-rw-rw-r--  0 0      0        1783  9 Aug  1998 action/players/terror/swat_i.pcx
+-rw-rw-r--  0 0      0        1735  9 Aug  1998 action/players/terror/terror_i2.pcx
+-rw-rw-r--  0 0      0       23890 10 Aug  1998 action/players/terror/terror.pcx
+-rw-rw-r--  0 0      0       41355 10 Aug  1998 action/players/terror/swat.pcx
+-rw-rw-r--  0 0      0        1838 11 Aug  1998 action/players/terror/jungleterr_i.pcx
+-rw-rw-r--  0 0      0        1892 11 Aug  1998 action/players/terror/desertterr_i.pcx
+-rw-rw-r--  0 0      0       48736 11 Aug  1998 action/players/terror/jungleterr.pcx
+-rw-rw-r--  0 0      0       47363 11 Aug  1998 action/players/terror/desertterr.pcx
+-rw-rw-r--  0 0      0        1481 11 Aug  1998 action/players/terror/skyterr_i.pcx
+-rw-rw-r--  0 0      0       45854 11 Aug  1998 action/players/terror/urbanterr.pcx
+-rw-rw-r--  0 0      0        1756 11 Aug  1998 action/players/terror/urbanterr_i.pcx
+-rw-rw-r--  0 0      0       38709 14 Aug  1998 action/players/terror/swatsnipe.pcx
+-rw-rw-r--  0 0      0        1636 14 Aug  1998 action/players/terror/swatsnipe_i.pcx
+-rw-rw-r--  0 0      0       53684 12 Aug  1998 action/players/terror/weapon.pcx
+-rw-rw-r--  0 0      0       94376 26 Oct  1998 action/players/terror/a_m61frag.md2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/terror/w_akimbo.md2
+-rw-rw-r--  0 0      0       63468 26 Oct  1998 action/players/terror/w_cannon.md2
+-rw-rw-r--  0 0      0       43960 26 Oct  1998 action/players/terror/w_knife.md2
+-rw-rw-r--  0 0      0       57828 26 Oct  1998 action/players/terror/w_m4.md2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/terror/w_mk23.md2
+-rw-rw-r--  0 0      0       40404 26 Oct  1998 action/players/terror/w_mp5.md2
+-rw-rw-r--  0 0      0       47236 26 Oct  1998 action/players/terror/w_sniper.md2
+-rw-rw-r--  0 0      0       43916 26 Oct  1998 action/players/terror/w_super90.md2
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/sydney/
+-rw-rw-r--  0 0      0       10847 25 Apr  1998 action/players/sydney/weapon.PCX
+-rw-rw-r--  0 0      0       35484 25 Apr  1998 action/players/sydney/weapon.md2
+-rw-rw-r--  0 0      0      302128 25 Apr  1998 action/players/sydney/tris.md2
+-rw-rw-r--  0 0      0        1742 25 Apr  1998 action/players/sydney/sydney_i.pcx
+-rw-rw-r--  0 0      0        2294 25 Apr  1998 action/players/sydney/sydney.txt
+-rw-rw-r--  0 0      0       60653 25 Apr  1998 action/players/sydney/sydney.PCX
+-rw-rw-r--  0 0      0        1763 25 Apr  1998 action/players/sydney/ctf_r_i.PCX
+-rw-rw-r--  0 0      0       31397 25 Apr  1998 action/players/sydney/ctf_r.PCX
+-rw-rw-r--  0 0      0        1742 25 Apr  1998 action/players/sydney/ctf_b_i.PCX
+-rw-rw-r--  0 0      0       30444 25 Apr  1998 action/players/sydney/ctf_b.PCX
+-rw-rw-r--  0 0      0        5730 25 Apr  1998 action/players/sydney/sydney.JPG
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/ActionMale/
+-rw-rw-r--  0 0      0       39455 21 Sep  1998 action/players/ActionMale/Chucky.pcx
+-rw-rw-r--  0 0      0       43916 13 Nov  1998 action/players/ActionMale/w_super90.MD2
+-rw-rw-r--  0 0      0       94416  7 Nov  1998 action/players/ActionMale/a_m61frag.md2
+-rw-rw-r--  0 0      0        1895 12 Nov  1998 action/players/ActionMale/chucky_i.PCX
+-rw-rw-r--  0 0      0       24891  6 Sep  1998 action/players/ActionMale/Jewels.pcx
+-rw-rw-r--  0 0      0      175284  7 Nov  1998 action/players/ActionMale/tris.md2
+-rw-rw-r--  0 0      0       41319 19 Sep  1997 action/players/ActionMale/daFist.pcx
+-rw-rw-r--  0 0      0       35585 26 Sep  1998 action/players/ActionMale/Axef.pcx
+-rw-rw-r--  0 0      0       31925 10 Sep  1998 action/players/ActionMale/BluceDojo.PCX
+-rw-rw-r--  0 0      0       41504 10 Sep  1998 action/players/ActionMale/BluceRee.pcx
+-rw-rw-r--  0 0      0        1960 12 Nov  1998 action/players/ActionMale/bluceree_i.PCX
+-rw-rw-r--  0 0      0        2188 19 Sep  1997 action/players/ActionMale/daFist_i.pcx
+-rw-rw-r--  0 0      0        1840 12 Nov  1998 action/players/ActionMale/Axef_i.PCX
+-rw-rw-r--  0 0      0        2042 24 Aug  1998 action/players/ActionMale/Jewels_i.pcx
+-rw-rw-r--  0 0      0       36756 31 Oct  1998 action/players/ActionMale/seagull.pcx
+-rw-rw-r--  0 0      0        1871 12 Nov  1998 action/players/ActionMale/seagull_i.PCX
+-rw-rw-r--  0 0      0       27769  6 Sep  1998 action/players/ActionMale/inVince.pcx
+-rw-rw-r--  0 0      0        1943 12 Nov  1998 action/players/ActionMale/inVince_i.PCX
+-rw-rw-r--  0 0      0       47236 13 Nov  1998 action/players/ActionMale/w_sniper.MD2
+-rw-rw-r--  0 0      0       40404 13 Nov  1998 action/players/ActionMale/w_mp5.MD2
+-rw-rw-r--  0 0      0       47668 13 Nov  1998 action/players/ActionMale/w_mk23.MD2
+-rw-rw-r--  0 0      0       57828 13 Nov  1998 action/players/ActionMale/w_m4.MD2
+-rw-rw-r--  0 0      0       43960 13 Nov  1998 action/players/ActionMale/w_knife.MD2
+-rw-rw-r--  0 0      0       63468 13 Nov  1998 action/players/ActionMale/w_cannon.MD2
+-rw-rw-r--  0 0      0       47620 20 Oct  1998 action/players/ActionMale/Weapon.md2
+-rw-rw-r--  0 0      0       87012 13 Nov  1998 action/players/ActionMale/w_akimbo.MD2
+-rw-rw-r--  0 0      0        1947 12 Nov  1998 action/players/ActionMale/jewel_i.PCX
+-rw-rw-r--  0 0      0        1995 10 Sep  1998 action/players/ActionMale/BluceDojo_i.PCX
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/sas/
+-rw-rw-r--  0 0      0       94376 26 Oct  1998 action/players/sas/a_m61frag.MD2
+-rw-rw-r--  0 0      0       33033 12 Jul  1998 action/players/sas/decsas.pcx
+-rw-rw-r--  0 0      0      267484 28 Jun  1998 action/players/sas/tris.md2
+-rw-rw-r--  0 0      0       32218 10 Aug  1998 action/players/sas/sas2.pcx
+-rw-rw-r--  0 0      0        1584  9 Aug  1998 action/players/sas/sas2_i.pcx
+-rw-rw-r--  0 0      0       36568 10 Aug  1998 action/players/sas/sasDC.pcx
+-rw-rw-r--  0 0      0        1733 10 Aug  1998 action/players/sas/sasDC_i.pcx
+-rw-rw-r--  0 0      0       35182 10 Aug  1998 action/players/sas/sasDC2.pcx
+-rw-rw-r--  0 0      0        1707 10 Aug  1998 action/players/sas/sasDC2_i.pcx
+-rw-rw-r--  0 0      0        1585 20 Aug  1998 action/players/sas/SasJungle_i.pcx
+-rw-rw-r--  0 0      0       40169 20 Aug  1998 action/players/sas/SasJungle.pcx
+-rw-rw-r--  0 0      0        1584  9 Aug  1998 action/players/sas/SASPolice_i.pcx
+-rw-rw-r--  0 0      0       33301 14 Oct  1998 action/players/sas/SasPolice.pcx
+-rw-rw-r--  0 0      0       36908  9 Aug  1998 action/players/sas/sasUC.PCX
+-rw-rw-r--  0 0      0        1742  9 Aug  1998 action/players/sas/sasUC_i.PCX
+-rw-rw-r--  0 0      0       13116  6 Oct  1998 action/players/sas/SASuc2.jpg
+-rw-rw-r--  0 0      0       35095  9 Aug  1998 action/players/sas/sasUC2.pcx
+-rw-rw-r--  0 0      0        1665  9 Aug  1998 action/players/sas/sasUC2_i.pcx
+-rw-rw-r--  0 0      0       41474 27 Sep  1998 action/players/sas/sas-urban.pcx
+-rw-rw-r--  0 0      0        1976 27 Sep  1998 action/players/sas/sas-urban_i.pcx
+-rw-rw-r--  0 0      0        1585 10 Oct  1998 action/players/sas/SasUrban_i.pcx
+-rw-rw-r--  0 0      0       35146 10 Oct  1998 action/players/sas/SasUrban.pcx
+-rw-rw-r--  0 0      0       41201  8 Aug  1998 action/players/sas/sasWC.PCX
+-rw-rw-r--  0 0      0        1767  1 Sep  1998 action/players/sas/sasWC_i.pcx
+-rw-rw-r--  0 0      0        1999 27 Sep  1998 action/players/sas/sas-woodland_i.pcx
+-rw-rw-r--  0 0      0       45825 27 Sep  1998 action/players/sas/sas-woodland.pcx
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/sas/w_akimbo.MD2
+-rw-rw-r--  0 0      0       63468 26 Oct  1998 action/players/sas/w_cannon.MD2
+-rw-rw-r--  0 0      0       43960 26 Oct  1998 action/players/sas/w_knife.MD2
+-rw-rw-r--  0 0      0       57828 26 Oct  1998 action/players/sas/w_m4.MD2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/sas/w_mk23.MD2
+-rw-rw-r--  0 0      0       40404 26 Oct  1998 action/players/sas/w_mp5.MD2
+-rw-rw-r--  0 0      0       47236 26 Oct  1998 action/players/sas/w_sniper.MD2
+-rw-rw-r--  0 0      0       43916 26 Oct  1998 action/players/sas/w_super90.MD2
+-rw-rw-r--  0 0      0       42868 30 Jun  1998 action/players/sas/weapon.MD2
+-rw-rw-r--  0 0      0        9057 30 Jun  1998 action/players/sas/weapon.PCX
+-rw-rw-r--  0 0      0        1585 28 Jun  1998 action/players/sas/mud_i.pcx
+-rw-rw-r--  0 0      0       34097 11 Aug  1998 action/players/sas/mud.PCX
+-rw-rw-r--  0 0      0       71345 15 Oct  1998 action/players/sas/akimbo.pcx
+-rw-rw-r--  0 0      0        7080 15 Oct  1998 action/players/sas/cannon.PCX
+-rw-rw-r--  0 0      0       37878 15 Oct  1998 action/players/sas/grenade.pcx
+-rw-rw-r--  0 0      0       17048 15 Oct  1998 action/players/sas/knife.pcx
+-rw-rw-r--  0 0      0       69803 15 Oct  1998 action/players/sas/m4.pcx
+-rw-rw-r--  0 0      0       71345 15 Oct  1998 action/players/sas/MK23.PCX
+-rw-rw-r--  0 0      0       85761 15 Oct  1998 action/players/sas/MP5.PCX
+-rw-rw-r--  0 0      0       33713 15 Oct  1998 action/players/sas/ssg3k.pcx
+-rw-rw-r--  0 0      0       47311 15 Oct  1998 action/players/sas/SUPER90.PCX
+-rw-rw-r--  0 0      0       19085 12 Nov  1998 action/readme.txt
+-rw-rw-r--  0 0      0        2238  1 Apr  1998 action/actq2.ico
+-rw-rw-r--  0 0      0         696 29 Sep  1998 action/bugfixes.txt
+-rw-rw-r--  0 0      0     5346795 12 Nov  1998 action/pak0.pak
+-rw-rw-r--  0 0      0         476 16 Sep  1998 action/action.ini
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/demos/
+-rw-rw-r--  0 0      0        9773 16 Sep  1998 action/demos/blah.dm2
+-rw-rw-r--  0 0      0        8091 16 Sep  1998 action/demos/blah2.dm2
+-rw-rw-r--  0 0      0        7603 16 Sep  1998 action/configexamples.zip
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/sound/
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/sound/radio/
+-rw-rw-r--  0 0      0        8044  2 Sep  1998 action/sound/radio/click.wav
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/sound/radio/female/
+-rw-rw-r--  0 0      0       11076  2 Sep  1998 action/sound/radio/female/10.wav
+-rw-rw-r--  0 0      0       13274  4 Sep  1998 action/sound/radio/female/back.wav
+-rw-rw-r--  0 0      0       11078  2 Sep  1998 action/sound/radio/female/cover.wav
+-rw-rw-r--  0 0      0       13288  4 Sep  1998 action/sound/radio/female/down.wav
+-rw-rw-r--  0 0      0       19906  2 Sep  1998 action/sound/radio/female/enemyd.wav
+-rw-rw-r--  0 0      0       19937  2 Sep  1998 action/sound/radio/female/enemys.wav
+-rw-rw-r--  0 0      0       17693  4 Sep  1998 action/sound/radio/female/forward.wav
+-rw-rw-r--  0 0      0       11588  2 Sep  1998 action/sound/radio/female/go.wav
+-rw-rw-r--  0 0      0       11077  2 Sep  1998 action/sound/radio/female/2.wav
+-rw-rw-r--  0 0      0       11086  2 Sep  1998 action/sound/radio/female/3.wav
+-rw-rw-r--  0 0      0       11092  2 Sep  1998 action/sound/radio/female/4.wav
+-rw-rw-r--  0 0      0       11038  2 Sep  1998 action/sound/radio/female/5.wav
+-rw-rw-r--  0 0      0       16217  2 Sep  1998 action/sound/radio/female/6.wav
+-rw-rw-r--  0 0      0       15506  2 Sep  1998 action/sound/radio/female/7.wav
+-rw-rw-r--  0 0      0       11069  2 Sep  1998 action/sound/radio/female/8.wav
+-rw-rw-r--  0 0      0       11070  2 Sep  1998 action/sound/radio/female/9.wav
+-rw-rw-r--  0 0      0       15502  2 Sep  1998 action/sound/radio/female/im_hit.wav
+-rw-rw-r--  0 0      0       17688  4 Sep  1998 action/sound/radio/female/left.wav
+-rw-rw-r--  0 0      0      128904 14 Sep  1998 action/sound/radio/female/rdeath.wav
+-rw-rw-r--  0 0      0       19349  2 Sep  1998 action/sound/radio/female/reportin.wav
+-rw-rw-r--  0 0      0       11071  4 Sep  1998 action/sound/radio/female/right.wav
+-rw-rw-r--  0 0      0       46694  2 Sep  1998 action/sound/radio/female/taking_f.wav
+-rw-rw-r--  0 0      0       21352  2 Sep  1998 action/sound/radio/female/teamdown.wav
+-rw-rw-r--  0 0      0       24596  2 Sep  1998 action/sound/radio/female/treport.wav
+-rw-rw-r--  0 0      0       13287  4 Sep  1998 action/sound/radio/female/up.wav
+-rw-rw-r--  0 0      0       11076  2 Sep  1998 action/sound/radio/female/1.wav
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/sound/radio/male/
+-rw-rw-r--  0 0      0       13244 14 Sep  1998 action/sound/radio/male/10.wav
+-rw-rw-r--  0 0      0      119368 11 Sep  1998 action/sound/radio/male/rdeath.wav
+-rw-rw-r--  0 0      0       48320 11 Sep  1998 action/sound/radio/male/taking_f.wav
+-rw-rw-r--  0 0      0       13388 14 Sep  1998 action/sound/radio/male/1.wav
+-rw-rw-r--  0 0      0       13366 14 Sep  1998 action/sound/radio/male/2.wav
+-rw-rw-r--  0 0      0       17658 14 Sep  1998 action/sound/radio/male/3.wav
+-rw-rw-r--  0 0      0       14445 14 Sep  1998 action/sound/radio/male/4.wav
+-rw-rw-r--  0 0      0       16605 14 Sep  1998 action/sound/radio/male/5.wav
+-rw-rw-r--  0 0      0       18942 14 Sep  1998 action/sound/radio/male/6.wav
+-rw-rw-r--  0 0      0       17746 14 Sep  1998 action/sound/radio/male/7.wav
+-rw-rw-r--  0 0      0       14174 14 Sep  1998 action/sound/radio/male/8.wav
+-rw-rw-r--  0 0      0       15356 14 Sep  1998 action/sound/radio/male/9.wav
+-rw-rw-r--  0 0      0        8754 14 Sep  1998 action/sound/radio/male/up.wav
+-rw-rw-r--  0 0      0       12757 14 Sep  1998 action/sound/radio/male/down.wav
+-rw-rw-r--  0 0      0       13828 14 Sep  1998 action/sound/radio/male/left.wav
+-rw-rw-r--  0 0      0       11308 14 Sep  1998 action/sound/radio/male/right.wav
+-rw-rw-r--  0 0      0       13384 14 Sep  1998 action/sound/radio/male/back.wav
+-rw-rw-r--  0 0      0       13399 14 Sep  1998 action/sound/radio/male/forward.wav
+-rw-rw-r--  0 0      0       21729 14 Sep  1998 action/sound/radio/male/enemyd.wav
+-rw-rw-r--  0 0      0       19873 14 Sep  1998 action/sound/radio/male/enemys.wav
+-rw-rw-r--  0 0      0       11468 14 Sep  1998 action/sound/radio/male/go.wav
+-rw-rw-r--  0 0      0       14481 14 Sep  1998 action/sound/radio/male/im_hit.wav
+-rw-rw-r--  0 0      0       19308 14 Sep  1998 action/sound/radio/male/reportin.wav
+-rw-rw-r--  0 0      0       28033 14 Sep  1998 action/sound/radio/male/teamdown.wav
+-rw-rw-r--  0 0      0       24610 14 Sep  1998 action/sound/radio/male/treport.wav
+-rw-rw-r--  0 0      0       15405 14 Sep  1998 action/sound/radio/male/cover.wav
+-rw-rw-r--  0 0      0          53 16 Sep  1998 action/Action Quake2 Home Page.url
+-rw-rw-r--  0 0      0        3279 14 Sep  1998 action/radio.txt
+-rw-rw-r--  0 0      0       13585 12 Nov  1998 action/v100c.txt
+-rw-rw-r--  0 0      0        1016 12 Nov  1998 action/vwep.txt
+-rw-rw-r--  0 0      0        2388 12 Nov  1998 action/extras.txt
+-rw-rw-r--  0 0      0        4356 30 Oct  1998 action/autoexec.cfg
+```
+
+
+Contents of `actn1Cup.exe`:
+
+```text
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/sas/
+-rw-rw-r--  0 0      0       47311 15 Oct  1998 action/players/sas/SUPER90.PCX
+-rw-rw-r--  0 0      0       33713 15 Oct  1998 action/players/sas/ssg3k.pcx
+-rw-rw-r--  0 0      0       85761 15 Oct  1998 action/players/sas/MP5.PCX
+-rw-rw-r--  0 0      0       71345 15 Oct  1998 action/players/sas/MK23.PCX
+-rw-rw-r--  0 0      0       69803 15 Oct  1998 action/players/sas/m4.pcx
+-rw-rw-r--  0 0      0       17048 15 Oct  1998 action/players/sas/knife.pcx
+-rw-rw-r--  0 0      0       37878 15 Oct  1998 action/players/sas/grenade.pcx
+-rw-rw-r--  0 0      0        7080 15 Oct  1998 action/players/sas/cannon.PCX
+-rw-rw-r--  0 0      0       71345 15 Oct  1998 action/players/sas/akimbo.pcx
+-rw-rw-r--  0 0      0       34097 11 Aug  1998 action/players/sas/mud.PCX
+-rw-rw-r--  0 0      0        1585 28 Jun  1998 action/players/sas/mud_i.pcx
+-rw-rw-r--  0 0      0        9057 30 Jun  1998 action/players/sas/weapon.PCX
+-rw-rw-r--  0 0      0       42868 30 Jun  1998 action/players/sas/weapon.MD2
+-rw-rw-r--  0 0      0       43916 26 Oct  1998 action/players/sas/w_super90.MD2
+-rw-rw-r--  0 0      0       47236 26 Oct  1998 action/players/sas/w_sniper.MD2
+-rw-rw-r--  0 0      0       40404 26 Oct  1998 action/players/sas/w_mp5.MD2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/sas/w_mk23.MD2
+-rw-rw-r--  0 0      0       57828 26 Oct  1998 action/players/sas/w_m4.MD2
+-rw-rw-r--  0 0      0       43960 26 Oct  1998 action/players/sas/w_knife.MD2
+-rw-rw-r--  0 0      0       63468 26 Oct  1998 action/players/sas/w_cannon.MD2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/sas/w_akimbo.MD2
+-rw-rw-r--  0 0      0       45825 27 Sep  1998 action/players/sas/sas-woodland.pcx
+-rw-rw-r--  0 0      0        1999 27 Sep  1998 action/players/sas/sas-woodland_i.pcx
+-rw-rw-r--  0 0      0        1767  1 Sep  1998 action/players/sas/sasWC_i.pcx
+-rw-rw-r--  0 0      0       41201  8 Aug  1998 action/players/sas/sasWC.PCX
+-rw-rw-r--  0 0      0       35146 10 Oct  1998 action/players/sas/SasUrban.pcx
+-rw-rw-r--  0 0      0        1585 10 Oct  1998 action/players/sas/SasUrban_i.pcx
+-rw-rw-r--  0 0      0        1976 27 Sep  1998 action/players/sas/sas-urban_i.pcx
+-rw-rw-r--  0 0      0       41474 27 Sep  1998 action/players/sas/sas-urban.pcx
+-rw-rw-r--  0 0      0        1665  9 Aug  1998 action/players/sas/sasUC2_i.pcx
+-rw-rw-r--  0 0      0       35095  9 Aug  1998 action/players/sas/sasUC2.pcx
+-rw-rw-r--  0 0      0       13116  6 Oct  1998 action/players/sas/SASuc2.jpg
+-rw-rw-r--  0 0      0        1742  9 Aug  1998 action/players/sas/sasUC_i.PCX
+-rw-rw-r--  0 0      0       36908  9 Aug  1998 action/players/sas/sasUC.PCX
+-rw-rw-r--  0 0      0       33301 14 Oct  1998 action/players/sas/SasPolice.pcx
+-rw-rw-r--  0 0      0        1584  9 Aug  1998 action/players/sas/SASPolice_i.pcx
+-rw-rw-r--  0 0      0       40169 20 Aug  1998 action/players/sas/SasJungle.pcx
+-rw-rw-r--  0 0      0        1585 20 Aug  1998 action/players/sas/SasJungle_i.pcx
+-rw-rw-r--  0 0      0        1707 10 Aug  1998 action/players/sas/sasDC2_i.pcx
+-rw-rw-r--  0 0      0       35182 10 Aug  1998 action/players/sas/sasDC2.pcx
+-rw-rw-r--  0 0      0        1733 10 Aug  1998 action/players/sas/sasDC_i.pcx
+-rw-rw-r--  0 0      0       36568 10 Aug  1998 action/players/sas/sasDC.pcx
+-rw-rw-r--  0 0      0        1584  9 Aug  1998 action/players/sas/sas2_i.pcx
+-rw-rw-r--  0 0      0       32218 10 Aug  1998 action/players/sas/sas2.pcx
+-rw-rw-r--  0 0      0      267484 28 Jun  1998 action/players/sas/tris.md2
+-rw-rw-r--  0 0      0       33033 12 Jul  1998 action/players/sas/decsas.pcx
+-rw-rw-r--  0 0      0       94376 26 Oct  1998 action/players/sas/a_m61frag.MD2
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/ActionMale/
+-rw-rw-r--  0 0      0        1995 10 Sep  1998 action/players/ActionMale/BluceDojo_i.PCX
+-rw-rw-r--  0 0      0        1947 12 Nov  1998 action/players/ActionMale/jewel_i.PCX
+-rw-rw-r--  0 0      0       87012 13 Nov  1998 action/players/ActionMale/w_akimbo.MD2
+-rw-rw-r--  0 0      0       47620 20 Oct  1998 action/players/ActionMale/Weapon.md2
+-rw-rw-r--  0 0      0       63468 13 Nov  1998 action/players/ActionMale/w_cannon.MD2
+-rw-rw-r--  0 0      0       43960 13 Nov  1998 action/players/ActionMale/w_knife.MD2
+-rw-rw-r--  0 0      0       57828 13 Nov  1998 action/players/ActionMale/w_m4.MD2
+-rw-rw-r--  0 0      0       47668 13 Nov  1998 action/players/ActionMale/w_mk23.MD2
+-rw-rw-r--  0 0      0       40404 13 Nov  1998 action/players/ActionMale/w_mp5.MD2
+-rw-rw-r--  0 0      0       47236 13 Nov  1998 action/players/ActionMale/w_sniper.MD2
+-rw-rw-r--  0 0      0        1943 12 Nov  1998 action/players/ActionMale/inVince_i.PCX
+-rw-rw-r--  0 0      0       27769  6 Sep  1998 action/players/ActionMale/inVince.pcx
+-rw-rw-r--  0 0      0        1871 12 Nov  1998 action/players/ActionMale/seagull_i.PCX
+-rw-rw-r--  0 0      0       36756 31 Oct  1998 action/players/ActionMale/seagull.pcx
+-rw-rw-r--  0 0      0        2042 24 Aug  1998 action/players/ActionMale/Jewels_i.pcx
+-rw-rw-r--  0 0      0        1840 12 Nov  1998 action/players/ActionMale/Axef_i.PCX
+-rw-rw-r--  0 0      0        2188 19 Sep  1997 action/players/ActionMale/daFist_i.pcx
+-rw-rw-r--  0 0      0        1960 12 Nov  1998 action/players/ActionMale/bluceree_i.PCX
+-rw-rw-r--  0 0      0       41504 10 Sep  1998 action/players/ActionMale/BluceRee.pcx
+-rw-rw-r--  0 0      0       31925 10 Sep  1998 action/players/ActionMale/BluceDojo.PCX
+-rw-rw-r--  0 0      0       35585 26 Sep  1998 action/players/ActionMale/Axef.pcx
+-rw-rw-r--  0 0      0       41319 19 Sep  1997 action/players/ActionMale/daFist.pcx
+-rw-rw-r--  0 0      0      175284  7 Nov  1998 action/players/ActionMale/tris.md2
+-rw-rw-r--  0 0      0       24891  6 Sep  1998 action/players/ActionMale/Jewels.pcx
+-rw-rw-r--  0 0      0        1895 12 Nov  1998 action/players/ActionMale/chucky_i.PCX
+-rw-rw-r--  0 0      0       94416  7 Nov  1998 action/players/ActionMale/a_m61frag.md2
+-rw-rw-r--  0 0      0       43916 13 Nov  1998 action/players/ActionMale/w_super90.MD2
+-rw-rw-r--  0 0      0       39455 21 Sep  1998 action/players/ActionMale/Chucky.pcx
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/terror/
+-rw-rw-r--  0 0      0       43916 26 Oct  1998 action/players/terror/w_super90.md2
+-rw-rw-r--  0 0      0       47236 26 Oct  1998 action/players/terror/w_sniper.md2
+-rw-rw-r--  0 0      0       40404 26 Oct  1998 action/players/terror/w_mp5.md2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/terror/w_mk23.md2
+-rw-rw-r--  0 0      0       57828 26 Oct  1998 action/players/terror/w_m4.md2
+-rw-rw-r--  0 0      0       43960 26 Oct  1998 action/players/terror/w_knife.md2
+-rw-rw-r--  0 0      0       63468 26 Oct  1998 action/players/terror/w_cannon.md2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/terror/w_akimbo.md2
+-rw-rw-r--  0 0      0       94376 26 Oct  1998 action/players/terror/a_m61frag.md2
+-rw-rw-r--  0 0      0       53684 12 Aug  1998 action/players/terror/weapon.pcx
+-rw-rw-r--  0 0      0       58140 14 Aug  1998 action/players/terror/weapon.md2
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/female/
+-rw-rw-r--  0 0      0       43920 24 Oct  1998 action/players/female/w_super90.md2
+-rw-rw-r--  0 0      0       47240 24 Oct  1998 action/players/female/w_sniper.md2
+-rw-rw-r--  0 0      0       40408 24 Oct  1998 action/players/female/w_mp5.md2
+-rw-rw-r--  0 0      0       47684 24 Oct  1998 action/players/female/w_mk23.md2
+-rw-rw-r--  0 0      0       57872 24 Oct  1998 action/players/female/w_m4.md2
+-rw-rw-r--  0 0      0       43964 24 Oct  1998 action/players/female/w_knife.md2
+-rw-rw-r--  0 0      0       63500  7 Nov  1998 action/players/female/w_cannon.md2
+-rw-rw-r--  0 0      0       51567  6 Aug  1998 action/players/female/sarah_OhConnor.pcx
+-rw-rw-r--  0 0      0       87028 24 Oct  1998 action/players/female/w_akimbo.md2
+-rw-rw-r--  0 0      0        1857 12 Nov  1998 action/players/female/sarah_OhConnor_i.pcx
+-rw-rw-r--  0 0      0       38382  5 Feb  1998 action/players/female/Leeloop.pcx
+-rw-rw-r--  0 0      0        1982 12 Nov  1998 action/players/female/leeloop_i.PCX
+-rw-rw-r--  0 0      0       83416 24 Oct  1998 action/players/female/a_m61frag.md2
+-rw-rw-r--  0 0      0        9089 27 Nov  1997 action/players/female/weapon.pcx
+-rw-rw-r--  0 0      0       38912 27 Nov  1997 action/players/female/weapon.md2
+-rw-rw-r--  0 0      0        2118 27 Nov  1997 action/players/female/jungle_i.pcx
+-rw-rw-r--  0 0      0       61037 27 Nov  1997 action/players/female/jungle.pcx
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/male/
+-rw-rw-r--  0 0      0        1910 12 Nov  1998 action/players/male/BABarracuda_i.PCX
+-rw-rw-r--  0 0      0       43916  9 Nov  1998 action/players/male/w_super90.md2
+-rw-rw-r--  0 0      0       47236  9 Nov  1998 action/players/male/w_sniper.md2
+-rw-rw-r--  0 0      0       40404  9 Nov  1998 action/players/male/w_mp5.md2
+-rw-rw-r--  0 0      0       47668  9 Nov  1998 action/players/male/w_mk23.MD2
+-rw-rw-r--  0 0      0       57828  9 Nov  1998 action/players/male/w_m4.md2
+-rw-rw-r--  0 0      0       43960  9 Nov  1998 action/players/male/w_knife.md2
+-rw-rw-r--  0 0      0       63468  9 Nov  1998 action/players/male/w_cannon.md2
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/LeservoirCat.pcx
+-rw-rw-r--  0 0      0        1797 12 Nov  1998 action/players/male/grunt_i.PCX
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/grunt.pcx
+-rw-rw-r--  0 0      0        1237 28 Dec  1997 action/players/male/robber_i.pcx
+-rw-rw-r--  0 0      0        8704 28 Dec  1997 action/players/male/robber.pcx
+-rw-rw-r--  0 0      0        1160  3 Mar  1998 action/players/male/Nut_i.pcx
+-rw-rw-r--  0 0      0       21630 20 Feb  1998 action/players/male/Nut.pcx
+-rw-rw-r--  0 0      0        1143 25 Feb  1998 action/players/male/Cop_i.pcx
+-rw-rw-r--  0 0      0       13737 25 Feb  1998 action/players/male/Cop.pcx
+-rw-rw-r--  0 0      0        1717 27 Feb  1998 action/players/male/blues_i.pcx
+-rw-rw-r--  0 0      0        1690 10 Aug  1998 action/players/male/ROGER_I.pcx
+-rw-rw-r--  0 0      0       11060 10 Aug  1998 action/players/male/ROGER.pcx
+-rw-rw-r--  0 0      0        8610  2 May  1998 action/players/male/CAJIN.PCX
+-rw-rw-r--  0 0      0        1667  1 May  1998 action/players/male/CAJIN_I.PCX
+-rw-rw-r--  0 0      0       30087 27 Feb  1998 action/players/male/Blues.pcx
+-rw-rw-r--  0 0      0       87012  9 Nov  1998 action/players/male/w_akimbo.MD2
+-rw-rw-r--  0 0      0       30035 23 Mar  1998 action/players/male/mason.pcx
+-rw-rw-r--  0 0      0        1897 23 Mar  1998 action/players/male/mason_i.pcx
+-rw-rw-r--  0 0      0         594 12 Nov  1998 action/players/male/readme.txt
+-rw-rw-r--  0 0      0       94376  9 Nov  1998 action/players/male/a_m61frag.md2
+-rw-rw-r--  0 0      0        1770 12 Nov  1998 action/players/male/inVince_i.PCX
+-rw-rw-r--  0 0      0        1802 10 Aug  1998 action/players/male/RIGS_i.pcx
+-rw-rw-r--  0 0      0       34737  1 Aug  1998 action/players/male/madmaxy.pcx
+-rw-rw-r--  0 0      0       34078 27 Jul  1998 action/players/male/marsell.pcx
+-rw-rw-r--  0 0      0       25148 16 Mar  1998 action/players/male/rembo.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/mikeyL_i.PCX
+-rw-rw-r--  0 0      0       17497 12 Jul  1998 action/players/male/BABarracuda.pcx
+-rw-rw-r--  0 0      0       21593 15 Mar  1998 action/players/male/mcLaine.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/jewels_i.PCX
+-rw-rw-r--  0 0      0        9052 27 Jul  1998 action/players/male/jewels.pcx
+-rw-rw-r--  0 0      0        1801 12 Nov  1998 action/players/male/Mohoney_i.PCX
+-rw-rw-r--  0 0      0       11599 10 Apr  1998 action/players/male/CHOWda.pcx
+-rw-rw-r--  0 0      0        9319 27 Jul  1998 action/players/male/inVince.pcx
+-rw-rw-r--  0 0      0       11110  5 Apr  1998 action/players/male/siris.pcx
+-rw-rw-r--  0 0      0        1823 12 Nov  1998 action/players/male/butchy_i.PCX
+-rw-rw-r--  0 0      0        1789 12 Nov  1998 action/players/male/CHOWda2_i.PCX
+-rw-rw-r--  0 0      0       23971 20 Jun  1998 action/players/male/KGB.PCX
+-rw-rw-r--  0 0      0        1863 20 Jun  1998 action/players/male/KGB_I.PCX
+-rw-rw-r--  0 0      0        1804 20 Jun  1998 action/players/male/snowcamo_i.pcx
+-rw-rw-r--  0 0      0       40092 20 Jun  1998 action/players/male/snowcamo.pcx
+-rw-rw-r--  0 0      0       19909 27 Jul  1998 action/players/male/butchy.pcx
+-rw-rw-r--  0 0      0       30192  2 Jun  1998 action/players/male/DaShaft.pcx
+-rw-rw-r--  0 0      0        1862 12 Nov  1998 action/players/male/DaShaft_i.PCX
+-rw-rw-r--  0 0      0        1857 12 Nov  1998 action/players/male/sabotage_i.PCX
+-rw-rw-r--  0 0      0       22571 10 Aug  1998 action/players/male/RIGS.pcx
+-rw-rw-r--  0 0      0        1797 12 Nov  1998 action/players/male/LeservoirCat_i.PCX
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/rembo_i.PCX
+-rw-rw-r--  0 0      0       15455 26 Jul  1998 action/players/male/MikeyL.pcx
+-rw-rw-r--  0 0      0        1920 12 Nov  1998 action/players/male/mcLaine_i.PCX
+-rw-rw-r--  0 0      0        1615 27 Jul  1998 action/players/male/marsell_i.pcx
+-rw-rw-r--  0 0      0        1846 12 Nov  1998 action/players/male/madmaxy_i.PCX
+-rw-rw-r--  0 0      0       33265 10 Apr  1998 action/players/male/indy.pcx
+-rw-rw-r--  0 0      0       56756 27 Jul  1998 action/players/male/Mohoney.PCX
+-rw-rw-r--  0 0      0       26461 26 May  1998 action/players/male/sabotage.pcx
+-rw-rw-r--  0 0      0        1863 12 Nov  1998 action/players/male/indy_i.PCX
+-rw-rw-r--  0 0      0        1773 27 May  1998 action/players/male/siris_i.pcx
+-rw-rw-r--  0 0      0        1852 12 Nov  1998 action/players/male/commando_i.PCX
+-rw-rw-r--  0 0      0       61661 27 Nov  1997 action/players/male/commando.pcx
+-rw-rw-r--  0 0      0       37208 31 Jul  1998 action/players/male/CHOWda2.pcx
+-rw-rw-r--  0 0      0        1816 12 Nov  1998 action/players/male/CHOWda_i.PCX
+-rw-rw-r--  0 0      0        1885 12 Nov  1998 action/players/male/bluebeard_i.PCX
+-rw-rw-r--  0 0      0        2388 12 Nov  1998 action/extras.txt
+-rw-rw-r--  0 0      0        1016 12 Nov  1998 action/vwep.txt
+-rw-rw-r--  0 0      0       13585 12 Nov  1998 action/v100c.txt
+-rw-rw-r--  0 0      0          53 16 Sep  1998 action/Action Quake2 Home Page.url
+-rw-rw-r--  0 0      0         696 29 Sep  1998 action/bugfixes.txt
+-rw-rw-r--  0 0      0       19085 12 Nov  1998 action/readme.txt
+-rw-rw-r--  0 0      0       10042 16 Sep  1998 action/action.txt
+-rw-rw-r--  0 0      0      328704 29 Sep  1998 action/gamex86.dll
+```
+
+Contents of `actn1Cup.zip`:
+
+```text
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/sas/
+-rw-rw-r--  0 0      0       47311 15 Oct  1998 action/players/sas/SUPER90.PCX
+-rw-rw-r--  0 0      0       33713 15 Oct  1998 action/players/sas/ssg3k.pcx
+-rw-rw-r--  0 0      0       85761 15 Oct  1998 action/players/sas/MP5.PCX
+-rw-rw-r--  0 0      0       71345 15 Oct  1998 action/players/sas/MK23.PCX
+-rw-rw-r--  0 0      0       69803 15 Oct  1998 action/players/sas/m4.pcx
+-rw-rw-r--  0 0      0       17048 15 Oct  1998 action/players/sas/knife.pcx
+-rw-rw-r--  0 0      0       37878 15 Oct  1998 action/players/sas/grenade.pcx
+-rw-rw-r--  0 0      0        7080 15 Oct  1998 action/players/sas/cannon.PCX
+-rw-rw-r--  0 0      0       71345 15 Oct  1998 action/players/sas/akimbo.pcx
+-rw-rw-r--  0 0      0       34097 11 Aug  1998 action/players/sas/mud.PCX
+-rw-rw-r--  0 0      0        1585 28 Jun  1998 action/players/sas/mud_i.pcx
+-rw-rw-r--  0 0      0        9057 30 Jun  1998 action/players/sas/weapon.PCX
+-rw-rw-r--  0 0      0       42868 30 Jun  1998 action/players/sas/weapon.MD2
+-rw-rw-r--  0 0      0       43916 26 Oct  1998 action/players/sas/w_super90.MD2
+-rw-rw-r--  0 0      0       47236 26 Oct  1998 action/players/sas/w_sniper.MD2
+-rw-rw-r--  0 0      0       40404 26 Oct  1998 action/players/sas/w_mp5.MD2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/sas/w_mk23.MD2
+-rw-rw-r--  0 0      0       57828 26 Oct  1998 action/players/sas/w_m4.MD2
+-rw-rw-r--  0 0      0       43960 26 Oct  1998 action/players/sas/w_knife.MD2
+-rw-rw-r--  0 0      0       63468 26 Oct  1998 action/players/sas/w_cannon.MD2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/sas/w_akimbo.MD2
+-rw-rw-r--  0 0      0       45825 27 Sep  1998 action/players/sas/sas-woodland.pcx
+-rw-rw-r--  0 0      0        1999 27 Sep  1998 action/players/sas/sas-woodland_i.pcx
+-rw-rw-r--  0 0      0        1767  1 Sep  1998 action/players/sas/sasWC_i.pcx
+-rw-rw-r--  0 0      0       41201  8 Aug  1998 action/players/sas/sasWC.PCX
+-rw-rw-r--  0 0      0       35146 10 Oct  1998 action/players/sas/SasUrban.pcx
+-rw-rw-r--  0 0      0        1585 10 Oct  1998 action/players/sas/SasUrban_i.pcx
+-rw-rw-r--  0 0      0        1976 27 Sep  1998 action/players/sas/sas-urban_i.pcx
+-rw-rw-r--  0 0      0       41474 27 Sep  1998 action/players/sas/sas-urban.pcx
+-rw-rw-r--  0 0      0        1665  9 Aug  1998 action/players/sas/sasUC2_i.pcx
+-rw-rw-r--  0 0      0       35095  9 Aug  1998 action/players/sas/sasUC2.pcx
+-rw-rw-r--  0 0      0       13116  6 Oct  1998 action/players/sas/SASuc2.jpg
+-rw-rw-r--  0 0      0        1742  9 Aug  1998 action/players/sas/sasUC_i.PCX
+-rw-rw-r--  0 0      0       36908  9 Aug  1998 action/players/sas/sasUC.PCX
+-rw-rw-r--  0 0      0       33301 14 Oct  1998 action/players/sas/SasPolice.pcx
+-rw-rw-r--  0 0      0        1584  9 Aug  1998 action/players/sas/SASPolice_i.pcx
+-rw-rw-r--  0 0      0       40169 20 Aug  1998 action/players/sas/SasJungle.pcx
+-rw-rw-r--  0 0      0        1585 20 Aug  1998 action/players/sas/SasJungle_i.pcx
+-rw-rw-r--  0 0      0        1707 10 Aug  1998 action/players/sas/sasDC2_i.pcx
+-rw-rw-r--  0 0      0       35182 10 Aug  1998 action/players/sas/sasDC2.pcx
+-rw-rw-r--  0 0      0        1733 10 Aug  1998 action/players/sas/sasDC_i.pcx
+-rw-rw-r--  0 0      0       36568 10 Aug  1998 action/players/sas/sasDC.pcx
+-rw-rw-r--  0 0      0        1584  9 Aug  1998 action/players/sas/sas2_i.pcx
+-rw-rw-r--  0 0      0       32218 10 Aug  1998 action/players/sas/sas2.pcx
+-rw-rw-r--  0 0      0      267484 28 Jun  1998 action/players/sas/tris.md2
+-rw-rw-r--  0 0      0       33033 12 Jul  1998 action/players/sas/decsas.pcx
+-rw-rw-r--  0 0      0       94376 26 Oct  1998 action/players/sas/a_m61frag.MD2
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/ActionMale/
+-rw-rw-r--  0 0      0        1995 10 Sep  1998 action/players/ActionMale/BluceDojo_i.PCX
+-rw-rw-r--  0 0      0        1947 12 Nov  1998 action/players/ActionMale/jewel_i.PCX
+-rw-rw-r--  0 0      0       87012 13 Nov  1998 action/players/ActionMale/w_akimbo.MD2
+-rw-rw-r--  0 0      0       47620 20 Oct  1998 action/players/ActionMale/Weapon.md2
+-rw-rw-r--  0 0      0       63468 13 Nov  1998 action/players/ActionMale/w_cannon.MD2
+-rw-rw-r--  0 0      0       43960 13 Nov  1998 action/players/ActionMale/w_knife.MD2
+-rw-rw-r--  0 0      0       57828 13 Nov  1998 action/players/ActionMale/w_m4.MD2
+-rw-rw-r--  0 0      0       47668 13 Nov  1998 action/players/ActionMale/w_mk23.MD2
+-rw-rw-r--  0 0      0       40404 13 Nov  1998 action/players/ActionMale/w_mp5.MD2
+-rw-rw-r--  0 0      0       47236 13 Nov  1998 action/players/ActionMale/w_sniper.MD2
+-rw-rw-r--  0 0      0        1943 12 Nov  1998 action/players/ActionMale/inVince_i.PCX
+-rw-rw-r--  0 0      0       27769  6 Sep  1998 action/players/ActionMale/inVince.pcx
+-rw-rw-r--  0 0      0        1871 12 Nov  1998 action/players/ActionMale/seagull_i.PCX
+-rw-rw-r--  0 0      0       36756 31 Oct  1998 action/players/ActionMale/seagull.pcx
+-rw-rw-r--  0 0      0        2042 24 Aug  1998 action/players/ActionMale/Jewels_i.pcx
+-rw-rw-r--  0 0      0        1840 12 Nov  1998 action/players/ActionMale/Axef_i.PCX
+-rw-rw-r--  0 0      0        2188 19 Sep  1997 action/players/ActionMale/daFist_i.pcx
+-rw-rw-r--  0 0      0        1960 12 Nov  1998 action/players/ActionMale/bluceree_i.PCX
+-rw-rw-r--  0 0      0       41504 10 Sep  1998 action/players/ActionMale/BluceRee.pcx
+-rw-rw-r--  0 0      0       31925 10 Sep  1998 action/players/ActionMale/BluceDojo.PCX
+-rw-rw-r--  0 0      0       35585 26 Sep  1998 action/players/ActionMale/Axef.pcx
+-rw-rw-r--  0 0      0       41319 19 Sep  1997 action/players/ActionMale/daFist.pcx
+-rw-rw-r--  0 0      0      175284  7 Nov  1998 action/players/ActionMale/tris.md2
+-rw-rw-r--  0 0      0       24891  6 Sep  1998 action/players/ActionMale/Jewels.pcx
+-rw-rw-r--  0 0      0        1895 12 Nov  1998 action/players/ActionMale/chucky_i.PCX
+-rw-rw-r--  0 0      0       94416  7 Nov  1998 action/players/ActionMale/a_m61frag.md2
+-rw-rw-r--  0 0      0       43916 13 Nov  1998 action/players/ActionMale/w_super90.MD2
+-rw-rw-r--  0 0      0       39455 21 Sep  1998 action/players/ActionMale/Chucky.pcx
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/terror/
+-rw-rw-r--  0 0      0       43916 26 Oct  1998 action/players/terror/w_super90.md2
+-rw-rw-r--  0 0      0       47236 26 Oct  1998 action/players/terror/w_sniper.md2
+-rw-rw-r--  0 0      0       40404 26 Oct  1998 action/players/terror/w_mp5.md2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/terror/w_mk23.md2
+-rw-rw-r--  0 0      0       57828 26 Oct  1998 action/players/terror/w_m4.md2
+-rw-rw-r--  0 0      0       43960 26 Oct  1998 action/players/terror/w_knife.md2
+-rw-rw-r--  0 0      0       63468 26 Oct  1998 action/players/terror/w_cannon.md2
+-rw-rw-r--  0 0      0       87012 26 Oct  1998 action/players/terror/w_akimbo.md2
+-rw-rw-r--  0 0      0       94376 26 Oct  1998 action/players/terror/a_m61frag.md2
+-rw-rw-r--  0 0      0       53684 12 Aug  1998 action/players/terror/weapon.pcx
+-rw-rw-r--  0 0      0       58140 14 Aug  1998 action/players/terror/weapon.md2
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/female/
+-rw-rw-r--  0 0      0       43920 24 Oct  1998 action/players/female/w_super90.md2
+-rw-rw-r--  0 0      0       47240 24 Oct  1998 action/players/female/w_sniper.md2
+-rw-rw-r--  0 0      0       40408 24 Oct  1998 action/players/female/w_mp5.md2
+-rw-rw-r--  0 0      0       47684 24 Oct  1998 action/players/female/w_mk23.md2
+-rw-rw-r--  0 0      0       57872 24 Oct  1998 action/players/female/w_m4.md2
+-rw-rw-r--  0 0      0       43964 24 Oct  1998 action/players/female/w_knife.md2
+-rw-rw-r--  0 0      0       63500  7 Nov  1998 action/players/female/w_cannon.md2
+-rw-rw-r--  0 0      0       51567  6 Aug  1998 action/players/female/sarah_OhConnor.pcx
+-rw-rw-r--  0 0      0       87028 24 Oct  1998 action/players/female/w_akimbo.md2
+-rw-rw-r--  0 0      0        1857 12 Nov  1998 action/players/female/sarah_OhConnor_i.pcx
+-rw-rw-r--  0 0      0       38382  5 Feb  1998 action/players/female/Leeloop.pcx
+-rw-rw-r--  0 0      0        1982 12 Nov  1998 action/players/female/leeloop_i.PCX
+-rw-rw-r--  0 0      0       83416 24 Oct  1998 action/players/female/a_m61frag.md2
+-rw-rw-r--  0 0      0        9089 27 Nov  1997 action/players/female/weapon.pcx
+-rw-rw-r--  0 0      0       38912 27 Nov  1997 action/players/female/weapon.md2
+-rw-rw-r--  0 0      0        2118 27 Nov  1997 action/players/female/jungle_i.pcx
+-rw-rw-r--  0 0      0       61037 27 Nov  1997 action/players/female/jungle.pcx
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/male/
+-rw-rw-r--  0 0      0        1910 12 Nov  1998 action/players/male/BABarracuda_i.PCX
+-rw-rw-r--  0 0      0       43916  9 Nov  1998 action/players/male/w_super90.md2
+-rw-rw-r--  0 0      0       47236  9 Nov  1998 action/players/male/w_sniper.md2
+-rw-rw-r--  0 0      0       40404  9 Nov  1998 action/players/male/w_mp5.md2
+-rw-rw-r--  0 0      0       47668  9 Nov  1998 action/players/male/w_mk23.MD2
+-rw-rw-r--  0 0      0       57828  9 Nov  1998 action/players/male/w_m4.md2
+-rw-rw-r--  0 0      0       43960  9 Nov  1998 action/players/male/w_knife.md2
+-rw-rw-r--  0 0      0       63468  9 Nov  1998 action/players/male/w_cannon.md2
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/LeservoirCat.pcx
+-rw-rw-r--  0 0      0        1797 12 Nov  1998 action/players/male/grunt_i.PCX
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/grunt.pcx
+-rw-rw-r--  0 0      0        1237 28 Dec  1997 action/players/male/robber_i.pcx
+-rw-rw-r--  0 0      0        8704 28 Dec  1997 action/players/male/robber.pcx
+-rw-rw-r--  0 0      0        1160  3 Mar  1998 action/players/male/Nut_i.pcx
+-rw-rw-r--  0 0      0       21630 20 Feb  1998 action/players/male/Nut.pcx
+-rw-rw-r--  0 0      0        1143 25 Feb  1998 action/players/male/Cop_i.pcx
+-rw-rw-r--  0 0      0       13737 25 Feb  1998 action/players/male/Cop.pcx
+-rw-rw-r--  0 0      0        1717 27 Feb  1998 action/players/male/blues_i.pcx
+-rw-rw-r--  0 0      0        1690 10 Aug  1998 action/players/male/ROGER_I.pcx
+-rw-rw-r--  0 0      0       11060 10 Aug  1998 action/players/male/ROGER.pcx
+-rw-rw-r--  0 0      0        8610  2 May  1998 action/players/male/CAJIN.PCX
+-rw-rw-r--  0 0      0        1667  1 May  1998 action/players/male/CAJIN_I.PCX
+-rw-rw-r--  0 0      0       30087 27 Feb  1998 action/players/male/Blues.pcx
+-rw-rw-r--  0 0      0       87012  9 Nov  1998 action/players/male/w_akimbo.MD2
+-rw-rw-r--  0 0      0       30035 23 Mar  1998 action/players/male/mason.pcx
+-rw-rw-r--  0 0      0        1897 23 Mar  1998 action/players/male/mason_i.pcx
+-rw-rw-r--  0 0      0         594 12 Nov  1998 action/players/male/readme.txt
+-rw-rw-r--  0 0      0       94376  9 Nov  1998 action/players/male/a_m61frag.md2
+-rw-rw-r--  0 0      0        1770 12 Nov  1998 action/players/male/inVince_i.PCX
+-rw-rw-r--  0 0      0        1802 10 Aug  1998 action/players/male/RIGS_i.pcx
+-rw-rw-r--  0 0      0       34737  1 Aug  1998 action/players/male/madmaxy.pcx
+-rw-rw-r--  0 0      0       34078 27 Jul  1998 action/players/male/marsell.pcx
+-rw-rw-r--  0 0      0       25148 16 Mar  1998 action/players/male/rembo.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/mikeyL_i.PCX
+-rw-rw-r--  0 0      0       17497 12 Jul  1998 action/players/male/BABarracuda.pcx
+-rw-rw-r--  0 0      0       21593 15 Mar  1998 action/players/male/mcLaine.pcx
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/jewels_i.PCX
+-rw-rw-r--  0 0      0        9052 27 Jul  1998 action/players/male/jewels.pcx
+-rw-rw-r--  0 0      0        1801 12 Nov  1998 action/players/male/Mohoney_i.PCX
+-rw-rw-r--  0 0      0       11599 10 Apr  1998 action/players/male/CHOWda.pcx
+-rw-rw-r--  0 0      0        9319 27 Jul  1998 action/players/male/inVince.pcx
+-rw-rw-r--  0 0      0       11110  5 Apr  1998 action/players/male/siris.pcx
+-rw-rw-r--  0 0      0        1823 12 Nov  1998 action/players/male/butchy_i.PCX
+-rw-rw-r--  0 0      0        1789 12 Nov  1998 action/players/male/CHOWda2_i.PCX
+-rw-rw-r--  0 0      0       23971 20 Jun  1998 action/players/male/KGB.PCX
+-rw-rw-r--  0 0      0        1863 20 Jun  1998 action/players/male/KGB_I.PCX
+-rw-rw-r--  0 0      0        1804 20 Jun  1998 action/players/male/snowcamo_i.pcx
+-rw-rw-r--  0 0      0       40092 20 Jun  1998 action/players/male/snowcamo.pcx
+-rw-rw-r--  0 0      0       19909 27 Jul  1998 action/players/male/butchy.pcx
+-rw-rw-r--  0 0      0       30192  2 Jun  1998 action/players/male/DaShaft.pcx
+-rw-rw-r--  0 0      0        1862 12 Nov  1998 action/players/male/DaShaft_i.PCX
+-rw-rw-r--  0 0      0        1857 12 Nov  1998 action/players/male/sabotage_i.PCX
+-rw-rw-r--  0 0      0       22571 10 Aug  1998 action/players/male/RIGS.pcx
+-rw-rw-r--  0 0      0        1797 12 Nov  1998 action/players/male/LeservoirCat_i.PCX
+-rw-rw-r--  0 0      0        1808 12 Nov  1998 action/players/male/rembo_i.PCX
+-rw-rw-r--  0 0      0       15455 26 Jul  1998 action/players/male/MikeyL.pcx
+-rw-rw-r--  0 0      0        1920 12 Nov  1998 action/players/male/mcLaine_i.PCX
+-rw-rw-r--  0 0      0        1615 27 Jul  1998 action/players/male/marsell_i.pcx
+-rw-rw-r--  0 0      0        1846 12 Nov  1998 action/players/male/madmaxy_i.PCX
+-rw-rw-r--  0 0      0       33265 10 Apr  1998 action/players/male/indy.pcx
+-rw-rw-r--  0 0      0       56756 27 Jul  1998 action/players/male/Mohoney.PCX
+-rw-rw-r--  0 0      0       26461 26 May  1998 action/players/male/sabotage.pcx
+-rw-rw-r--  0 0      0        1863 12 Nov  1998 action/players/male/indy_i.PCX
+-rw-rw-r--  0 0      0        1773 27 May  1998 action/players/male/siris_i.pcx
+-rw-rw-r--  0 0      0        1852 12 Nov  1998 action/players/male/commando_i.PCX
+-rw-rw-r--  0 0      0       61661 27 Nov  1997 action/players/male/commando.pcx
+-rw-rw-r--  0 0      0       37208 31 Jul  1998 action/players/male/CHOWda2.pcx
+-rw-rw-r--  0 0      0        1816 12 Nov  1998 action/players/male/CHOWda_i.PCX
+-rw-rw-r--  0 0      0        1885 12 Nov  1998 action/players/male/bluebeard_i.PCX
+-rw-rw-r--  0 0      0        2388 12 Nov  1998 action/extras.txt
+-rw-rw-r--  0 0      0        1016 12 Nov  1998 action/vwep.txt
+-rw-rw-r--  0 0      0       13585 12 Nov  1998 action/v100c.txt
+-rw-rw-r--  0 0      0          53 16 Sep  1998 action/Action Quake2 Home Page.url
+-rw-rw-r--  0 0      0         696 29 Sep  1998 action/bugfixes.txt
+-rw-rw-r--  0 0      0       19085 12 Nov  1998 action/readme.txt
+-rw-rw-r--  0 0      0       10042 16 Sep  1998 action/action.txt
+-rw-rw-r--  0 0      0      328704 29 Sep  1998 action/gamex86.dll
+```
+
+Changelog from readme:
+
+```text
+New in v1.0c (!)
+* 2 brand new player models. Actionmale and SAS
+
+* Version 1.0c server update (read bugfixes.txt for more details) thanx to Siris for this
+
+* The Highly anticipated vwep support for all models except sydney
+
+* Sydney model does not have vwep because of time restraints, but it will be available for download from guild.telefragged.com soon (with a newly animated sydney and some new skins)
+
+* Skin name and icon changes for some skins for legal reasons, as well as new skins for most models (I can't remember all of the new skins)
+
+* Music and texture changes to the credits to remove the copyrighted material for legal reasons (we are still the ateam, but we don't want trouble for using their theme and logo)
+
+* all changes encompassed withing the v1.0a and 1.0b server updates (I am in a rush or I would find the text files.  Sorry, but it is good stuff only of course, so if you want to run a server cheack out action.telefragged.com to make sure you know everything you need)
+
+* this is the version that will be on the extremities pack, so if this is how you obtained this file, make sure you go to action.telefragged.com for any updates that may have been released.
+
+* Other stuff I am sure I am forgetting, but hopefully nothing too important.
+```
+
+# v1.0c Update VWeapon Fix
+
+Released as `vwepfix.zip` and `vwepfix.exe` on November 14 1998.
+
+Contents of `vwepfix.zip`:
+
+```text
+drwxrwxr-x  0 0      0           0 22 Nov  1998 action/
+-rw-rw-r--  0 0      0         322 14 Nov  1998 action/vwepfix.txt
+drwxrwxr-x  0 0      0           0 22 Nov  1998 action/players/
+drwxrwxr-x  0 0      0           0 22 Nov  1998 action/players/terror/
+-rw-rw-r--  0 0      0       43920  3 Nov  1998 action/players/terror/w_super90.md2
+-rw-rw-r--  0 0      0       47236  3 Nov  1998 action/players/terror/w_sniper.md2
+-rw-rw-r--  0 0      0       40404  3 Nov  1998 action/players/terror/w_mp5.md2
+-rw-rw-r--  0 0      0       47684  3 Nov  1998 action/players/terror/w_mk23.md2
+-rw-rw-r--  0 0      0       57828  3 Nov  1998 action/players/terror/w_m4.md2
+-rw-rw-r--  0 0      0       43960  3 Nov  1998 action/players/terror/w_knife.md2
+-rw-rw-r--  0 0      0       63500  3 Nov  1998 action/players/terror/w_cannon.md2
+-rw-rw-r--  0 0      0       86448 14 Nov  1998 action/players/terror/w_akimbo.md2
+-rw-rw-r--  0 0      0       94376  3 Nov  1998 action/players/terror/a_m61frag.md2
+-rw-rw-r--  0 0      0       53684 12 Aug  1998 action/players/terror/weapon.pcx
+-rw-rw-r--  0 0      0       58140 14 Aug  1998 action/players/terror/weapon.md2
+```
+
+
+Contents of `vwepfix.exe`:
+
+```text
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/
+-rw-rw-r--  0 0      0         322 14 Nov  1998 action/vwepfix.txt
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/
+drwxrwxr-x  0 0      0           0 14 Nov  1998 action/players/terror/
+-rw-rw-r--  0 0      0       43920  3 Nov  1998 action/players/terror/w_super90.md2
+-rw-rw-r--  0 0      0       47236  3 Nov  1998 action/players/terror/w_sniper.md2
+-rw-rw-r--  0 0      0       40404  3 Nov  1998 action/players/terror/w_mp5.md2
+-rw-rw-r--  0 0      0       47684  3 Nov  1998 action/players/terror/w_mk23.md2
+-rw-rw-r--  0 0      0       57828  3 Nov  1998 action/players/terror/w_m4.md2
+-rw-rw-r--  0 0      0       43960  3 Nov  1998 action/players/terror/w_knife.md2
+-rw-rw-r--  0 0      0       63500  3 Nov  1998 action/players/terror/w_cannon.md2
+-rw-rw-r--  0 0      0       86448 14 Nov  1998 action/players/terror/w_akimbo.md2
+-rw-rw-r--  0 0      0       94376  3 Nov  1998 action/players/terror/a_m61frag.md2
+-rw-rw-r--  0 0      0       53684 12 Aug  1998 action/players/terror/weapon.pcx
+-rw-rw-r--  0 0      0       58140 14 Aug  1998 action/players/terror/weapon.md2
+```
+
+Changelog from readme:
+
+```text
+Santa Suislide has made a small mistake.
+
+He put the SAS vwep in the terror directory so the terrorist vwep
+ looked all screwy.
+
+This will fix you up and make you feel all new.  As a matter of fact
+ it fixes one other problem with the terror vwep, but you never saw
+ that little problem so who cares right?  bwahah.
+```
+
+
+
 ## References
 
 Homepages:
