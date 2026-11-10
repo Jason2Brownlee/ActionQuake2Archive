@@ -21,6 +21,15 @@ Some people have been having problems with setting it up. Check your action.doc 
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
 
+Mentioned on Telefragged:
+
+> Latest News, April 4 -- Oh, just go vote
+>
+> Action Quake2 -- Update by Slade\
+> Version 0.82 of Action Quake2 has been released. Action Quake2 is a mod "where strategy, limited ammo, accuracy, and just damn cool looking fights dominate." It features a revised HUD, new skins, new weapons, like the hand cannon, and sniper rifle, along with a laser sight, silencer, and a ton of other features too numerous to mention. There is a server up at 157.252.163.44.
+
+-- [http://www.telefragged.com/archivednews/1998/apr1.shtml](https://web.archive.org/web/19980626070038/http://www.telefragged.com/archivednews/1998/apr1.shtml)
+
 There was no mention of this release in the historical changelog of later releases.
 
 ## v0.82 Fix
@@ -48,6 +57,15 @@ Mentioned on the Action Quake 2 homepage:
 > Version .85 release is out! This is just a gamex86.dll update, you don't need to download the 3.5 meg file... but it's now in the client pak if you are reading this and haven't downloaded the pak yet, don't worry about it, it's been updated. Also, we are pretty sure it is server side only, but just in case it might be a good idea to grab it if yer a client...
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+Mentioned on Telefragged:
+
+> Latest News, April 5 -- Be a good boy, and vote for your favorite news style
+>
+> Action Quake -- Update by QuakeGod\
+> In Action Quake 2 news, they've released version .85 which fixes some bugs and tweaks the mod a little. Action Quake 2 is a mod to make Quake 2 more (I would say realistic, but they want to make Quake more like a movie, and a lot of movies aren't all that realistic, but I suppose the end goal is to make it realistic) realistic.
+
+-- [http://www.telefragged.com/archivednews/1998/apr2.shtml](https://web.archive.org/web/19980626070017/http://www.telefragged.com/archivednews/1998/apr2.shtml)
 
 Changelog from later readmes:
 
@@ -147,6 +165,17 @@ Mentioned on the Action Quake 2 homepage:
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
 
+Mentioned on Telefragged:
+
+> Latest News: April 19, 1998 -- New Look for TeleFragged
+>
+> Action Quake 2 -- Update by QuakeGod\
+> To make Quake 2 as movie realistic as possible, Action Quake 2 v.89 is out. The latest additions include:
+>
+>> You cannot fire accurately while running (affects mgun and pistol). This is to prevent circle strafe fights and such - which have no place in an Action Movie! You can no longer drop grenades if you are using them. Some people were using this to cheat (including Bartender - doh!) Dats ok tho, he only did it "once.." If someone shoots his enemy off a ledge, out a window etc. causing them to die from fall damage, the attacker recieves a frag and the target does not lose one! One or two new death messages.
+
+-- [http://www.telefragged.com/archivednews/1998/apr4.shtml](https://web.archive.org/web/19980626065934/http://www.telefragged.com/archivednews/1998/apr4.shtml)
+
 Changelog from later readmes:
 
 > New in v.89
@@ -181,6 +210,21 @@ Mentioned on the Action Quake 2 homepage:
 > So, to update your current version grab v8X-v91.zip. If you've never installed Action Quake2 before, grab the actn91cl.zip.
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+Mentioned on Telefragged:
+
+> Latest News: May 18, 1998 -- Version 0.91 of Action Quake 2 released
+>
+> Action Quake 2 -- Update by QuakeGod\
+> Ah, your vicious appetite has been sated, as version .91 of Action Quake 2 has been released! Some of the changes and new features are as follows:
+>
+>> A new Map Pack
+>> Sniper rifle improvements
+>> Map Cycling
+>> Accuracy changes with respect to speed of movement
+>> A jumpkick that disarms
+
+-- [http://www.telefragged.com/archivednews/1998/may4.shtml](https://web.archive.org/web/19980626065722/http://www.telefragged.com/archivednews/1998/may4.shtml)
 
 Changelog from later readmes:
 
@@ -254,6 +298,23 @@ Mentioned on the Action Quake 2 homepage:
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
 
+Mentioned on Telefragged:
+
+> Latest News: May 27, 1998 -- New FrogBot Name Editor
+>
+> Action Quake 2 -- Update by QuakeGod\
+> Version .92 of the famous and popular Action Quake 2 (a mod to make Quake 2 more movie-lie) is out. It features the following and so much more:
+>
+>> * Sniper rifle is now 100% accurate, where you aim is where you shoot, not off to the side.
+>> * The two grenades bug (would fire two grenades when you die sometimes) is now fixed.
+>> * Dropping the sniper rifle while using it no longer causes "problems".
+>> * The jump kick has been tweaked. You will no longer be "kicked back" by stationary targets.
+>> * Completely new HUD (thanks to Snigglet). This HUD has a more Urban/90s feel.
+>> * All skins touched up, pluse three new ones.
+>> * Three new maps, two redone and a new one from our new member, Ace12GA.
+
+-- [http://www.telefragged.com/archivednews/1998/may7.shtml](https://web.archive.org/web/19980626065614/http://www.telefragged.com/archivednews/1998/may7.shtml)
+
 Changelog from later readmes:
 
 > New in v.92
@@ -277,6 +338,16 @@ Mentioned on the Action Quake 2 homepage:
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
 
+Mentioned on Telefragged:
+
+> Latest News: May 29, 1998 -- The Energy Quake mod joins the empire
+>
+> Action Quake 2 -- Update by Slade\
+> A dll update for those of you that didn't grab version 0.92 of Action Quake 2 has been released. There is also some news on the next version of Action Quake 2 and the possibility of separate versions of AQ2 for the lan and internet. Also a couple of Action Quake 2 server are back up and running at 207.229.26.31:27910 and 150.152.228.167:27910.
+
+-- [http://www.telefragged.com/archivednews/1998/may7.shtml](https://web.archive.org/web/19980626065614/http://www.telefragged.com/archivednews/1998/may7.shtml)
+
+
 ## v0.92a Fix 1
 
 Released as `ver92adl.zip` on May 31 1998.
@@ -288,6 +359,17 @@ Mentioned on the Action Quake 2 homepage:
 > Here is ver92adl.zip, the v.92a upgrade to fix the 3.15 compatibility issues (head bobbing), as well as an annoying bug involving dropping weapons while using grenades. Its server side only, so unless you run a server, you don't need it. BTW, just unzip this .zip into you \action
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+Mentioned on Telefragged:
+
+> Latest News: May 31, 1998 -- Enter: Famkebot
+>
+> Action Quake 2 -- Update by QuakeGod\
+> You know how I love to do this...
+>
+>> Version 92a of Action Quake2, the mod of modern mayhem, is out to fix compatibility problems with the 3.15 Quake2 updgrade. It is a server side only update, and fixes the head bobbing and grenade bugs that 3.15 caused.
+
+-- [http://www.telefragged.com/archivednews/1998/may7.shtml](https://web.archive.org/web/19980626065614/http://www.telefragged.com/archivednews/1998/may7.shtml)
 
 ## v0.92a Fix 2
 
@@ -312,6 +394,32 @@ Mentioned on the Action Quake 2 homepage:
 > Time to see those new models in 'Action'. Grab the new client (had to happen, sorry) here, actn93cl.exe, and unzip it directly to your quake2 directory.. If you just want the dll, its here, ver93dll.zip. New features include, but are not limited to:
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+Mentioned on Telefragged:
+
+> Latest News: June 23, 1998 -- Run over to ValveWorld
+>
+> Action Quake 2 -- Update by Slade\
+> Version 0.93 of Action Quake 2 has been released. This mod just keeps getting better here is the lowdown on the new version:
+>
+>> - The new models from Gooseman have been implemented!
+>> - The ammo counts for the weapons have been changed to reflect real life guns.
+>> - The weapons eject shells now. The server may turn this off by typing "shelloff 1" into the console if this hinders net play.
+>> - You are now limited to holding one grenade
+>> - There are 2 new maps, 'hijack' and 'Basev28'.
+>
+> Don't forget the Action Quake 2 map contest, you could win a new car, well um not really but I've always wanted to say that.
+
+-- [http://www.telefragged.com/](https://web.archive.org/web/19980626062429/http://www.telefragged.com/)
+
+And again on Telefragged:
+
+> Latest News: June 24, 1998 -- Mr. Hankey's Quake 2 level reviews
+>
+> Action Quake 2 -- Update by Slade\
+> Version .93 of Action Quake 2 was released yesterday and after playing it all day I must I give it the two big thumbs up. The new models look amazing, and the animations really add to the experience, you really feel like you are in the game. Don't forget about the Action Quake 2 map contest, there are some good prizes so get cracking on those maps.
+
+-- [http://www.telefragged.com/](https://web.archive.org/web/19980626062429/http://www.telefragged.com/)
 
 Changelog from readme:
 
