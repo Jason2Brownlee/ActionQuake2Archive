@@ -69,4 +69,4 @@ aq-client.tar.gz
 aq-vwep.tar.gz
 IRIXAction.zip
 IRIXAction.tar.gz
-action_x86.zip
+
