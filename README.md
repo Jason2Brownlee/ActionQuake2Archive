@@ -43,7 +43,7 @@ Release Date | File | Description
 19980819 | ver95adl.zip | AQ2 v0.95a
 19980908 | actn98up.zip | AQ2 v0.98
 19980909 | actn99up.zip | AQ2 v0.99
-19980916 | [actn10cl.exe](bin/actn10cl.exe)<br>actn10cl.zip | AQ2 v1.0
+19980916 | [actn10cl.exe](bin/actn10cl.exe)<br>actn10cl.zip<br>[docs.zip](bin/docs.zip) | AQ2 v1.0
 19980928 | actn10b.zip | AQ2 v1.0b
 19980929 | [actn10c.zip](bin/actn10c.zip) | AQ2 v1.0c
 19981020 | [actn101b2.zip](bin/actn101b2.zip) | AQ2 v1.1 beta 2

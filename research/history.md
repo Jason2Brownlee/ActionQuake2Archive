@@ -1134,7 +1134,11 @@ New in v.99
 
 ## v1.0
 
-Release as `actn10cl.exe` and `actn10cl.zip` on September 16 1998.
+Release on September 16 1998 as:
+
+* `actn10cl.exe`
+* `actn10cl.zip`
+* `docs.zip`
 
 Mentioned on Redwood:
 
@@ -1373,6 +1377,16 @@ drwxrwxr-x  0 0      0           0 16 Sep  1998 action/sound/radio/male/
 -rw-rw-r--  0 0      0        3279 14 Sep  1998 action/radio.txt
 -rw-rw-r--  0 0      0        9773 16 Sep  1998 action/demos/blah.dm2
 -rw-rw-r--  0 0      0        8091 16 Sep  1998 action/demos/blah2.dm2
+```
+
+Contents of `docs.zip`:
+
+```text
+-rw-rw-r--  0 0      0       12296 16 Sep  1998 v100.txt
+-rw-rw-r--  0 0      0         476 16 Sep  1998 action.ini
+-rw-rw-r--  0 0      0        7603 16 Sep  1998 configexamples.zip
+-rw-rw-r--  0 0      0       10042 16 Sep  1998 action.txt
+-rw-rw-r--  0 0      0       17394 16 Sep  1998 readme.txt
 ```
 
 Changelog from readme:
