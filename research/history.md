@@ -2246,6 +2246,8 @@ New in v1.0c (!)
 
 Released as `vwepfix.zip` and `vwepfix.exe` on November 14 1998.
 
+The `vwepfix.zip` release appears to have been constructed on November 22 with the same content from the `vwepfix.exe` release.
+
 Contents of `vwepfix.zip`:
 
 ```text
@@ -2265,7 +2267,6 @@ drwxrwxr-x  0 0      0           0 22 Nov  1998 action/players/terror/
 -rw-rw-r--  0 0      0       53684 12 Aug  1998 action/players/terror/weapon.pcx
 -rw-rw-r--  0 0      0       58140 14 Aug  1998 action/players/terror/weapon.md2
 ```
-
 
 Contents of `vwepfix.exe`:
 
@@ -2299,6 +2300,307 @@ This will fix you up and make you feel all new.  As a matter of fact
  it fixes one other problem with the terror vwep, but you never saw
  that little problem so who cares right?  bwahah.
 ```
+
+
+# v1.0c Fix
+
+Released as `1cCLfix.exe` and `1cCLfix.zip` on November 19 1998.
+
+Contents of `1cCLfix.exe`:
+
+```text
+drwxrwxr-x  0 0      0           0 18 Nov  1998 action/
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/sas/
+-rw-rw-r--  0 0      0        1206 18 Nov  1998 action/players/sas/README.txt
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/ActionMale/
+-rw-rw-r--  0 0      0        2515 18 Nov  1998 action/players/ActionMale/Readme.txt
+-rw-rw-r--  0 0      0       86624 15 Nov  1998 action/players/ActionMale/w_akimbo.md2
+-rw-rw-r--  0 0      0        1947 12 Nov  1998 action/players/ActionMale/jewels_i.PCX
+-rw-rw-r--  0 0      0       94416 15 Nov  1998 action/players/ActionMale/a_m61frag.md2
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/terror/
+-rw-rw-r--  0 0      0       86868 15 Nov  1998 action/players/terror/w_akimbo.md2
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/female/
+-rw-rw-r--  0 0      0       63500 19 Nov  1998 action/players/female/w_cannon.md2
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/male/
+-rw-rw-r--  0 0      0        1907 28 Oct  1998 action/players/male/police_i.pcx
+-rw-rw-r--  0 0      0        1734 30 Oct  1998 action/players/male/Police.txt
+-rw-rw-r--  0 0      0       57130 13 Nov  1998 action/players/male/police.pcx
+-rw-rw-r--  0 0      0        1991 28 Oct  1998 action/players/male/thug_i.PCX
+-rw-rw-r--  0 0      0        1724 30 Oct  1998 action/players/male/Thug.txt
+-rw-rw-r--  0 0      0       41895 13 Nov  1998 action/players/male/Thug.PCX
+-rw-rw-r--  0 0      0       86792 15 Nov  1998 action/players/male/w_akimbo.MD2
+-rw-rw-r--  0 0      0         594 12 Nov  1998 action/players/male/readme.txt
+-rw-rw-r--  0 0      0        1043 18 Nov  1998 action/fixinfo.txt
+```
+
+Contents of `1cCLfix.zip`:
+
+```text
+drwxrwxr-x  0 0      0           0 18 Nov  1998 action/
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/sas/
+-rw-rw-r--  0 0      0        1206 18 Nov  1998 action/players/sas/README.txt
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/ActionMale/
+-rw-rw-r--  0 0      0        2515 18 Nov  1998 action/players/ActionMale/Readme.txt
+-rw-rw-r--  0 0      0       86624 15 Nov  1998 action/players/ActionMale/w_akimbo.md2
+-rw-rw-r--  0 0      0        1947 12 Nov  1998 action/players/ActionMale/jewels_i.PCX
+-rw-rw-r--  0 0      0       94416 15 Nov  1998 action/players/ActionMale/a_m61frag.md2
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/terror/
+-rw-rw-r--  0 0      0       86868 15 Nov  1998 action/players/terror/w_akimbo.md2
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/female/
+-rw-rw-r--  0 0      0       63500 19 Nov  1998 action/players/female/w_cannon.md2
+drwxrwxr-x  0 0      0           0 19 Nov  1998 action/players/male/
+-rw-rw-r--  0 0      0        1907 28 Oct  1998 action/players/male/police_i.pcx
+-rw-rw-r--  0 0      0        1734 30 Oct  1998 action/players/male/Police.txt
+-rw-rw-r--  0 0      0       57130 13 Nov  1998 action/players/male/police.pcx
+-rw-rw-r--  0 0      0        1991 28 Oct  1998 action/players/male/thug_i.PCX
+-rw-rw-r--  0 0      0        1724 30 Oct  1998 action/players/male/Thug.txt
+-rw-rw-r--  0 0      0       41895 13 Nov  1998 action/players/male/Thug.PCX
+-rw-rw-r--  0 0      0       86792 15 Nov  1998 action/players/male/w_akimbo.MD2
+-rw-rw-r--  0 0      0         594 12 Nov  1998 action/players/male/readme.txt
+-rw-rw-r--  0 0      0        1043 18 Nov  1998 action/fixinfo.txt
+```
+
+Changelog:
+
+> Old St. Suislide is here with more little presents to make your holiday season just  little nicer for fragging.
+>
+> This comes with a readme file for the SAS model, and fixes some vwep issues.
+>
+> This SHOULD fix ALL of the vwep model issues from the action 1.0c release.
+>
+> This is the only fix you need.  There was a really quick one I threw together when the pack was first released, but it missed a few things. If you downloaded that pack, then this one will replace it.  If you didn't download that pack, then don't worry about it because this one fixes averything and more than the original quicky fix did.
+>
+> So, if you are reading this after installing the vwep fix onto the 1.0c  client release of action quake, then you are all set until the next release comes out.
+>
+> I want to thank Oddjob once again, this time for relinking skins to a few of these weapons so I had time to work on other things.  He fixed the majority of the problems since the skin linking was the only thing missed by the first fix.
+
+
+# v1.5
+
+Released on February 13 1999 as:
+
+* `as-1.5-x86-win32.zip`
+* `as-1.5-x86-linux.tar.gz`
+* `as-1.5.tar.gz`
+
+Contents of `as-1.5-x86-win32.zip`:
+
+```text
+-rw-------  0 101    100      8281 13 Feb  1999 README
+-rw-------  0 101    100     10013 13 Feb  1999 CHANGES
+-rw-------  0 101    100    323584 13 Feb  1999 gamex86.dll
+```
+
+Contents of `as-1.5-x86-linux.tar.gz`:
+
+```text
+-rw-------  0 ucs_brf users    8281 13 Feb  1999 README
+-rw-------  0 ucs_brf users   10013 13 Feb  1999 CHANGES
+-rwx------  0 ucs_brf users  407784 13 Feb  1999 gamei386.so
+```
+
+Contents of `as-1.5.tar.gz`:
+
+```text
+drwx------  0 ucs_brf users       0 13 Feb  1999 action/
+-rw-------  0 ucs_brf users   32519 13 Feb  1999 action/a_game.c
+-rw-------  0 ucs_brf users    5542  7 Feb  1999 action/a_items.c
+-rw-------  0 ucs_brf users    4761 13 Feb  1999 action/a_menu.c
+-rw-------  0 ucs_brf users     650 13 Feb  1999 action/a_menu.h
+-rw-------  0 ucs_brf users    1495  7 Feb  1999 action/a_radio.h
+-rw-------  0 ucs_brf users     659 13 Feb  1999 action/a_game.h
+-rw-------  0 ucs_brf users   34081  7 Feb  1999 action/g_ai.c
+-rw-------  0 ucs_brf users    7377  7 Feb  1999 action/g_chase.c
+-rw-------  0 ucs_brf users   34109  7 Feb  1999 action/g_cmds.c
+-rw-------  0 ucs_brf users   39700  7 Feb  1999 action/g_combat.c
+-rw-------  0 ucs_brf users   66828  7 Feb  1999 action/g_func.c
+-rw-------  0 ucs_brf users   86722  9 Feb  1999 action/g_items.c
+-rw-------  0 ucs_brf users   10231 13 Feb  1999 action/g_main.c
+-rw-------  0 ucs_brf users   55364  7 Feb  1999 action/g_misc.c
+-rw-------  0 ucs_brf users   22987  7 Feb  1999 action/g_monster.c
+-rw-------  0 ucs_brf users   35163  7 Feb  1999 action/g_phys.c
+-rw-------  0 ucs_brf users   22219 13 Feb  1999 action/g_save.c
+-rw-------  0 ucs_brf users   36629  9 Feb  1999 action/g_spawn.c
+-rw-------  0 ucs_brf users    6885  7 Feb  1999 action/g_svcmds.c
+-rw-------  0 ucs_brf users   24675  7 Feb  1999 action/g_target.c
+-rw-------  0 ucs_brf users   16720  7 Feb  1999 action/g_trigger.c
+-rw-------  0 ucs_brf users   13417  7 Feb  1999 action/g_turret.c
+-rw-------  0 ucs_brf users   14195  7 Feb  1999 action/g_utils.c
+-rw-------  0 ucs_brf users   53872  8 Feb  1999 action/g_weapon.c
+-rw-------  0 ucs_brf users   16255  7 Feb  1999 action/m_move.c
+-rw-------  0 ucs_brf users   73045 13 Feb  1999 action/p_client.c
+-rw-------  0 ucs_brf users   25667  7 Feb  1999 action/p_hud.c
+-rw-------  0 ucs_brf users    2781  7 Feb  1999 action/p_trail.c
+-rw-------  0 ucs_brf users   41875  9 Feb  1999 action/p_view.c
+-rw-------  0 ucs_brf users  179618 13 Feb  1999 action/p_weapon.c
+-rw-------  0 ucs_brf users   35524  7 Feb  1999 action/q_shared.c
+-rw-------  0 ucs_brf users   21641 13 Feb  1999 action/a_radio.c
+-rw-------  0 ucs_brf users    2501 13 Feb  1999 action/a_team.h
+-rw-------  0 ucs_brf users   50196 13 Feb  1999 action/a_team.c
+-rw-------  0 ucs_brf users   48424 13 Feb  1999 action/g_local.h
+-rw-------  0 ucs_brf users    8594  7 Feb  1999 action/game.h
+-rw-------  0 ucs_brf users    7154  7 Feb  1999 action/m_player.h
+-rw-------  0 ucs_brf users   48063  7 Feb  1999 action/q_shared.h
+-rw-------  0 ucs_brf users    4173 13 Feb  1999 action/Makefile
+-rw-------  0 ucs_brf users    8281 13 Feb  1999 action/README
+-rw-------  0 ucs_brf users   10013 13 Feb  1999 action/CHANGES
+-rw-------  0 ucs_brf users   25238  9 Feb  1999 action/a_cmds.c
+```
+
+# v1.51
+
+Released on March 15 1999 as:
+
+* `as-1.51-x86-win32.zip`
+* `as-1.51-x86-linux.tar.gz`
+* `as-1.51.tar.gz`
+
+Contents of `as-1.51-x86-win32.zip`:
+
+```text
+-rw-------  0 101    100      9406  2 Mar  1999 README
+-rw-------  0 101    100     13139 12 Mar  1999 CHANGES
+-rw-r--r--  0 101    100    344064 15 Mar  1999 gamex86.dll
+```
+
+Contents of `as-1.51-x86-linux.tar.gz`:
+
+```text
+-rw-------  0 ucs_brf users    9406  2 Mar  1999 README
+-rw-------  0 ucs_brf users   13139 12 Mar  1999 CHANGES
+-rwx------  0 ucs_brf users  414760 15 Mar  1999 gamei386.so
+```
+
+Contents of `as-1.51.tar.gz`:
+
+```text
+-rw-------  0 ucs_brf users   13139 12 Mar  1999 CHANGES
+-rw-------  0 ucs_brf users   18681  2 Mar  1999 LICENSE.TXT
+-rw-------  0 ucs_brf users    4173 15 Mar  1999 Makefile
+-rw-------  0 ucs_brf users    9406  2 Mar  1999 README
+-rw-------  0 ucs_brf users   25857 12 Mar  1999 a_cmds.c
+-rw-------  0 ucs_brf users   32935  2 Mar  1999 a_game.c
+-rw-------  0 ucs_brf users     809 14 Mar  1999 a_game.h
+-rw-------  0 ucs_brf users    5542  2 Mar  1999 a_items.c
+-rw-------  0 ucs_brf users    4761  2 Mar  1999 a_menu.c
+-rw-------  0 ucs_brf users     650  2 Mar  1999 a_menu.h
+-rw-------  0 ucs_brf users   22561 12 Mar  1999 a_radio.c
+-rw-------  0 ucs_brf users    1495  2 Mar  1999 a_radio.h
+-rw-------  0 ucs_brf users   50476  9 Mar  1999 a_team.c
+-rw-------  0 ucs_brf users    2501  2 Mar  1999 a_team.h
+-rw-------  0 ucs_brf users   34081  2 Mar  1999 g_ai.c
+-rw-------  0 ucs_brf users    7377  9 Mar  1999 g_chase.c
+-rw-------  0 ucs_brf users   35061  9 Mar  1999 g_cmds.c
+-rw-------  0 ucs_brf users   41949 14 Mar  1999 g_combat.c
+-rw-------  0 ucs_brf users   66828  2 Mar  1999 g_func.c
+-rw-------  0 ucs_brf users   87486  2 Mar  1999 g_items.c
+-rw-------  0 ucs_brf users   48594  2 Mar  1999 g_local.h
+-rw-------  0 ucs_brf users   10266  2 Mar  1999 g_main.c
+-rw-------  0 ucs_brf users   55364  2 Mar  1999 g_misc.c
+-rw-------  0 ucs_brf users   22987  2 Mar  1999 g_monster.c
+-rw-------  0 ucs_brf users   35163  2 Mar  1999 g_phys.c
+-rw-------  0 ucs_brf users   22326  2 Mar  1999 g_save.c
+-rw-------  0 ucs_brf users   36728  2 Mar  1999 g_spawn.c
+-rw-------  0 ucs_brf users    6881  2 Mar  1999 g_svcmds.c
+-rw-------  0 ucs_brf users   24675  2 Mar  1999 g_target.c
+-rw-------  0 ucs_brf users   16720  2 Mar  1999 g_trigger.c
+-rw-------  0 ucs_brf users   13417  2 Mar  1999 g_turret.c
+-rw-------  0 ucs_brf users   14195  2 Mar  1999 g_utils.c
+-rw-------  0 ucs_brf users   54099  2 Mar  1999 g_weapon.c
+-rw-------  0 ucs_brf users    8594  2 Mar  1999 game.h
+-rw-------  0 ucs_brf users   16255  2 Mar  1999 m_move.c
+-rw-------  0 ucs_brf users    7154  2 Mar  1999 m_player.h
+-rw-------  0 ucs_brf users   96193  2 Mar  1999 p_client.c
+-rw-------  0 ucs_brf users   25667  2 Mar  1999 p_hud.c
+-rw-------  0 ucs_brf users    2781  2 Mar  1999 p_trail.c
+-rw-------  0 ucs_brf users   41953  9 Mar  1999 p_view.c
+-rw-------  0 ucs_brf users  177541  9 Mar  1999 p_weapon.c
+-rw-------  0 ucs_brf users   35524  2 Mar  1999 q_shared.c
+-rw-------  0 ucs_brf users   48063  2 Mar  1999 q_shared.h
+```
+
+
+
+# v1.52
+
+Released on July 21 1999 as:
+
+* `as-1.52-x86-win32.zip`
+* `as-1.52-x86-linux.tar.gz`
+* `as-1.52.tar.gz`
+
+Contents of `as-1.52-x86-win32.zip`:
+
+```text
+-rw-rw-r--  0 0      0       20608 21 Jul  1999 CHANGES
+-rw-rw-r--  0 0      0       11355 21 Jul  1999 README
+-rw-rw-r--  0 0      0      437248 21 Jul  1999 gamex86.dll
+```
+
+
+Contents of `as-1.52-x86-linux.tar.gz`:
+
+```text
+-rw-------  0 ucs_brf users   20118 19 Jul  1999 CHANGES
+-rw-------  0 ucs_brf users   11074 19 Jul  1999 README
+-rwx------  0 ucs_brf users  433528 21 Jul  1999 gamei386.so
+```
+
+
+Contents of `as-1.52.tar.gz`:
+
+```text
+drwx------  0 ucs_brf users       0 21 Jul  1999 action/
+-rw-------  0 ucs_brf users   37176 26 Jun  1999 action/g_cmds.c
+-rw-------  0 ucs_brf users   46019 16 Jul  1999 action/g_combat.c
+-rw-------  0 ucs_brf users   66828 26 Jun  1999 action/g_func.c
+-rw-------  0 ucs_brf users   87584  4 Jul  1999 action/g_items.c
+-rw-------  0 ucs_brf users   11230  5 Jul  1999 action/g_main.c
+-rw-------  0 ucs_brf users   55541 26 Jun  1999 action/g_misc.c
+-rw-------  0 ucs_brf users   22987 26 Jun  1999 action/g_monster.c
+-rw-------  0 ucs_brf users   35317  4 Jul  1999 action/g_phys.c
+-rw-------  0 ucs_brf users   22835  5 Jul  1999 action/g_save.c
+-rw-------  0 ucs_brf users   37231 26 Jun  1999 action/g_spawn.c
+-rw-------  0 ucs_brf users    9860  5 Jul  1999 action/g_svcmds.c
+-rw-------  0 ucs_brf users   24732  4 Jul  1999 action/g_target.c
+-rw-------  0 ucs_brf users   16720 26 Jun  1999 action/g_trigger.c
+-rw-------  0 ucs_brf users   13417 26 Jun  1999 action/g_turret.c
+-rw-------  0 ucs_brf users   14195 26 Jun  1999 action/g_utils.c
+-rw-------  0 ucs_brf users   62374 11 Jul  1999 action/g_weapon.c
+-rw-------  0 ucs_brf users   16255 26 Jun  1999 action/m_move.c
+-rw-------  0 ucs_brf users  117037 19 Jul  1999 action/p_client.c
+-rw-------  0 ucs_brf users  188570  5 Jul  1999 action/p_weapon.c
+-rw-------  0 ucs_brf users   53777 16 Jul  1999 action/a_team.c
+-rw-------  0 ucs_brf users   35332 26 Jun  1999 action/p_view.c
+-rw-------  0 ucs_brf users   29232 11 Jul  1999 action/a_cmds.c
+-rw-------  0 ucs_brf users   34909  5 Jul  1999 action/a_game.c
+-rw-------  0 ucs_brf users    5561 26 Jun  1999 action/a_items.c
+-rw-------  0 ucs_brf users    4761 26 Jun  1999 action/a_menu.c
+-rw-------  0 ucs_brf users   34081 26 Jun  1999 action/g_ai.c
+-rw-------  0 ucs_brf users   22840  4 Jul  1999 action/a_radio.c
+-rw-------  0 ucs_brf users    9142  4 Jul  1999 action/g_chase.c
+-rw-------  0 ucs_brf users   26059 11 Jul  1999 action/p_hud.c
+-rw-------  0 ucs_brf users    2781 26 Jun  1999 action/p_trail.c
+-rw-------  0 ucs_brf users   35524 26 Jun  1999 action/q_shared.c
+-rw-------  0 ucs_brf users    7154 26 Jun  1999 action/m_player.h
+-rw-------  0 ucs_brf users   49443  5 Jul  1999 action/g_local.h
+-rw-------  0 ucs_brf users    8594 26 Jun  1999 action/game.h
+-rw-------  0 ucs_brf users    1116 21 Jul  1999 action/a_game.h
+-rw-------  0 ucs_brf users     650 26 Jun  1999 action/a_menu.h
+-rw-------  0 ucs_brf users    1495 26 Jun  1999 action/a_radio.h
+-rw-------  0 ucs_brf users    2605  4 Jul  1999 action/a_team.h
+-rw-------  0 ucs_brf users   48063 26 Jun  1999 action/q_shared.h
+-rw-------  0 ucs_brf users    4545 19 Jul  1999 action/Makefile
+-rw-------  0 ucs_brf users   11074 19 Jul  1999 action/README
+-rw-------  0 ucs_brf users   20118 19 Jul  1999 action/CHANGES
+-rw-------  0 ucs_brf users   18590  4 Jun  1999 action/LICENSE.TXT
+-rw-------  0 ucs_brf users   21615 26 Jun  1999 action/cgf_sfx_glass.c
+-rw-------  0 ucs_brf users   10387 26 Jun  1999 action/cgf_sfx_glass.h
+-rw-------  0 ucs_brf users    3813  4 Jul  1999 action/a_doorkick.c
+```
+
 
 
 

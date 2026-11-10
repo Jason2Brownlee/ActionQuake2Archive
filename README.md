@@ -52,8 +52,8 @@ Release Date | File | Description
 19981114 | [vwepfix.exe](bin/vwepfix.exe)<br>[vwepfix.zip](bin/vwepfix.zip) | AQ2 v1.0c VWeapon Fix
 19981119 | [1cCLfix.exe](bin/1cCLfix.exe)<br>[1cCLfix.zip](bin/1cCLfix.zip) | AQ2 v1.0c Fix
 19990213 | [as-1.5-x86-win32.zip](bin/as-1.5-x86-win32.zip)<br>[as-1.5-x86-linux.tar.gz](bin/as-1.5-x86-linux.tar.gz)<br>[as-1.5.tar.gz](bin/as-1.5.tar.gz) | AQ2 Server v1.5
-19990317 | [as-1.51-x86-win32.zip](bin/as-1.51-x86-win32.zip)<br>[as-1.51-x86-linux.tar.gz](bin/as-1.51-x86-linux.tar.gz)<br>[as-1.51.tar.gz](bin/as-1.51.tar.gz) | AQ2 Server v1.51
-19990720 | [as-1.52-x86-win32.zip](bin/as-1.52-x86-win32.zip)<br>[as-1.52-x86-linux.tar.gz](bin/as-1.52-x86-linux.tar.gz)<br>[as-1.52.tar.gz](bin/as-1.52.tar.gz) | AQ2 Server v1.52
+19990315 | [as-1.51-x86-win32.zip](bin/as-1.51-x86-win32.zip)<br>[as-1.51-x86-linux.tar.gz](bin/as-1.51-x86-linux.tar.gz)<br>[as-1.51.tar.gz](bin/as-1.51.tar.gz) | AQ2 Server v1.51
+19990721 | [as-1.52-x86-win32.zip](bin/as-1.52-x86-win32.zip)<br>[as-1.52-x86-linux.tar.gz](bin/as-1.52-x86-linux.tar.gz)<br>[as-1.52.tar.gz](bin/as-1.52.tar.gz) | AQ2 Server v1.52
 
 * **Date Format**: YYYY-MM-DD for easy sorting.
 * **No Link**: indicates that we could not locate a copy of the file yet.
