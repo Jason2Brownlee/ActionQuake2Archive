@@ -176,6 +176,15 @@ Mentioned on Telefragged:
 
 -- [http://www.telefragged.com/archivednews/1998/apr4.shtml](https://web.archive.org/web/19980626065934/http://www.telefragged.com/archivednews/1998/apr4.shtml)
 
+Mentioned on Redwood:
+
+> April 19, 1998
+>
+> Action Quake .89\
+> Action Quake version .89 is now available. This upgrade is for servers only.
+
+-- [http://redwood.stomped.com/498.html](https://web.archive.org/web/20011122034128/http://redwood.stomped.com/498.html)
+
 Changelog from later readmes:
 
 > New in v.89
@@ -421,6 +430,15 @@ And again on Telefragged:
 
 -- [http://www.telefragged.com/](https://web.archive.org/web/19980626062429/http://www.telefragged.com/)
 
+Mentioned on Redwood:
+
+> June 24, 1998
+>
+> Action Quake .93 Release/Contest\
+> Action Quake version .93 is out. To celebrate, there is also a map design contest.
+
+-- [http://redwood.stomped.com/698.html](https://web.archive.org/web/20010512214801/http://redwood.stomped.com/698.html)
+
 Changelog from readme:
 
 > New in v.93
@@ -527,6 +545,15 @@ Mentioned on the Action Quake 2 homepage:
 > Ok people, time to download the ver94dll.zip, and update your Action Quake2 to version .94. This is a server side only, so figure out if you need it or not. If you're not sure, update! The changes in v.94:
 
 -- [http://action.telefragged.com/oldnews.htm](https://web.archive.org/web/20030804020826/http://action.telefragged.com/oldnews.htm)
+
+Mentioned on Redwood (with a typo in the title):
+
+> July 22, 1998
+>
+> Action Quake2 v.92\
+> The version .94 is a server-side only patch, and it's available at http://action.telefragged.com/down.htm . It fixes falling damage, makes the MP5 and the handcannon more accurate, and has those classic "bug fixes".
+
+-- [http://redwood.stomped.com/798.html](https://web.archive.org/web/20011125211243/http://redwood.stomped.com/798.html)
 
 There was no mention of this release in the historical changelog of later releases.
 
@@ -983,6 +1010,15 @@ New in v.99
 
 Release as `actn10cl.exe` and `actn10cl.zip` on September 16 1998.
 
+Mentioned on Redwood:
+
+> September 16, 1998
+>
+> Action Quake 1.0 Released\
+> The Quake 2 mod, Action Quake, version 1.0 has been released. I've heard quite a few good things about this mod. I'll have to find time to check it out since I have so much to spare (NOT!).
+
+-- [http://redwood.stomped.com/998.html](https://web.archive.org/web/20011125201427/http://redwood.stomped.com/998.html)
+
 Contents of `actn10cl.exe`:
 
 ```text
@@ -1261,6 +1297,15 @@ Action Quake2 version 1.0c includes the following:
 ## v1.1 beta 2
 
 Released as `actn101b2.zip` on October 20 1998.
+
+Mentioned on Redwood:
+
+> October 21, 1998
+>
+> New Action Quake\
+> Action Quake version 1.1 beta 2 is now available. It fixes bugs and tweaks features according to Blue's.
+
+-- [http://redwood.stomped.com/1098.html](https://web.archive.org/web/20010506231327/http://redwood.stomped.com/1098.html)
 
 Contents of `actn101b2.zip`:
 
