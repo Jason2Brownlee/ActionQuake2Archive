@@ -30,6 +30,33 @@ Mentioned on Telefragged:
 
 -- [http://www.telefragged.com/archivednews/1998/apr1.shtml](https://web.archive.org/web/19980626070038/http://www.telefragged.com/archivednews/1998/apr1.shtml)
 
+Mentioned on ShugaShack:
+
+> Friday, April 3  6:51pm
+>
+> Action Quake\
+> A new deathmatch mod for Quake2 based on action movies, with real weapons, real damage, and real cool models/skins/sounds. Features include locational damage, bleeding wounds, silencers, laser sights, and a wholelot more. We will be releasing Action Quake for the first time (version .82) tonight (Friday, April 3rd) at 7:00PM CST
+
+-- [http://www.shugashack.com/archives/a4_m29.htm](https://web.archive.org/web/20010117055100/http://www.shugashack.com/archives/a4_m29.htm)
+
+And again on ShugaShack:
+
+> Sunday, April 5  5:21pm
+>
+> Action Quake2\
+> Action Quake v.82 has been released at http://action.telefragged.com
+
+-- [http://www.shugashack.com/archives/a11_a5.htm](https://web.archive.org/web/20000816012137/http://www.shugashack.com/archives/a11_a5.htm)
+
+Mentioned on BluesNews:
+
+> Quake/Quake II Releases [Apr 04, 1998, 11:00 am ET] – Post a Comment
+>
+> Action Quake2\
+> Version 0.82 of the Action Quake2 patch is out, a mod for Quake II based on action movies (most would not know this, but Quake II is originally based on "Driving Miss Daisy")."
+
+-- https://www.bluesnews.com/s/231595/quake-quake-ii-releases
+
 There was no mention of this release in the historical changelog of later releases.
 
 ## v0.82 Fix
@@ -66,6 +93,15 @@ Mentioned on Telefragged:
 > In Action Quake 2 news, they've released version .85 which fixes some bugs and tweaks the mod a little. Action Quake 2 is a mod to make Quake 2 more (I would say realistic, but they want to make Quake more like a movie, and a lot of movies aren't all that realistic, but I suppose the end goal is to make it realistic) realistic.
 
 -- [http://www.telefragged.com/archivednews/1998/apr2.shtml](https://web.archive.org/web/19980626070017/http://www.telefragged.com/archivednews/1998/apr2.shtml)
+
+Mentioned on BluesNews:
+
+> Quake/Quake II Releases [Apr 05, 1998, 11:00 am ET] – Post a Comment
+>
+> Action Quake2\
+> Version 0.85 of Action Quake2 is out fixing "a plethora of bugs" from the first release.
+
+-- https://www.bluesnews.com/s/231606/quake-quake-ii-releases
 
 Changelog from later readmes:
 
@@ -185,6 +221,15 @@ Mentioned on Redwood:
 
 -- [http://redwood.stomped.com/498.html](https://web.archive.org/web/20011122034128/http://redwood.stomped.com/498.html)
 
+Mentioned on BluesNews:
+
+> Quake/Quake II Releases [Apr 19, 1998, 11:00 am ET] – Post a Comment
+>
+> Action Quake2\
+> Version 0.89 of Action Quake2 is out as a server-only upgrade, though clients are urged to check out the new text file to find out what's new.
+
+-- https://www.bluesnews.com/s/231789/quake-quake-ii-releases
+
 Changelog from later readmes:
 
 > New in v.89
@@ -234,6 +279,24 @@ Mentioned on Telefragged:
 >> A jumpkick that disarms
 
 -- [http://www.telefragged.com/archivednews/1998/may4.shtml](https://web.archive.org/web/19980626065722/http://www.telefragged.com/archivednews/1998/may4.shtml)
+
+Mentioned on ShugaShack:
+
+> Monday, May 18 5:31pm
+>
+> Action Quake\
+> There is a new version of Action Quake2 out, version .91. This includes several changes:
+
+-- [http://www.shugashack.com/archives/m22_m18.htm](https://web.archive.org/web/20000816012055/http://www.shugashack.com/archives/m22_m18.htm)
+
+Mentioned on BluesNews:
+
+> Quake/Quake II Mods [May 18, 1998, 11:00 am ET] – Post a Comment
+>
+> Action Quake2\
+> Version 0.91 of Action Quake2 is out. AQ2, based not so much on the premise that Quake II doesn't have enough action, but that it should be more like an action movie (describing Q2 as more like a sci-fi flick), adds features like damage based on where a player is wounded, and wounds that bleed. The new release also adds two new maps.
+
+-- https://www.bluesnews.com/s/232208/quake-quake-ii-mods
 
 Changelog from later readmes:
 
@@ -380,6 +443,15 @@ Mentioned on Telefragged:
 
 -- [http://www.telefragged.com/archivednews/1998/may7.shtml](https://web.archive.org/web/19980626065614/http://www.telefragged.com/archivednews/1998/may7.shtml)
 
+Mentioned on BluesNews:
+
+> More Quake/Quake II Mods [May 31, 1998, 2:01 pm ET] – Post a Comment
+>
+> Action Quake II - [3:01 PM EDT]\
+> Version 0.92a of Action Quake II is out fixing some compatibility problems with Quake II 3.15.
+
+-- https://www.bluesnews.com/s/232476/more-quake-quake-ii-mods
+
 ## v0.92a Fix 2
 
 Released as `ver92adl.zip` (same filename as fix 1) on May 31 1998.
@@ -438,6 +510,13 @@ Mentioned on Redwood:
 > Action Quake version .93 is out. To celebrate, there is also a map design contest.
 
 -- [http://redwood.stomped.com/698.html](https://web.archive.org/web/20010512214801/http://redwood.stomped.com/698.html)
+
+Mentioned on BluesNews (with a typo for the version number):
+
+> New Action Quake2 [Jun 23, 1998, 12:28 am ET] – Post a Comment\
+> Version 2.93 of Action Quake2 is out. AQ2 is a deathmatch-only mod that promises "All the speed of your favorite action film without the cost of a ticket."
+
+-- https://www.bluesnews.com/s/233019/new-action-quake2
 
 Changelog from readme:
 
@@ -555,6 +634,13 @@ Mentioned on Redwood (with a typo in the title):
 
 -- [http://redwood.stomped.com/798.html](https://web.archive.org/web/20011125211243/http://redwood.stomped.com/798.html)
 
+Mentioned on BluesNews:
+
+> Action Quake2 [Jul 20, 1998, 02:45 am ET] – Post a Comment\
+> A server-only version 0.94 upgrade to Action Quake2 is now available. The new release tweaks falling damage and a couple of weapons, fixes a couple of bugs that occurred while bandaging, and re-adds the semi-automatic pistol. Thanks Loe.
+
+-- https://www.bluesnews.com/s/233656/action-quake2
+
 There was no mention of this release in the historical changelog of later releases.
 
 ## v0.94 Linux
@@ -576,6 +662,26 @@ Released on August 15 1998 as:
 * `actn95cl.exe`
 * `actn95cl.zip`
 * `ver95dll.zip`
+
+
+Mentioned on BluesNews:
+
+> Action Quake Mirror [Aug 15, 1998, 6:13 pm ET] – Post a Comment\
+>The new Action Quake2 (story) has been tough to come by since as of this writing none of the mirrors are up yet, so if you are having trouble here's a local copy of the installer (6.9 MB), and the no-installer zip (6.8 MB) of the 0.95 client.
+
+Links:
+
+* ftp://ftp.gamesnet.net/pub/bluesnews/quake2/action/actn95cl.exe
+* ftp://ftp.gamesnet.net/pub/bluesnews/quake2/action/actn95cl.zip
+
+-- https://www.bluesnews.com/s/234326/action-quake-mirror
+
+And again on BluesNews:
+
+> Action Mirror Part II [Aug 16, 1998, 03:59 am ET] – Post a Comment\
+> I should've posted a link to the local version of the map pack (10.2 MB) that goes with the Action Quake2 release when I posted the other files yesterday. In case you missed those, here's a local copy of the installer (6.9 MB), and the no-installer zip (6.8 MB) of the Action Quake II 0.95 client. Downloads, as always, courtesy of GamesNET's sterling FTP services.
+
+-- https://www.bluesnews.com/s/234335/action-mirror-part-ii
 
 Contents of `actn95cl.exe`:
 
@@ -927,10 +1033,23 @@ AND MUCH MUCH MORE!
 
 Released as `ver95adl.zip` on August 19 1998.
 
+Mentioned on BluesNews:
+
+> Action Quake Update [Aug 19, 1998, 03:02 am ET] – Post a Comment\
+> An updated version 0.95a of Action Quake2 is now available as a server-only patch. The new release polished up some features and fwaps a few bugs, including a couple of bugs that could be exploited. There are also three new maps available there that are not in the new map pack. Thanks Str][ker at Pure Death Edmonton.
+
+-- https://www.bluesnews.com/s/234400/action-quake-update
 
 ## v0.98
 
-Release as `actn98up.zip` on September 08 1998.
+Release as `actn98up.zip` (and perhaps more files?) on September 08 1998.
+
+Mentioned on BluesNews:
+
+> New Action Quake2 - Updated [Sep 08, 1998, 04:39 am ET] – Post a Comment\
+> Version .98 of Action Quake2 is now available as bot a client and server update (I originally mistakenly wrote it was a server-only update, thanks Slade for the correction. In addition to several gameplay tweaks, the new main feature of the latest release of this popular Quake II mod is a teamplay mode, in the vein of "last man standing" and Rocket Arena, that keeps dead players from respawning until each round is over. Thanks Cail.
+
+-- https://www.bluesnews.com/s/234896/new-action-quake2-updated
 
 Changelog from later readme:
 
@@ -985,6 +1104,13 @@ TEAM2SKIN
 
 Release as `actn99up.zip` on September 09 1998.
 
+Mentioned on BluesNews:
+
+> Newer Action Quake II [Sep 09, 1998, 03:46 am ET] – Post a Comment\
+> The Action Quake2 page has version 0.99 available already to stomp out the bugs introduced along with the new teamplay modes. The new release is a server-only fix (yeah, I know I originally said that about the 0.98 release, but this time it's even true).
+
+-- https://www.bluesnews.com/s/234924/newer-action-quake-ii
+
 Changelog from later readme:
 
 ```text
@@ -1018,6 +1144,26 @@ Mentioned on Redwood:
 > The Quake 2 mod, Action Quake, version 1.0 has been released. I've heard quite a few good things about this mod. I'll have to find time to check it out since I have so much to spare (NOT!).
 
 -- [http://redwood.stomped.com/998.html](https://web.archive.org/web/20011125201427/http://redwood.stomped.com/998.html)
+
+Mentioned on ShugaShack:
+
+> Thursday, September 17
+>
+> A new version of the coolest mod for Q2 (along with CTF, of course) Action Quake has been released. It's the big v1.0 kids!
+
+-- [http://www.shugashack.com/archives/s19_s13.htm](https://web.archive.org/web/20000816011745/http://www.shugashack.com/archives/s19_s13.htm)
+
+Mentioned on BluesNews:
+
+> Action Quake2 [Sep 16, 1998, 10:48 am ET] – Post a Comment\
+> The Action Quake2 page has version 1.0 of Action Quake2, the mod that makes Quake even more like an action movie than it already is. Here's a local copy of the client installer (6.0 MB), and the client zip (6.0 MB). The new client, described as "quite possibly the final" version, is only available as a full install, not as an upgrade.
+
+Links:
+
+* https://www.bluesnews.com/files/quake2/action/actn10cl.exe.shtml
+* https://www.bluesnews.com/files/quake2/action/actn10cl.zip.shtml
+
+-- https://www.bluesnews.com/s/235097/action-quake2
 
 Contents of `actn10cl.exe`:
 
@@ -1264,10 +1410,23 @@ New in v1.0 (!)
 
 Released as `actn10b.zip` on September 28 1998.
 
+Mentioned on BluesNews:
+
+> Action Quake2 Fix [Sep 28, 1998, 04:25 am ET] – Post a Comment\
+> There's a server-only version 1.0b of Action Quake2 that offers a few bug fixes. Thanks Bartender (hic!).
+
+-- https://www.bluesnews.com/s/235340/action-quake2-fix
 
 ## v1.0c
 
 Released as `actn10c.zip` on September 29 1998.
+
+Mentioned on BluesNews:
+
+> Action Quake2 Update [Oct 02, 1998, 03:57 am ET] – Post a Comment\
+> There's an updated server-only version 1.0c of Action Quake2 available, fixing some bugs (I suspect the date on the update is wrong, since it is the same as was for version 1.0b). Thanks Lord Vader ("I find your lack of faith... disturbing.").
+
+-- https://www.bluesnews.com/s/235437/action-quake2-update
 
 Contents of `actn10c.zip`:
 
@@ -1306,6 +1465,13 @@ Mentioned on Redwood:
 > Action Quake version 1.1 beta 2 is now available. It fixes bugs and tweaks features according to Blue's.
 
 -- [http://redwood.stomped.com/1098.html](https://web.archive.org/web/20010506231327/http://redwood.stomped.com/1098.html)
+
+Mentioned on BluesNews:
+
+> Action Quake2 [Oct 21, 1998, 04:00 am ET] – Post a Comment\
+> Version 1.1 beta 2 of Action Quake2 is now available as a server-only upgrade, fixing a bunch of bugs that could crash the game and tweaking some features. Games are described as smoother as some of the server fame functions have been tweaked as well, and servers now use less CPU. Thanks LrdVaderX.
+
+-- https://www.bluesnews.com/s/235960/action-quake2
 
 Contents of `actn101b2.zip`:
 
@@ -1356,6 +1522,18 @@ Released on November 14 1998 as:
 * `actn1Cup.zip`
 * `actn1Ccl.exe`
 * `actn1Ccl.zip`
+
+Mentioned on BluesNews:
+
+> Action Quake2 [Nov 14, 1998, 11:44 am ET] – Post a Comment\
+> A new version 1.0c of Action Quake2 is available for download as an update for the client side only, servers need nothing new. The new release includes two new player models, full VWep support, a few new skins, and some legal changes (copyright infringement removal was always part of the plan for the mod, but now that the mod is going into the Extremities pack, that has been completed). The new version is described as almost the exact version that will be shipped on Extremities (id's upcoming add-on pack featuring user modifications), and is available as an update for the previous version of the client, as well as a full release. Here's a local copy of the updater (3.4 MB) and a local copy of the full client installer (8.5 MB) on GamesNET FTP.
+
+Links:
+
+* https://www.bluesnews.com/files/quake2/action/actioncl10cup.shtml
+* https://www.bluesnews.com/files/quake2/action/actioncl10cfull.shtml
+
+-- https://www.bluesnews.com/s/236620/action-quake2
 
 Contents of actn1Ccl.exe`:
 
@@ -2395,11 +2573,22 @@ New in v1.0c (!)
 * Other stuff I am sure I am forgetting, but hopefully nothing too important.
 ```
 
-# v1.0c Update VWeapon Fix
+# v1.0c Update Vwep Fix
 
 Released as `vwepfix.zip` and `vwepfix.exe` on November 14 1998.
 
 The `vwepfix.zip` release appears to have been constructed on November 22 with the same content from the `vwepfix.exe` release.
+
+Mentioned on BluesNews:
+
+> Action Quake2 Fix [Nov 14, 1998, 3:10 pm ET] – Post a Comment\
+> The Action Quake2 page confesses to a mistake in the new version released earlier (story) in the VWep for the terrorist model, offering a small fix. Here's a local copy of the Action Quake II VWep fix (311 KB). Thanks Cruel Tea.
+
+Links:
+
+* https://www.bluesnews.com/files/quake2/action/vwepfix.shtml
+
+-- https://www.bluesnews.com/s/236622/action-quake2-fix
 
 Contents of `vwepfix.zip`:
 
@@ -2538,6 +2727,14 @@ Released on February 13 1999 as:
 * `as-1.5-x86-linux.tar.gz`
 * `as-1.5.tar.gz`
 
+Mentioned on BluesNews:
+
+> New Action Quake II Server [Feb 13, 1999, 05:36 am ET] – Post a Comment\
+> The Action Quake2 has a new version 1.5 of the Action Quake 2 server. The new release is called a complete code re-write which fixes all known bugs and adds new features as well, including IR goggles and a new spectator mode. The files are for servers only, with both Windows and Linux binaries available. If you are interested in what's changed, you can check out the changes and readme files.
+
+-- https://www.bluesnews.com/s/17/new-action-quake-ii-server
+
+
 Contents of `as-1.5-x86-win32.zip`:
 
 ```text
@@ -2609,6 +2806,13 @@ Released on March 15 1999 as:
 * `as-1.51-x86-win32.zip`
 * `as-1.51-x86-linux.tar.gz`
 * `as-1.51.tar.gz`
+
+Mentioned on BluesNews:
+
+> New Action Quake2 Server [Mar 17, 1999, 04:37 am ET] – Post a Comment\
+> The Action Quake2 page has posted a new version 1.51 of the Action Quake2 server. The new release is mostly bugfixes, but there are a few new features as well.
+
+-- https://www.bluesnews.com/s/742/new-action-quake2-server
 
 Contents of `as-1.51-x86-win32.zip`:
 
@@ -2683,6 +2887,13 @@ Released on July 21 1999 as:
 * `as-1.52-x86-win32.zip`
 * `as-1.52-x86-linux.tar.gz`
 * `as-1.52.tar.gz`
+
+Mentioned on BluesNews:
+
+> Action Quake2 Update [Jul 20, 1999, 8:05 pm ET] – Post a Comment\
+> The Action Quake2 site (which upped and moved somewhere along the way) has a new version of the server .dll for this action-packed Quake II mod. There's also word there that they are looking for a Mac programmer to fine-tune the Mac version of AQ2 since MacQuake II is now available. Finally, there are details there about their modeling contest, offering over US$400 in prizes.
+
+-- https://www.bluesnews.com/s/3813/action-quake2-update
 
 Contents of `as-1.52-x86-win32.zip`:
 
