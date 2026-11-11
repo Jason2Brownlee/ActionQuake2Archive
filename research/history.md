@@ -3139,9 +3139,6 @@ drwx------  0 ucs_brf users       0 21 Jul  1999 action/
 -rw-------  0 ucs_brf users    3813  4 Jul  1999 action/a_doorkick.c
 ```
 
-
-
-
 ## References
 
 Homepages:
@@ -3158,6 +3155,10 @@ Archives:
 * <https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/action/>
 * <https://files.xvertigox.com/quaddicted/mirrors/ftp.telefragged.com/action/>
 * <https://ftp.idtech.space/tastyspleen/mods/action_quake/>
+* <http://shell.world-net.co.nz/~rambo/Addons/Action/Quake2/Mods/ActionQuake2/index.html>
+* <https://www.mmnt.net/db/0/0/83.149.236.38/games/quake/mods/actionq/>
 * [http://games.gci.net/pub/Quake2/QuakeMods/Action/](https://web.archive.org/web/20030915003615/http://games.gci.net/pub/Quake2/QuakeMods/Action/) (archived)
+* [http://www.clan-ex.net/files/quake2/aq2/](https://web.archive.org/web/20050208142816/http://www.clan-ex.net/files/quake2/aq2/) (archived)
 * [Action Quake 2 Community Archive](https://archives.aq2world.com/)
+* [Action Quake II](https://www.frag-net.com/mod_quake2_action.html)
 * [Action Quake II Archive](https://archive.org/details/action-quake-2)
