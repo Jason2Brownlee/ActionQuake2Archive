@@ -70,7 +70,8 @@ Release Date | File | Description
 19990605 | [action_q2_151_solx86.tar.gz](bin/action_q2_151_solx86.tar.gz)<br>[action_q2_151_sparc.tar.gz](bin/action_q2_151_sparc.tar.gz) | AQ2 Solaris Port v1.51
 19990801 | [action_q2_152_solx86.tar.gz](bin/action_q2_152_solx86.tar.gz)<br>[action_q2_152_sparc.tar.gz](bin/action_q2_152_sparc.tar.gz) | AQ2 Solaris Port v1.52
 19990806 | IRIXAction.zip<br>IRIXAction.tar.gz | Irix SGI Port v1.52
-19990910 | [action_x86.zip](bin/action_x86.zip)<br>[README.beos](bin/README.beos) | BeOS Port v1.52
+19990910 | [action_x86.zip](bin/action_x86.zip)<br>[README.beos](bin/README.beos) | BeOS Port v1.52 (Richard Hess)
+19990916 | [action_mips.tgz](bin/action_mips.tgz)<br>[README.irix](bin/README.irix) | Irix SGI Port v1.52 (Richard Hess)
 
 ## How You Can Help
 
