@@ -1,6 +1,7 @@
 # AQ2 File Wishlist
 
 actn82cl.zip
+# gamex86.dll
 
 # guesses
 ver85dll.zip

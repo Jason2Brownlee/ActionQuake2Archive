@@ -64,6 +64,7 @@ ftp://ftp.telefragged.com/action/ver95dll.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/ver95dll.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/ver95dll.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/ver95dll.zip
+http://www.telefragged.com/mirrors/mirror.pl?action/ver95dll.zip
 
 # ver95adl.zip
 ftp://ftp.epix.net/pub/telefragged/action/ver95adl.zip
