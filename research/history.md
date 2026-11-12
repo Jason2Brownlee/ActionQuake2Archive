@@ -3153,6 +3153,7 @@ Archives:
 * <https://www.dukeworld.com/planetquake/eclipse/>
 * <https://www.gamers.org/pub/games/idgames2/telefragged/action/>
 * <https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/action/>
+* <https://ftpmirror.infania.net/pub/telefragged/action/>
 * <https://files.xvertigox.com/quaddicted/mirrors/ftp.telefragged.com/action/>
 * <https://ftp.idtech.space/tastyspleen/mods/action_quake/>
 * <http://shell.world-net.co.nz/~rambo/Addons/Action/Quake2/Mods/ActionQuake2/index.html>

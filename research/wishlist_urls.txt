@@ -92,6 +92,7 @@ http://ftp.telepac.pt/pub/idgames2/telefragged/action/actn10cl.zip
 http://games.gci.net/pub/Quake2/QuakeMods/Action/actn10cl.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/action/actn10cl.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/action/actn10cl.zip
+http://thedome.inet.fi/download/actn10cl.zip
 http://www.telefragged.com/mirrors/mirror.pl?action/actn10cl.zip
 
 # actn10b.zip
