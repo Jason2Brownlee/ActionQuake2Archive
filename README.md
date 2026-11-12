@@ -49,11 +49,11 @@ Release Date | File | Description
 19981020 | [actn101b2.zip](bin/actn101b2.zip) | AQ2 v1.1 beta 2
 19981021 | [actn101b2-linux.tgz](bin/actn101b2-linux.tgz) | AQ2 v1.1 beta 2 Linux
 19981114 | [actn1Cup.exe](bin/actn1Cup.exe)<br>[actn1Cup.zip](bin/actn1Cup.zip)<br>[actn1Ccl.exe](bin/actn1Ccl.exe)<br>[actn1Ccl.zip](bin/actn1Ccl.zip) | AQ2 v1.0c Update
-19981114 | [vwepfix.exe](bin/vwepfix.exe)<br>[vwepfix.zip](bin/vwepfix.zip) | AQ2 v1.0c VWeapon Fix
-19981119 | [1cCLfix.exe](bin/1cCLfix.exe)<br>[1cCLfix.zip](bin/1cCLfix.zip) | AQ2 v1.0c Fix
-19990213 | [as-1.5-x86-win32.zip](bin/as-1.5-x86-win32.zip)<br>[as-1.5-x86-linux.tar.gz](bin/as-1.5-x86-linux.tar.gz)<br>[as-1.5.tar.gz](bin/as-1.5.tar.gz) | AQ2 Server v1.5
-19990315 | [as-1.51-x86-win32.zip](bin/as-1.51-x86-win32.zip)<br>[as-1.51-x86-linux.tar.gz](bin/as-1.51-x86-linux.tar.gz)<br>[as-1.51.tar.gz](bin/as-1.51.tar.gz) | AQ2 Server v1.51
-19990721 | [as-1.52-x86-win32.zip](bin/as-1.52-x86-win32.zip)<br>[as-1.52-x86-linux.tar.gz](bin/as-1.52-x86-linux.tar.gz)<br>[as-1.52.tar.gz](bin/as-1.52.tar.gz) | AQ2 Server v1.52
+19981114 | [vwepfix.exe](bin/vwepfix.exe)<br>[vwepfix.zip](bin/vwepfix.zip) | AQ2 v1.0c VWeap Fix 1
+19981119 | [1cCLfix.exe](bin/1cCLfix.exe)<br>[1cCLfix.zip](bin/1cCLfix.zip) | AQ2 v1.0c VWeap Fix 2
+19990213 | [as-1.5-x86-win32.zip](bin/as-1.5-x86-win32.zip)<br>[as-1.5-x86-linux.tar.gz](bin/as-1.5-x86-linux.tar.gz)<br>[as-1.5.tar.gz](bin/as-1.5.tar.gz) | AQ2 v1.5
+19990315 | [as-1.51-x86-win32.zip](bin/as-1.51-x86-win32.zip)<br>[as-1.51-x86-linux.tar.gz](bin/as-1.51-x86-linux.tar.gz)<br>[as-1.51.tar.gz](bin/as-1.51.tar.gz) | AQ2 v1.51
+19990721 | [as-1.52-x86-win32.zip](bin/as-1.52-x86-win32.zip)<br>[as-1.52-x86-linux.tar.gz](bin/as-1.52-x86-linux.tar.gz)<br>[as-1.52.tar.gz](bin/as-1.52.tar.gz) | AQ2 v1.52
 
 * **Date Format**: YYYY-MM-DD for easy sorting.
 * **No Link**: indicates that we could not locate a copy of the file yet.
