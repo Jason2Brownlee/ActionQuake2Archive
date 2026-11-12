@@ -80,6 +80,7 @@ http://games.gci.net/pub/Quake2/QuakeMods/Action/actn98up.zip
 
 # actn99up.zip
 http://games.gci.net/pub/Quake2/QuakeMods/Action/actn99up.zip
+http://thedome.inet.fi/download/actn99up.exe
 
 # actn10cl.zip
 ftp://ftp.epix.net/pub/telefragged/action/actn10cl.zip
