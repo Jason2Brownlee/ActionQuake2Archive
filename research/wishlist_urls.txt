@@ -104,20 +104,29 @@ http://www.telefragged.com/mirrors/mirror.pl?action/actn10b.zip
 
 # unofficial / ports
 
+
 # IRIXAction.tar.gz
 http://action.wedge.net/irix/IRIXAction.tar.gz
+
 # IRIXAction.zip
 http://action.wedge.net/irix/IRIXAction.zip
+
 # aq-client.tar.gz
 http://action.wedge.net/client/aq-client.tar.gz
+
 # aq-vwep.tar.gz
 http://action.wedge.net/vwep/aq-vwep.tar.gz
+
 # aq-vwep.zip
 http://action.wedge.net/vwep/aq-vwep.zip
+
 # as-1.5.zip
 http://action.wedge.net/src/as-1.5.zip
+
 # as-1.51.zip
 http://action.wedge.net/src/as-1.51.zip
+
 # as-1.52.zip
 http://action.wedge.net/src/as-1.52.zip
+http://files.actiongames.co.uk/tnn/client/as-1.52.zip
 
