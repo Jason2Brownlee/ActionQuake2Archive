@@ -1053,6 +1053,243 @@ drwxrwxr-x  0 0      0           0 15 Aug  1998 env/
 -rw-rw-r--  0 0      0        8317 15 Aug  1998 v95.txt
 ```
 
+Contents of `actn95cl.zip`:
+
+```text
+drwxrwxr-x  0 0      0           0 15 Aug  1998 textures/
+drwxrwxr-x  0 0      0           0 15 Aug  1998 textures/coventry/
+-rw-rw-r--  0 0      0        1460 25 Jul  1998 textures/coventry/wood_dark_1.wal
+-rw-rw-r--  0 0      0        3160  5 Aug  1998 textures/coventry/+0twinkle.wal
+-rw-rw-r--  0 0      0       21860  5 Aug  1998 textures/coventry/+1centrum.wal
+-rw-rw-r--  0 0      0        3160  5 Aug  1998 textures/coventry/+1twinkle.wal
+-rw-rw-r--  0 0      0       21860  5 Aug  1998 textures/coventry/+2centrum.wal
+-rw-rw-r--  0 0      0        3160  5 Aug  1998 textures/coventry/+2twinkle.wal
+-rw-rw-r--  0 0      0       21860  5 Aug  1998 textures/coventry/+3centrum.wal
+-rw-rw-r--  0 0      0        3160  5 Aug  1998 textures/coventry/+3twinkle.wal
+-rw-rw-r--  0 0      0       21860  5 Aug  1998 textures/coventry/+4centrum.wal
+-rw-rw-r--  0 0      0       21860  5 Aug  1998 textures/coventry/+5centrum.wal
+-rw-rw-r--  0 0      0       21860  5 Aug  1998 textures/coventry/+6centrum.wal
+-rw-rw-r--  0 0      0       21860  5 Aug  1998 textures/coventry/+7centrum.wal
+-rw-rw-r--  0 0      0       21860  5 Aug  1998 textures/coventry/+8centrum.wal
+-rw-rw-r--  0 0      0       32740  4 Aug  1998 textures/coventry/arabica1.wal
+-rw-rw-r--  0 0      0         440 25 Jul  1998 textures/coventry/black.wal
+-rw-rw-r--  0 0      0         440 28 Jul  1998 textures/coventry/blue.wal
+-rw-rw-r--  0 0      0        5540 25 Jul  1998 textures/coventry/brick_1.wal
+-rw-rw-r--  0 0      0         440 25 Jul  1998 textures/coventry/charcoal.wal
+-rw-rw-r--  0 0      0        1460 29 Jul  1998 textures/coventry/clip.wal
+-rw-rw-r--  0 0      0        1460 30 Jul  1998 textures/coventry/concrete.wal
+-rw-rw-r--  0 0      0       54500  4 Aug  1998 textures/coventry/covyard.wal
+-rw-rw-r--  0 0      0        1460 27 Jul  1998 textures/coventry/dirt.wal
+-rw-rw-r--  0 0      0         780  3 Aug  1998 textures/coventry/dishbuttons.wal
+-rw-rw-r--  0 0      0         440 28 Jul  1998 textures/coventry/dumpster.wal
+-rw-rw-r--  0 0      0        5540  1 Aug  1998 textures/coventry/glass.wal
+-rw-rw-r--  0 0      0        9620 28 Jul  1998 textures/coventry/grille.wal
+-rw-rw-r--  0 0      0        5540  3 Aug  1998 textures/coventry/hobart.wal
+-rw-rw-r--  0 0      0       32740  4 Aug  1998 textures/coventry/inn1.wal
+-rw-rw-r--  0 0      0         440  1 Aug  1998 textures/coventry/lamp_blue.wal
+-rw-rw-r--  0 0      0         440 31 Jul  1998 textures/coventry/lamp_green.wal
+-rw-rw-r--  0 0      0         440 29 Jul  1998 textures/coventry/lamp_street.wal
+-rw-rw-r--  0 0      0         440  1 Aug  1998 textures/coventry/lamp_white.wal
+-rw-rw-r--  0 0      0        5540 30 Jul  1998 textures/coventry/latex.wal
+-rw-rw-r--  0 0      0       16420  5 Aug  1998 textures/coventry/marquee.wal
+-rw-rw-r--  0 0      0         780 26 Jul  1998 textures/coventry/pipe1.wal
+-rw-rw-r--  0 0      0       10980 25 Jul  1998 textures/coventry/policeline.wal
+-rw-rw-r--  0 0      0         440  2 Aug  1998 textures/coventry/rooftar.wal
+-rw-rw-r--  0 0      0        8260  7 Aug  1998 textures/coventry/sig.wal
+-rw-rw-r--  0 0      0        8260  7 Aug  1998 textures/coventry/sig2.wal
+-rw-rw-r--  0 0      0        8260  7 Aug  1998 textures/coventry/sig3.wal
+-rw-rw-r--  0 0      0        9620  7 Aug  1998 textures/coventry/sig4.wal
+-rw-rw-r--  0 0      0        1460  1 Aug  1998 textures/coventry/sky1.wal
+-rw-rw-r--  0 0      0        5540 30 Jul  1998 textures/coventry/stainless.wal
+-rw-rw-r--  0 0      0        5540 30 Jul  1998 textures/coventry/stucco.wal
+-rw-rw-r--  0 0      0         440 25 Jul  1998 textures/coventry/tile_black.wal
+-rw-rw-r--  0 0      0         440 28 Jul  1998 textures/coventry/tile_bw.wal
+-rw-rw-r--  0 0      0         440 28 Jul  1998 textures/coventry/tile_red.wal
+-rw-rw-r--  0 0      0        5540 28 Jul  1998 textures/coventry/vents.wal
+-rw-rw-r--  0 0      0         440 30 Jul  1998 textures/coventry/wall_blue.wal
+-rw-rw-r--  0 0      0         440 30 Jul  1998 textures/coventry/wall_brown.wal
+-rw-rw-r--  0 0      0         440 30 Jul  1998 textures/coventry/wall_brred.wal
+-rw-rw-r--  0 0      0         440 30 Jul  1998 textures/coventry/wall_green.wal
+-rw-rw-r--  0 0      0         440 30 Jul  1998 textures/coventry/wall_slate.wal
+-rw-rw-r--  0 0      0         440 30 Jul  1998 textures/coventry/wall_swamp.wal
+-rw-rw-r--  0 0      0        5540  1 Aug  1998 textures/coventry/water.wal
+-rw-rw-r--  0 0      0         440 27 Jul  1998 textures/coventry/white.wal
+-rw-rw-r--  0 0      0        1460 28 Jul  1998 textures/coventry/wine.wal
+-rw-rw-r--  0 0      0       21860  5 Aug  1998 textures/coventry/+0centrum.wal
+drwxrwxr-x  0 0      0           0 15 Aug  1998 textures/quake1/
+-rw-rw-r--  0 0      0       21860  2 Aug  1998 textures/quake1/wood3_1.wal
+-rw-rw-r--  0 0      0         253 14 Aug  1998 action.ini
+-rw-rw-r--  0 0      0     5576622 15 Aug  1998 pak0.pak
+-rw-rw-r--  0 0      0      265728 15 Aug  1998 gamex86.dll
+-rw-rw-r--  0 0      0        1444 14 Aug  1998 servers.txt
+drwxrwxr-x  0 0      0           0 15 Aug  1998 maps/
+-rw-rw-r--  0 0      0        2178  8 Aug  1998 maps/cov092.txt
+-rw-rw-r--  0 0      0     1296924  8 Aug  1998 maps/cov092.bsp
+-rw-rw-r--  0 0      0     1419264  5 Aug  1998 maps/locknload.bsp
+-rw-rw-r--  0 0      0        3438  5 Aug  1998 maps/locknload.txt
+drwxrwxr-x  0 0      0           0 15 Aug  1998 players/
+drwxrwxr-x  0 0      0           0 15 Aug  1998 players/male/
+-rw-rw-r--  0 0      0        8480 10 Apr  1998 players/male/bluebeard.pcx
+-rw-rw-r--  0 0      0        1706 22 Mar  1998 players/male/bluebeard_i.pcx
+-rw-rw-r--  0 0      0       11599 10 Apr  1998 players/male/chow.pcx
+-rw-rw-r--  0 0      0        1944 22 Mar  1998 players/male/chow_i.pcx
+-rw-rw-r--  0 0      0       61661 27 Nov  1997 players/male/commando.pcx
+-rw-rw-r--  0 0      0        2017  3 Apr  1998 players/male/commando_i.pcx
+-rw-rw-r--  0 0      0      278592 27 Nov  1997 players/male/tris.md2
+-rw-rw-r--  0 0      0        1773 27 May  1998 players/male/cyrus_i.pcx
+-rw-rw-r--  0 0      0        2156 27 May  1998 players/male/indy_i.pcx
+-rw-rw-r--  0 0      0       26461 26 May  1998 players/male/sabotage.pcx
+-rw-rw-r--  0 0      0       11110  5 Apr  1998 players/male/cyrus.pcx
+-rw-rw-r--  0 0      0       33265 10 Apr  1998 players/male/indy.pcx
+-rw-rw-r--  0 0      0       34737  1 Aug  1998 players/male/madmax.pcx
+-rw-rw-r--  0 0      0        1875  1 Aug  1998 players/male/madmax_i.pcx
+-rw-rw-r--  0 0      0       21593 15 Mar  1998 players/male/mcclane.pcx
+-rw-rw-r--  0 0      0        2020 29 Mar  1998 players/male/mcclane_i.pcx
+-rw-rw-r--  0 0      0       25148 16 Mar  1998 players/male/rambo.pcx
+-rw-rw-r--  0 0      0        1817 22 Mar  1998 players/male/rambo_i.pcx
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 players/male/resdog.pcx
+-rw-rw-r--  0 0      0        1712 16 Mar  1998 players/male/resdog_i.pcx
+-rw-rw-r--  0 0      0        2026 27 May  1998 players/male/sabotage_i.pcx
+-rw-rw-r--  0 0      0         623  2 Jun  1998 players/male/shaft.txt
+-rw-rw-r--  0 0      0        1734  2 Jun  1998 players/male/shaft_i.pcx
+-rw-rw-r--  0 0      0       30192  2 Jun  1998 players/male/shaft.pcx
+-rw-rw-r--  0 0      0       40092 20 Jun  1998 players/male/snowcamo.pcx
+-rw-rw-r--  0 0      0        1804 20 Jun  1998 players/male/snowcamo_i.pcx
+-rw-rw-r--  0 0      0        1863 20 Jun  1998 players/male/KGB_I.PCX
+-rw-rw-r--  0 0      0       23971 20 Jun  1998 players/male/KGB.PCX
+-rw-rw-r--  0 0      0       37208 31 Jul  1998 players/male/chow2.pcx
+-rw-rw-r--  0 0      0        1242 10 Aug  1998 players/male/chow2.txt
+-rw-rw-r--  0 0      0        1827 31 Jul  1998 players/male/chow2_i.pcx
+-rw-rw-r--  0 0      0        1802 10 Aug  1998 players/male/RIGGS_i.pcx
+-rw-rw-r--  0 0      0        1733 11 Jul  1998 players/male/mr_t_i.pcx
+-rw-rw-r--  0 0      0       19909 27 Jul  1998 players/male/butch.pcx
+-rw-rw-r--  0 0      0        1919 29 Jul  1998 players/male/butch_i.pcx
+-rw-rw-r--  0 0      0       56756 27 Jul  1998 players/male/honey.PCX
+-rw-rw-r--  0 0      0        1755 27 Jul  1998 players/male/honey_i.pcx
+-rw-rw-r--  0 0      0       34078 27 Jul  1998 players/male/marcel.pcx
+-rw-rw-r--  0 0      0        1934 28 Jul  1998 players/male/MikeLowry_i.pcx
+-rw-rw-r--  0 0      0       15455 26 Jul  1998 players/male/MikeLowry.pcx
+-rw-rw-r--  0 0      0       17497 12 Jul  1998 players/male/mr_t.pcx
+-rw-rw-r--  0 0      0        1615 27 Jul  1998 players/male/marcel_i.pcx
+-rw-rw-r--  0 0      0        9052 27 Jul  1998 players/male/jules.pcx
+-rw-rw-r--  0 0      0        1686 27 Jul  1998 players/male/jules_i.pcx
+-rw-rw-r--  0 0      0        9319 27 Jul  1998 players/male/vince.pcx
+-rw-rw-r--  0 0      0        2046 26 Jul  1998 players/male/vince_i.pcx
+-rw-rw-r--  0 0      0        1463  7 Apr  1998 players/male/readme.txt
+-rw-rw-r--  0 0      0        1897 23 Mar  1998 players/male/mason_i.pcx
+-rw-rw-r--  0 0      0       30035 23 Mar  1998 players/male/mason.pcx
+-rw-rw-r--  0 0      0       22571 10 Aug  1998 players/male/RIGGS.pcx
+-rw-rw-r--  0 0      0       30087 27 Feb  1998 players/male/Blues.pcx
+-rw-rw-r--  0 0      0        1667  1 May  1998 players/male/CAJIN_I.PCX
+-rw-rw-r--  0 0      0        8610  2 May  1998 players/male/CAJIN.PCX
+-rw-rw-r--  0 0      0       11060 10 Aug  1998 players/male/ROGER.pcx
+-rw-rw-r--  0 0      0        1690 10 Aug  1998 players/male/ROGER_I.pcx
+-rw-rw-r--  0 0      0        1717 27 Feb  1998 players/male/blues_i.pcx
+-rw-rw-r--  0 0      0       13737 25 Feb  1998 players/male/Cop.pcx
+-rw-rw-r--  0 0      0        1143 25 Feb  1998 players/male/Cop_i.pcx
+-rw-rw-r--  0 0      0       21630 20 Feb  1998 players/male/Nut.pcx
+-rw-rw-r--  0 0      0        1160  3 Mar  1998 players/male/Nut_i.pcx
+-rw-rw-r--  0 0      0        8704 28 Dec  1997 players/male/robber.pcx
+-rw-rw-r--  0 0      0        1237 28 Dec  1997 players/male/robber_i.pcx
+drwxrwxr-x  0 0      0           0 15 Aug  1998 players/female/
+-rw-rw-r--  0 0      0       50897 27 Nov  1997 players/female/brianna.pcx
+-rw-rw-r--  0 0      0        1968 27 Nov  1997 players/female/brianna_i.pcx
+-rw-rw-r--  0 0      0       52745 27 Nov  1997 players/female/ensign.pcx
+-rw-rw-r--  0 0      0        1971 27 Nov  1997 players/female/ensign_i.pcx
+-rw-rw-r--  0 0      0       51062 27 Nov  1997 players/female/jezebel.pcx
+-rw-rw-r--  0 0      0        1950 27 Nov  1997 players/female/jezebel_i.pcx
+-rw-rw-r--  0 0      0       61037 27 Nov  1997 players/female/jungle.pcx
+-rw-rw-r--  0 0      0        2118 27 Nov  1997 players/female/jungle_i.pcx
+-rw-rw-r--  0 0      0      275632 27 Nov  1997 players/female/tris.md2
+-rw-rw-r--  0 0      0       50891 27 Nov  1997 players/female/venus.pcx
+-rw-rw-r--  0 0      0        1963 27 Nov  1997 players/female/venus_i.pcx
+-rw-rw-r--  0 0      0       38912 27 Nov  1997 players/female/weapon.md2
+-rw-rw-r--  0 0      0        9089 27 Nov  1997 players/female/weapon.pcx
+-rw-rw-r--  0 0      0        2188  5 Feb  1998 players/female/leeloo_i.pcx
+-rw-rw-r--  0 0      0       38382  5 Feb  1998 players/female/leeloo.pcx
+-rw-rw-r--  0 0      0         954  8 Feb  1998 players/female/leeloo.txt
+-rw-rw-r--  0 0      0        1765  6 Aug  1998 players/female/sarah_connor_i.pcx
+-rw-rw-r--  0 0      0       51567  6 Aug  1998 players/female/sarah_connor.pcx
+drwxrwxr-x  0 0      0           0 15 Aug  1998 players/terror/
+-rw-rw-r--  0 0      0        2067  1 Jul  1998 players/terror/red cop_i.pcx
+-rw-rw-r--  0 0      0        1950  1 Jul  1998 players/terror/black cop_i.pcx
+-rw-rw-r--  0 0      0       51744  1 Jul  1998 players/terror/blue cop.pcx
+-rw-rw-r--  0 0      0        1958  1 Jul  1998 players/terror/blue cop_i.pcx
+-rw-rw-r--  0 0      0       54950 30 Jun  1998 players/terror/csw black.pcx
+-rw-rw-r--  0 0      0        1842 30 Jun  1998 players/terror/csw black_i.pcx
+-rw-rw-r--  0 0      0       57014 30 Jun  1998 players/terror/csw blue.pcx
+-rw-rw-r--  0 0      0        1895 30 Jun  1998 players/terror/csw blue_i.pcx
+-rw-rw-r--  0 0      0       55210 30 Jun  1998 players/terror/csw crazy.pcx
+-rw-rw-r--  0 0      0        1819 30 Jun  1998 players/terror/csw crazy_i.pcx
+-rw-rw-r--  0 0      0       56591 30 Jun  1998 players/terror/csw red.pcx
+-rw-rw-r--  0 0      0        1899  1 Jul  1998 players/terror/csw red_i.pcx
+-rw-rw-r--  0 0      0       51442  1 Jul  1998 players/terror/red cop.pcx
+-rw-rw-r--  0 0      0       49769  1 Jul  1998 players/terror/black cop.pcx
+-rw-rw-r--  0 0      0      307680 12 Jul  1998 players/terror/tris.md2
+-rw-rw-r--  0 0      0       58140 14 Aug  1998 players/terror/weapon.md2
+-rw-rw-r--  0 0      0       57021 12 Jul  1998 players/terror/csw.pcx
+-rw-rw-r--  0 0      0       57021 11 Jul  1998 players/terror/KGB.PCX
+-rw-rw-r--  0 0      0       43381 10 Aug  1998 players/terror/skyterr.pcx
+-rw-rw-r--  0 0      0        1635  9 Aug  1998 players/terror/terror_i.pcx
+-rw-rw-r--  0 0      0        1783  9 Aug  1998 players/terror/swat_i.pcx
+-rw-rw-r--  0 0      0        1735  9 Aug  1998 players/terror/terror_i2.pcx
+-rw-rw-r--  0 0      0       23890 10 Aug  1998 players/terror/terror.pcx
+-rw-rw-r--  0 0      0       41355 10 Aug  1998 players/terror/swat.pcx
+-rw-rw-r--  0 0      0        1838 11 Aug  1998 players/terror/jungleterr_i.pcx
+-rw-rw-r--  0 0      0        1892 11 Aug  1998 players/terror/desertterr_i.pcx
+-rw-rw-r--  0 0      0       48736 11 Aug  1998 players/terror/jungleterr.pcx
+-rw-rw-r--  0 0      0       47363 11 Aug  1998 players/terror/desertterr.pcx
+-rw-rw-r--  0 0      0        1481 11 Aug  1998 players/terror/skyterr_i.pcx
+-rw-rw-r--  0 0      0       45854 11 Aug  1998 players/terror/urbanterr.pcx
+-rw-rw-r--  0 0      0        1756 11 Aug  1998 players/terror/urbanterr_i.pcx
+-rw-rw-r--  0 0      0       38709 14 Aug  1998 players/terror/swatsnipe.pcx
+-rw-rw-r--  0 0      0        1636 14 Aug  1998 players/terror/swatsnipe_i.pcx
+-rw-rw-r--  0 0      0       53684 12 Aug  1998 players/terror/weapon.pcx
+drwxrwxr-x  0 0      0           0 15 Aug  1998 players/sydney/
+-rw-rw-r--  0 0      0       10847 25 Apr  1998 players/sydney/weapon.PCX
+-rw-rw-r--  0 0      0       35484 25 Apr  1998 players/sydney/weapon.md2
+-rw-rw-r--  0 0      0      302128 25 Apr  1998 players/sydney/tris.md2
+-rw-rw-r--  0 0      0        1742 25 Apr  1998 players/sydney/sydney_i.pcx
+-rw-rw-r--  0 0      0        2294 25 Apr  1998 players/sydney/sydney.txt
+-rw-rw-r--  0 0      0       60653 25 Apr  1998 players/sydney/sydney.PCX
+-rw-rw-r--  0 0      0        1763 25 Apr  1998 players/sydney/ctf_r_i.PCX
+-rw-rw-r--  0 0      0       31397 25 Apr  1998 players/sydney/ctf_r.PCX
+-rw-rw-r--  0 0      0        1742 25 Apr  1998 players/sydney/ctf_b_i.PCX
+-rw-rw-r--  0 0      0       30444 25 Apr  1998 players/sydney/ctf_b.PCX
+-rw-rw-r--  0 0      0        5730 25 Apr  1998 players/sydney/sydney.JPG
+-rw-rw-r--  0 0      0        9110 15 Aug  1998 action.txt
+-rw-rw-r--  0 0      0        2238  1 Apr  1998 actq2.ico
+-rw-rw-r--  0 0      0         387 15 Aug  1998 inetserver.cfg
+-rw-rw-r--  0 0      0         335 15 Aug  1998 LANserver.cfg
+-rw-rw-r--  0 0      0       13745 15 Aug  1998 readme.txt
+drwxrwxr-x  0 0      0           0 15 Aug  1998 env/
+-rw-rw-r--  0 0      0       22354  2 Aug  1998 env/hkbk.pcx
+-rw-rw-r--  0 0      0        3457  2 Aug  1998 env/hkdn.pcx
+-rw-rw-r--  0 0      0       20384  2 Aug  1998 env/hkft.pcx
+-rw-rw-r--  0 0      0       25079  2 Aug  1998 env/hklf.pcx
+-rw-rw-r--  0 0      0       14685  2 Aug  1998 env/hkrt.pcx
+-rw-rw-r--  0 0      0        4621  2 Aug  1998 env/hkup.pcx
+-rw-rw-r--  0 0      0       54636  2 Aug  1998 env/hkft.tga
+-rw-rw-r--  0 0      0       63669  2 Aug  1998 env/hklf.tga
+-rw-rw-r--  0 0      0       59748  2 Aug  1998 env/hkbk.tga
+-rw-rw-r--  0 0      0       43799  2 Aug  1998 env/hkrt.tga
+-rw-rw-r--  0 0      0        8110  2 Aug  1998 env/hkup.tga
+-rw-rw-r--  0 0      0        3090  2 Aug  1998 env/hkdn.tga
+-rw-rw-r--  0 0      0      196626  3 Aug  1998 env/nburbup.tga
+-rw-rw-r--  0 0      0      196626  3 Aug  1998 env/nburbbk.tga
+-rw-rw-r--  0 0      0        3457  2 Aug  1998 env/nburbdn.pcx
+-rw-rw-r--  0 0      0      196626  2 Aug  1998 env/nburbdn.tga
+-rw-rw-r--  0 0      0        3676  3 Aug  1998 env/nburbft.pcx
+-rw-rw-r--  0 0      0      196626  3 Aug  1998 env/nburbft.tga
+-rw-rw-r--  0 0      0        3676  3 Aug  1998 env/nburblf.pcx
+-rw-rw-r--  0 0      0      196626  3 Aug  1998 env/nburblf.tga
+-rw-rw-r--  0 0      0        3676  3 Aug  1998 env/nburbrt.pcx
+-rw-rw-r--  0 0      0      196626  3 Aug  1998 env/nburbrt.tga
+-rw-rw-r--  0 0      0        3869  3 Aug  1998 env/nburbup.pcx
+-rw-rw-r--  0 0      0        3676  3 Aug  1998 env/nburbbk.pcx
+-rw-rw-r--  0 0      0        8317 15 Aug  1998 v95.txt
+```
+
 Changelog from readme:
 
 ```text
@@ -3225,3 +3462,5 @@ Archives:
 * [Action Quake 2 Community Archive](https://archives.aq2world.com/)
 * [Action Quake II](https://www.frag-net.com/mod_quake2_action.html)
 * [Action Quake II Archive](https://archive.org/details/action-quake-2)
+* <https://aq2world.s3.amazonaws.com/>
+

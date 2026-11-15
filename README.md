@@ -39,7 +39,7 @@ Release Date | File | Description
 19980627 | gamei386.so.gz | AQ2 v0.93 Linux
 19980719 | ver94dll.zip | AQ2 v0.94
 19980725 | ver94lnx.zip | AQ2 v0.94 Linux
-19980815 | [actn95cl.exe](bin/actn95cl.exe)<br>actn95cl.zip<br>ver95dll.zip | AQ2 v0.95
+19980815 | [actn95cl.exe](bin/actn95cl.exe)<br>[actn95cl.zip](bin/actn95cl.zip)<br>ver95dll.zip | AQ2 v0.95
 19980819 | ver95adl.zip | AQ2 v0.95a
 19980908 | actn98up.zip | AQ2 v0.98
 19980909 | actn99up.zip<br>actn99up.exe | AQ2 v0.99

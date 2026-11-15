@@ -45,9 +45,6 @@ ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/ver94lnx.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/ver94lnx.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/ver94lnx.zip
 
-# actn95cl.zip
-ftp://ftp.gamesnet.net/pub/bluesnews/quake2/action/actn95cl.zip
-
 # ver95dll.zip
 ftp://ftp.epix.net/pub/telefragged/action/ver95dll.zip
 ftp://ftp.saix.net/pub/telefragged/action/ver95dll.zip
