@@ -49,8 +49,10 @@ ver95dll.zip
 ver95adl.zip
 
 actn98up.zip
+actn98up.exe
 
 actn99up.zip
+actn99up.exe
 
 actn10cl.zip
 
