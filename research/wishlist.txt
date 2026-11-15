@@ -51,8 +51,6 @@ actn98up.exe
 actn99up.zip
 actn99up.exe
 
-actn10cl.zip
-
 actn10b.zip
 # guess
 actn10b.exe

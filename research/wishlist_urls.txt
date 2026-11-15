@@ -72,21 +72,6 @@ http://games.gci.net/pub/Quake2/QuakeMods/Action/actn99up.zip
 # actn99up.exe
 http://thedome.inet.fi/download/actn99up.exe
 
-# actn10cl.zip
-ftp://ftp.epix.net/pub/telefragged/action/actn10cl.zip
-ftp://ftp.gamesnet.net/pub/bluesnews/quake2/action/actn10cl.zip
-ftp://ftp.saix.net/pub/telefragged/action/actn10cl.zip
-ftp://ftp.telefragged.com/action/actn10cl.zip
-ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/actn10cl.zip
-ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/actn10cl.zip
-ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/actn10cl.zip
-http://ftp.telepac.pt/pub/idgames2/telefragged/action/actn10cl.zip
-http://games.gci.net/pub/Quake2/QuakeMods/Action/actn10cl.zip
-http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/action/actn10cl.zip
-http://sunsite.org.uk/packages/idgames2/telefragged/action/actn10cl.zip
-http://thedome.inet.fi/download/actn10cl.zip
-http://www.telefragged.com/mirrors/mirror.pl?action/actn10cl.zip
-
 # actn10b.zip
 http://games.gci.net/pub/Quake2/QuakeMods/Action/actn10b.zip
 http://www.telefragged.com/mirrors/mirror.pl?action/actn10b.zip
