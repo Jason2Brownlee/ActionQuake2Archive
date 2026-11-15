@@ -440,6 +440,68 @@ Changelog from later readmes:
 > * Dropping the sniper rifle while using it no longer causes "problems"
 > * The jump kick has been tweaked.  You will no longer be "kicked back" by stationary targets.
 
+Contents of `actn92cl.exe`:
+
+```text
+drwxrwxr-x  0 0      0           0 27 May  1998 action/
+drwxrwxr-x  0 0      0           0 27 May  1998 action/maps/
+-rw-rw-r--  0 0      0     1679556 25 May  1998 action/maps/office3.bsp
+-rw-rw-r--  0 0      0        2461 25 May  1998 action/maps/office3.txt
+-rw-rw-r--  0 0      0     3748516 25 May  1998 action/maps/prison76.bsp
+-rw-rw-r--  0 0      0        1851 25 May  1998 action/maps/prison76.txt
+-rw-rw-r--  0 0      0        1556 26 May  1998 action/maps/mall1.txt
+-rw-rw-r--  0 0      0     2428904 26 May  1998 action/maps/mall1.bsp
+-rw-rw-r--  0 0      0     3121779 27 May  1998 action/pak0.pak
+drwxrwxr-x  0 0      0           0 27 May  1998 action/players/
+drwxrwxr-x  0 0      0           0 27 May  1998 action/players/male/
+-rw-rw-r--  0 0      0        8480 10 Apr  1998 action/players/male/bluebeard.pcx
+-rw-rw-r--  0 0      0        1706 22 Mar  1998 action/players/male/bluebeard_i.pcx
+-rw-rw-r--  0 0      0       11599 10 Apr  1998 action/players/male/chow.pcx
+-rw-rw-r--  0 0      0        1944 22 Mar  1998 action/players/male/chow_i.pcx
+-rw-rw-r--  0 0      0       61661 27 Nov  1997 action/players/male/commando.pcx
+-rw-rw-r--  0 0      0        2017  3 Apr  1998 action/players/male/commando_i.pcx
+-r--r--r--  0 0      0       38912 27 Nov  1997 action/players/male/weapon.md2
+-r--r--r--  0 0      0      278592 27 Nov  1997 action/players/male/tris.md2
+-rw-rw-r--  0 0      0        1773 27 May  1998 action/players/male/cyrus_i.pcx
+-rw-rw-r--  0 0      0        2156 27 May  1998 action/players/male/indy_i.pcx
+-rw-rw-r--  0 0      0       26461 26 May  1998 action/players/male/sabotage.pcx
+-rw-rw-r--  0 0      0       11110  5 Apr  1998 action/players/male/cyrus.pcx
+-rw-rw-r--  0 0      0       33265 10 Apr  1998 action/players/male/indy.pcx
+-rw-rw-r--  0 0      0       13857 22 Mar  1998 action/players/male/madmax.pcx
+-rw-rw-r--  0 0      0        1875 22 Mar  1998 action/players/male/madmax_i.pcx
+-rw-rw-r--  0 0      0       21593 15 Mar  1998 action/players/male/mcclane.pcx
+-rw-rw-r--  0 0      0        2020 29 Mar  1998 action/players/male/mcclane_i.pcx
+-rw-rw-r--  0 0      0       25148 16 Mar  1998 action/players/male/rambo.pcx
+-rw-rw-r--  0 0      0        1817 22 Mar  1998 action/players/male/rambo_i.pcx
+-rw-rw-r--  0 0      0        9217 16 Mar  1998 action/players/male/resdog.pcx
+-rw-rw-r--  0 0      0        1712 16 Mar  1998 action/players/male/resdog_i.pcx
+-r--r--r--  0 0      0        9089 27 Nov  1997 action/players/male/weapon.pcx
+-rw-rw-r--  0 0      0        2026 27 May  1998 action/players/male/sabotage_i.pcx
+drwxrwxr-x  0 0      0           0 27 May  1998 action/players/female/
+-r--r--r--  0 0      0       50897 27 Nov  1997 action/players/female/brianna.pcx
+-r--r--r--  0 0      0        1968 27 Nov  1997 action/players/female/brianna_i.pcx
+-r--r--r--  0 0      0       52745 27 Nov  1997 action/players/female/ensign.pcx
+-r--r--r--  0 0      0        1971 27 Nov  1997 action/players/female/ensign_i.pcx
+-r--r--r--  0 0      0       51062 27 Nov  1997 action/players/female/jezebel.pcx
+-r--r--r--  0 0      0        1950 27 Nov  1997 action/players/female/jezebel_i.pcx
+-r--r--r--  0 0      0       61037 27 Nov  1997 action/players/female/jungle.pcx
+-r--r--r--  0 0      0        2118 27 Nov  1997 action/players/female/jungle_i.pcx
+-r--r--r--  0 0      0      275632 27 Nov  1997 action/players/female/tris.md2
+-r--r--r--  0 0      0       50891 27 Nov  1997 action/players/female/venus.pcx
+-r--r--r--  0 0      0        1963 27 Nov  1997 action/players/female/venus_i.pcx
+-r--r--r--  0 0      0       38912 27 Nov  1997 action/players/female/weapon.md2
+-r--r--r--  0 0      0        9089 27 Nov  1997 action/players/female/weapon.pcx
+-rw-rw-r--  0 0      0        2188  5 Feb  1998 action/players/female/leeloo_i.pcx
+-rw-rw-r--  0 0      0       38382  5 Feb  1998 action/players/female/leeloo.pcx
+-rw-rw-r--  0 0      0         954  8 Feb  1998 action/players/female/leeloo.txt
+-rw-rw-r--  0 0      0        8303 26 May  1998 action/action.txt
+-rw-rw-r--  0 0      0        2238  1 Apr  1998 action/actq2.ico
+-rw-rw-r--  0 0      0      539648 26 May  1998 action/gamex86.dll
+-rw-rw-r--  0 0      0        7807 27 May  1998 action/readme.txt
+-rw-rw-r--  0 0      0         274 26 May  1998 action/server.cfg
+-rw-rw-r--  0 0      0        2631 26 May  1998 action/v92.txt
+```
+
 ## v0.92 DLL
 
 Released as `ver92dll.zip` on May 28 1998.

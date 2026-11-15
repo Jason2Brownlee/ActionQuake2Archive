@@ -15,15 +15,6 @@ ftp://ftp.telefragged.com/pub/action/ver87dll.zip
 # v8X-v91.zip
 http://www.telefragged.com/mirrors/mirror.pl?action/v8X-v91.zip
 
-# actn92cl.exe
-ftp://ftp.epix.net/pub/telefragged/action/actn92cl.exe
-ftp://ftp.saix.net/pub/telefragged/action/actn92cl.exe
-ftp://ftp.telefragged.com/action/actn92cl.exe
-ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/action/actn92cl.exe
-ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/action/actn92cl.exe
-ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/action/actn92cl.exe
-http://www.telefragged.com/mirrors/mirror.pl?action/actn92cl.exe
-
 # ver92dll.zip
 http://www.telefragged.com/mirrors/mirror.pl?action/ver92dll.zip
 
